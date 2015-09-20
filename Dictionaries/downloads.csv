@@ -1,4 +1,4 @@
-﻿FilePath,DownloadUrl
+﻿"DownloadUrl","FilePath"
 https://raw.githubusercontent.com/kohelet-net-admin/zefania-xml-bibles/master/Dictionaries/ENG/Easton%20Dictionary/SF_2005-05-23_ENG_EASTON_(EASTON%20DICTIONARY).xml",".\ENG\Easton Dictionary\SF_2005-05-23_ENG_EASTON_(EASTON DICTIONARY).xml"
 https://raw.githubusercontent.com/kohelet-net-admin/zefania-xml-bibles/master/Dictionaries/ENG/King%20James%20Version%20-%20concordance/SF_2005-12-06_ENG_KJV-CONC_(KING%20JAMES%20VERSION%20-%20CONCORDANCE).xml",".\ENG\King James Version - concordance\SF_2005-12-06_ENG_KJV-CONC_(KING JAMES VERSION - CONCORDANCE).xml"
 https://raw.githubusercontent.com/kohelet-net-admin/zefania-xml-bibles/master/Dictionaries/ENG/Naves%20Topical%20Bible/SF_2005-07-18_ENG_NAVETB_(NAVE'S%20TOPICAL%20BIBLE).xml",".\ENG\Naves Topical Bible\SF_2005-07-18_ENG_NAVETB_(NAVE'S TOPICAL BIBLE).xml"
