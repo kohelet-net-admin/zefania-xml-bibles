@@ -1,238 +1,239 @@
-﻿.\AFR\1933\1953 Afrikaans Bybel\SF_2009-01-20_AFR_AFR3353_(1933_1953 AFRIKAANS BYBEL).xml
-.\ALB\Albanian Version\SF_2009-01-20_ALB_ALB1_(ALBANIAN VERSION).xml
-.\ARA\New Arabic Version (Ketab El Hayat)\SF_2012-01-07_ARA_ARANAV_(NEW ARABIC VERSION (KETAB EL HAYAT)).xml
-.\ARA\Smith Van Dyke Arabic Bible\SF_2009-01-20_ARA_ARASVD_(SMITH VAN DYKE ARABIC BIBLE).xml
-.\BAQ\Basque(Navarro-Labourdin)NT\SF_2009-01-20_BAQ_BASQ1571_(BASQUE(NAVARRO-LABOURDIN)NT).xml
-.\BUL\Bulgarian NT 1914\SF_2009-03-26_BUL_BULCARIGRADNT_(BULGARIAN NEW TESTAMENT FROM 1914, KNOWN AS 'TSARIGRAD EDITION').xml
-.\BUL\Verens Contemporary Bible\SF_2010-01-10_BUL_BULVEREN_(VEREN'S CONTEMPORARY BIBLE).xml
-.\CEB\Cebuano Ang Biblia (Bugna Version)\SF_2009-01-20_CEB_CEB-B_(CEBUANO ANG BIBLIA (BUGNA VERSION)).xml
-.\CEB\Cebuano Ang Biblia (Pinadayag Version)\SF_2009-01-20_CEB_CEB-P_(CEBUANO ANG BIBLIA (PINADAYAG VERSION)).xml
-.\CHA\SF_2010-01-10_CHA_CHAMORRO_(CHAMORRO Y SANTA BIBLIA (1908)).xml
-.\CHI\Chinese Union Version\SF_2009-01-20_CHI_CHI_(CHINESE UNION VERSION).xml
-.\CHI\CHINESE UNION VERSION Simplified\SF_2004-10-17_CHI_CHIUS_(CHINESE UNION VERSION SIMPLIFIED).xml
-.\CHI\New Chinese Version Simplified\SF_2009-01-20_CHI_CVS_(NEW CHINESE VERSION SIMPLIFIED).xml
-.\CHU\1757 Church Slavonic Elizabeth Bible\SF_2014-02-27_CHU_CSLELIZABETH_(1757 CHURCH SLAVONIC ELIZABETH BIBLE).xml
-.\CKB\SF_2015-08-16_CKB_SORA_(KURDISH NEW TESTAMENT).xml
-.\COP\Coptic NT Bohairic\SF_2014-02-26_COP_BONT_(BOHAIRIC NT).xml
-.\CZE\Cesky studijni preklad\SF_2015-05-20_CZE_ČSP_(ČESKÝ STUDIJNÍ PŘEKLAD).xml
-.\CZE\Czech BKR\Czech BKR\SF_2014-11-23_CZE_CZBKR_(CZECH BKR).xml
-.\CZE\Czech BKR\Czech BKR\sf_czech_bkr.xml
-.\CZE\Czech BKR\SF_2009-01-20_CZE_CZBKR_(CZECH BKR).xml
-.\CZE\Czech Ekumenicky Cesky preklad\Czech Ekumenicky Cesky preklad\SF_2014-11-23_CZE_CZECEP_(CZECH EKUMENICKY CESKY PREKLAD).xml
-.\CZE\Czech Ekumenicky Cesky preklad\Czech Ekumenicky Cesky preklad\sf_czecep.xml
-.\CZE\Czech Ekumenicky Cesky preklad\SF_2009-01-23_CZE_CZECEP_(CZECH EKUMENICKY CESKY PREKLAD).xml
-.\CZE\Czech Preklad 21\SF_2009-07-31_CZE_CZEB21_(CZECH BIBLE, PREKLAD 21. STOLETI).xml
-.\CZE\Czech Preklad 21\SF_2014-11-23_CZE_CZEB21_(CZECH BIBLE, PŘEKLAD 21. STOLETÍ).xml
-.\CZE\Nova Bible Kralicka NKB\SF_2014-03-11_CZE_CZNBK_(CZECH NKB).xml
-.\DAN\Danish Version\SF_2009-01-20_DAN_DAN_(DANISH VERSION).xml
-.\ENG\A Conservative Version\SF_2009-01-20_ENG_ACV_(A CONSERVATIVE VERSION).xml
-.\ENG\American Standard Version\SF_2009-01-20_ENG_ASV_(AMERICAN STANDARD VERSION).xml
-.\ENG\Bible in Basic English\SF_2009-01-20_ENG_BBE_(BIBLE IN BASIC ENGLISH).xml
-.\ENG\Bible in Worldwide English\SF_2012-02-07_ENG_BWE_(BIBLE IN WORLDWIDE ENGLISH).xml
-.\ENG\Bible in Worldwide English\SF_2015-08-14_ENG_BWE96_(BIBLE IN WORLDWIDE ENGLISH).xml
-.\ENG\Bible in Worldwide English NT\SF_2009-01-20_ENG_BWE_(BIBLE IN WORLDWIDE ENGLISH NT).xml
-.\ENG\Brentons English Septuagint\SF_2009-01-20_ENG_LXXE_(BRENTON'S ENGLISH SEPTUAGINT).xml
-.\ENG\Catholic Public Domain Version\SF_2014-02-26_ENG_CPDV_(CATHOLIC PUBLIC DOMAIN VERSION).xml
-.\ENG\Darby Bible\SF_2009-01-20_ENG_DARBY_(DARBY BIBLE).xml
-.\ENG\Diaglot NT - 1865\SF_2009-01-20_ENG_DIAGLOT_(DIAGLOT NT - 1865).xml
-.\ENG\Douay Rheims\SF_2013-12-05_ENG_DOUR_(DOUAY RHEIMS).xml
-.\ENG\English Jubilee 2000 Bible\SF_2009-01-20_ENG_JUBL2000_(ENGLISH JUBILEE 2000 BIBLE).xml
-.\ENG\English Majority Text Version\SF_2009-04-13_ENG_EMTV_(ENGLISH MAJORITY TEXT VERSION).xml
-.\ENG\Etheridge\SF_2010-02-21_ENG_ETHERIDGE_(THE PESCHITO SYRIAC NEW TESTAMENT).xml
-.\ENG\Geneva Bible\SF_2009-01-20_ENG_GB_(GENEVA BIBLE).xml
-.\ENG\Greens Literal Translation\SF_2009-04-08_ENG_LITV_(GREEN'S LITERAL TRANSLATION).xml
-.\ENG\ISV NT\SF_2009-01-22_ENG_ISV_(ISV NT).xml
-.\ENG\Jewish Publication Society AT\SF_2009-01-23_ENG_JPS_(JEWISH PUBLICATION SOCIETY AT).xml
-.\ENG\John Wycliffe Bible\SF_2009-01-20_ENG_BIBLE_WYCLIFFE_(JOHN WYCLIFFE BIBLE).xml
-.\ENG\King James\American King James Version\SF_2009-01-20_ENG_BIBLE_AKJV_(AMERICAN KING JAMES VERSION).xml
-.\ENG\King James\King James 2000\SF_2009-01-20_ENG_KJ2000_(KING JAMES 2000).xml
-.\ENG\King James\King James Clarified NT\SF_2009-01-20_ENG_KJVCNT_(KING JAMES CLARIFIED NT).xml
-.\ENG\King James\King James Version\SF_2009-01-23_ENG_KJV_(KING JAMES VERSION).xml
-.\ENG\King James\King James Version Pure Cambridge Edition\SF_2014-02-26_ENG_KJVPCE_(KING JAMES VERSION PCE).xml
-.\ENG\King James\King James Version with Apokryphen\SF_2009-01-23_ENG_KJVAK_(KING JAMES VERSION WITH APOKRYPHEN).xml
-.\ENG\King James\KJV+\SF_2009-01-20_ENG_KJV_(KJV+).xml
-.\ENG\King James\Modern KJV 1963\SF_2009-01-23_ENG_MKJV1962_(MODERN KJV 1963).xml
-.\ENG\King James\Revised King James New Testament\SF_2009-01-20_ENG_RKJVNT_(REVISED KING JAMES NEW TESTAMENT).xml
-.\ENG\King James\Updated King James Version\SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).xml
-.\ENG\Leeser Old Testament\SF_2009-01-20_ENG_LEESER_(LEESER OLD TESTAMENT).xml
-.\ENG\Living Oracles NT\SF_2009-01-20_ENG_LONT_(LIVING ORACLES NT).xml
-.\ENG\Montgomery New Testament\SF_2009-01-20_ENG_MONT_(MONTGOMERY NEW TESTAMENT).xml
-.\ENG\New Heart English Bible\SF_2012-02-07_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml
-.\ENG\New Heart English Bible\SF_2014-02-26_ENG_NHEBJE_(NEW HEART ENGLISH BIBLE - JEHOVAH EDITION).xml
-.\ENG\New Heart English Bible\SF_2014-02-26_ENG_NHEBME_(NEW HEART ENGLISH BIBLE - MESSIANIC EDITION).xml
-.\ENG\New Heart English Bible\SF_2015-08-15_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml
-.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBJE_(NNEW HEART ENGLISH BIBLE SPECIAL EDITION (JEHOVAH)).xml
-.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBJM_(NEW HEART ENGLISH BIBLE SPECIAL EDITION (JESUS MESSIAH)).xml
-.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBME_(NEW HEART ENGLISH BIBLE ME).xml
-.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBNTAN_(NEW HEART ENGLISH BIBLE SPECIAL EDITION, WITH ARAMAIC NAMES NEW TESTAMENT).xml
-.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBYHWH_(NEW HEART ENGLISH BIBLE (YHWH)).xml
-.\ENG\New Simplified Bible\SF_2009-01-20_ENG_NSB_(NEW SIMPLIFIED BIBLE).xml
-.\ENG\Noyes Translation\SF_2009-01-20_ENG_NOYES_(NOYES TRANSLATION).xml
-.\ENG\Open English Bible (Commonwealth Spelling)\SF_2014-02-26_ENG_OEBCTH_(OPEN ENGLISH BIBLE (COMMONWEALTH SPELLING)).xml
-.\ENG\Open English Bible (US Spelling)\SF_2012-08-08_ENG_OEB_(OPEN ENGLISH BIBLE (US SPELLING)).xml
-.\ENG\Revised 1833 Webster Version\SF_2009-01-20_ENG_RWEBSTER_(REVISED 1833 WEBSTER VERSION).xml
-.\ENG\Revised 1833 Webster Version with Strongs\SF_2009-01-22_ENG_RWEBSTER_(REVISED 1833 WEBSTER VERSION WITH STRONGS).xml
-.\ENG\Revised Standard Version\SF_2009-01-22_ENG_RSV_(REVISED STANDARD VERSION).xml
-.\ENG\Revised Youngs Literal Translation NT\SF_2009-01-22_ENG_RYLT_(REVISED YOUNG'S LITERAL TRANSLATION NT).xml
-.\ENG\Rotherham Version\SF_2009-01-22_ENG_ROTH_(ROTHERHAM VERSION).xml
-.\ENG\Samaritan Pentateuch in English\SF_2014-02-26_ENG_SPE_(SAMARITAN PENTATEUCH IN ENGLISH).xml
-.\ENG\The Book of Mormon\SF_2009-01-23_ENG_BOM_(THE BOOK OF MORMON).xml
-.\ENG\The Common Edition New Testament\SF_2009-01-20_ENG_TCE_(THE COMMON EDITION NT).xml
-.\ENG\The Epistle to the Galatians English version of the translation by Hermann Detering\SF_25.04.2004_ENG_MARCGAL_(THE EPISTLE TO THE GALATIANS(DETERING)).xml
-.\ENG\The Lexham English Bible\SF_2010-03-29_ENG_LEB_(THE LEXHAM ENGLISH BIBLE).xml
-.\ENG\The Orthodox Jewish Brit Chadasha\SF_2009-01-23_ENG_ORTHJBC_(THE ORTHODOX JEWISH BRIT CHADASHA).xml
-.\ENG\The Riverside New Testament\SF_2009-01-20_ENG_RNT_(THE RIVERSIDE NEW TESTAMENT).xml
-.\ENG\Torreys Topical Textbook\SF_2006-03-02_ENG_TTB_(TORREY'S TOPICAL TEXTBOOK).xml
-.\ENG\Updated Bible Version\SF_2009-01-20_ENG_UPDV_(UPDATED BIBLE VERSION).xml
-.\ENG\VW-Edition 2006\SF_2009-01-20_ENG_XXX_(VW-EDITION 2006).xml
-.\ENG\Webster\SF_2013-12-05_ENG_WBS_(WEBSTER).xml
-.\ENG\Wesleys NT\SF_2009-01-20_ENG_WESLEY_(WESLEY'S NT).xml
-.\ENG\Weymouth NT\SF_2009-01-20_ENG_WMTH_(WEYMOUTH NT).xml
-.\ENG\Willam Tyndale Bible\SF_2009-01-20_ENG_BIBLE_TYNDALE_(WILLAM TYNDALE BIBLE).xml
-.\ENG\World English Bible\SF_2009-01-20_ENG_WEB_(WORLD ENGLISH BIBLE).xml
-.\ENG\World English Bible - British Edition\SF_2014-02-26_ENG_WEBBE_(WORLD ENGLISH BIBLE - BRITISH EDITION).xml
-.\ENG\World English Bible - Messianic Edition\SF_2014-02-26_ENG_WEBME_(WORLD ENGLISH BIBLE - MESSIANIC EDITION).xml
-.\ENG\YLT\SF_2009-01-20_ENG_YLT_(YLT).xml
-.\ESP\Esperanto Bible\SF_2009-01-20_ESP_ESP_(ESPERANTO BIBLE).xml
-.\FIN\Finish Version\SF_2009-01-20_FIN_FIN_(FINISH VERSION).xml
-.\FRE\Bible de Geneve de 1669\SF_2009-06-01_FRE_BGNT1669_(BIBLE DE GENÔVE DE 1669).xml
-.\FRE\Bible des Peuples\SF_2011-07-10_FRE_BDP_(BIBLE DES PEUPLES).xml
-.\FRE\Bible Martin\SF_2009-01-20_FRE_BM1744_(BIBLE MARTIN 1744).xml
-.\FRE\Bible Martin\SF_2014-04-26_FRE_BM1707_(BIBLE MARTIN 1707).xml
-.\FRE\Bible Perret-Gentil et Rilliet\SF_2012-01-07_FRE_FREPGR_(BIBLE PERRET-GENTIL ET RILLIET).xml
-.\FRE\Bible Pirot-Clamer\SF_2009-06-02_FRE_BDC_(BIBLE PIROT-CLAMER).xml
-.\FRE\Bible Vigouroux 1902\SF_2012-03-16_FRE_VIGOUROUX_(BIBLE VIGOUROUX 1902).xml
-.\FRE\French Bible Bovet Bonnet (1900)\SF_2009-03-25_FRE_FREBBB_(FRENCH BIBLE BOVET BONNET (1900)).xml
-.\FRE\French Darby\SF_2009-01-20_FRE_FRDARB_(FRENCH DARBY).xml
-.\FRE\French Darby 2006\SF_2009-06-06_FRE_JND_(FRENCH DARBY 2006).xml
-.\FRE\French Louis Segond\SF_2009-01-20_FRE_FREN_(FRENCH LOUIS SEGOND).xml
-.\FRE\King James Francais\SF_2010-10-10_FRE_KJF_(KING JAMES FRAN€AISE).xml
-.\FRE\La Bible Augustin Crampon 1923\SF_2009-01-20_FRE_CRAMP23_(LA BIBLE AUGUSTIN CRAMPON 1923).xml
-.\FRE\La Bible de Jerusalem\SF_2004-11-13_FRE_DEJER_(LA BIBLE DE JRUSALEM).xml
-.\FRE\La Bible de Saci 1759\SF_2010-09-05_FRE_SACC_(LA BIBLE DE SACI 1759).xml
-.\FRE\La Bible de Zadoc Khan\SF_2009-12-21_FRE_BZKH_(LA BIBLE DE ZADOC KHAN).xml
-.\FRE\La Bible J.F. Ostervald 1996\SF_2009-01-20_FRE_OSTV1996_(LA BIBLE JF OSTERVALD 1996).xml
-.\FRE\La Bible Machaira 2012\SF_2013-04-12_FRE_MACH2012_(LA BIBLE MACHAIRA).xml
-.\FRE\La Bible Ostervald 1877\SF_2013-04-19_FRE_BO1877_(OSTERVALD 1877).xml
-.\FRE\Sainte Bible Fillion\SF_2010-05-15_FRE_FILL_(LA BIBLE FILLION DE LOUIS CLAUDE FILLION).xml
-.\GAE\Gaelic Gospel of Mark\SF_2009-01-20_GAE_GAES_(GAELIC GOSPEL OF MARK).xml
-.\GER\Abraham Meister NT\SF_2009-01-20_GER_AMNT_(ABRAHAM MEISTER NT).xml
-.\GER\Albrecht Bibel 1926\SF_2009-01-20_GER_ALBRECHT1926_(ALBRECHT BIBEL 1926).xml
-.\GER\Alemannische Bibel NT\SF_2009-01-20_GER_ALMNT_(ALEMANNISCHE BIBEL NT).xml
-.\GER\Bengel NT\SF_2009-01-20_GER_BIBLE_GERBEN_(BENGEL NT).xml
-.\GER\Elberfelder\Elberfelder 1905\SF_2009-01-20_GER_ELB1905_(ELBERFELDER 1905).xml
-.\GER\Elberfelder\Elberfelder 1905\SF_2009-01-22_GER_ELB1905STR_(ELBERFELDER 1905).xml
-.\GER\FreeBible2004\SF_2009-01-20_GER_FB2004_(FREEBIBLE2004).xml
-.\GER\Gruenewalder\SF_2009-01-20_GER_GB_(GRšNEWALDER).xml
-.\GER\Interlinearuebersetzung\SF_2009-01-20_GER_ILGRDE_(INTERLINEARšBERSETZUNG).xml
-.\GER\Johannes Greber 1936 NT\SF_2009-01-20_GER_GREB_(JOHANNES GREBER 1936 NT).xml
-.\GER\Konkordantes NT\SF_2009-01-22_GER_KNT_(KONKORDANTES NT).xml
-.\GER\Leander van Ess\SF_2012-07-12_GER_VANESS_(LEANDER VAN ESS_REV2).xml
-.\GER\Lutherbibel\Luther 1545\SF_2009-01-20_GER_LUTH1545_(LUTHER 1545).xml
-.\GER\Lutherbibel\Luther 1545 (Letzte Hand)\SF_2009-01-20_GER_LUT_1545_LH_(LUTHER 1545 (LETZTE HAND)).xml
-.\GER\Lutherbibel\Luther 1545 (Letzte Hand)\SF_2012-08-14_DEUTSCH_LUT_1545_LH_(LUTHER 1545 (LETZTE HAND)).xml
-.\GER\Lutherbibel\Luther 1545 mit Strongs\SF_2009-01-20_GER_LUTH1545STR_(LUTHER 1545 MIT STRONGS).xml
-.\GER\Lutherbibel\Luther 1912\SF_2009-01-20_GER_LUTH1912_(LUTHER 1912).xml
-.\GER\Lutherbibel\Luther 1912 - mit Apokryphen\SF_2006-12-20_GER_LUTH1912AP_(LUTHER 1912 - MIT APOKRYPHEN).xml
-.\GER\Menge-Bibel\SF_2010-01-01_GER_MENG39_(MENGE-BIBEL).xml
-.\GER\Neue evangelistische Uebersetzung\SF_2009-01-20_GER_NEš_(NEUE EVANGELISTISCHE šBERSETZUNG).xml
-.\GER\Neue evangelistische Uebersetzung\SF_2010-06-10_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml
-.\GER\Neue evangelistische Uebersetzung\SF_2012-01-07_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml
-.\GER\Neue evangelistische Uebersetzung\SF_2014-02-25_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml
-.\GER\Neue evangelistische Uebersetzung\SF_2014-03-23_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml
-.\GER\Neue evangelistische Uebersetzung\SF_2014-09-30_GER_NEš_(NEUE EVANGELISTISCHE šBERSETZUNG (NEš)).xml
-.\GER\Pattloch Bibel\SF_2009-01-20_GER_PAT80_(PATTLOCH BIBEL).xml
-.\GER\Pattloch Bibel\SF_2011-01-24_GER_PAT80_(PATTLOCH BIBEL).xml
-.\GER\Reinhardt 1910 Evangelien\SF_2009-01-20_GER_REI10EV_(REINHARDT 1910 EVANGELIEN).xml
-.\GER\Schlachterbibel\Schlachter 1951\SF_2009-01-20_GER_SCH1951_(SCHLACHTER 1951).xml
-.\GER\Schlachterbibel\Schlachter Bibel 1951 with Strong\SF_2009-01-20_GER_SCH1951_(SCHLACHTER BIBEL 1951 WITH STRONG).xml
-.\GER\Tafelbibel\SF_2009-01-20_GER_TAF_(TAFELBIBEL).xml
-.\GER\Textbibel\SF_2009-01-20_GER_TEXTBIBELAT_(TEXTBIBEL).xml
-.\GER\Textbibel\SF_2009-04-06_GER_TB_(TEXTBIBEL).xml
-.\GER\Volxbibel 3.0\SF_2009-01-20_GER_VLX3_(VOLXBIBEL 3_0).xml
-.\GER\Zuercher Bibel 1931\SF_2009-04-12_GER_ZšRCHER_(ZšRCHER BIBEL 1931).xml
-.\GLA\Gaelic Scripture (Manx Gaelic)\SF_2009-01-23_GLA_GLA2_(GAELIC SCRIPTURE (MANX GAELIC)).xml
-.\GOT\Gothic Codex Ambrosianus A, and Manuscripts\SF_2009-01-23_GOT_GOTA_(GOTHIC CODEX AMBROSIANUS A, AND MANUSCRIPTS).xml
-.\GOT\Gothic Codices Ambrosianus B\SF_2009-01-23_GOT_GOTB_(GOTHIC CODICES AMBROSIANUS B).xml
-.\GRC\Antoniades Patriarchal Edition (1904-1912)\SF_2014-02-25_GRC_ANTONIADES_(ANTONIADES PATRIARCHAL EDITION (1904-1912)).xml
-.\GRC\Byzantine\Majority Text (2000)\SF_2009-01-20_GRC_BZY2000_(BYZANTINE MAJORITY TEXT (2000 PLUS STRONGS)).xml
-.\GRC\Byzantine\Majority Text (2000)\SF_2009-01-20_GRC_BZY2000_(BYZANTINE MAJORITY TEXT (2000)).xml
-.\GRC\Elzevir Textus Receptus (1624)\SF_2014-02-25_GRC_ELZEVIR_(ELZEVIR TEXTUS RECEPTUS (1624)).xml
-.\GRC\Family 35 group of Byzantine manuscripts\SF_2014-02-25_GRC_F35_(FAMILY 35).xml
-.\GRC\Greek New Testament\SF_2005-03-14_GRC_GNTV_(GREEK NEW TESTAMENT(VARIANTS)).xml
-.\GRC\Greek NT 1550\SF_2009-01-20_GRC_GREEK1550_(GREEK NT 1550).xml
-.\GRC\Greek NT 1894\SF_2009-01-20_GRC_GREEK1894_(GREEK NT 1894).xml
-.\GRC\Greek NT Tischendorf 8th Ed\SF_2009-01-20_GRC_GRTISCH8_(GREEK NT TISCHENDORF 8TH ED).xml
-.\GRC\Greek WH\SF_2009-01-20_GRC_GREEKWH_(GREEK WH).xml
-.\GRC\Modern Greek\SF_2009-01-20_GRC_GREEKM_(MODERN GREEK).xml
-.\GRC\Robinson\Pierpont Byzantine Greek NT\SF_2009-01-20_GRC_GNT_(ROBINSON PIERPONT BYZANTINE GREEK NT).xml
-.\GRC\Septuaginta LXX\SF_2009-01-20_GRC_LXX_(SEPTUAGINTA LXX).xml
-.\GRC\Textus Receptus NT\Strongs Numbers\SF_2009-01-20_GRC_GNTTR_(TEXTUS RECEPTUS NT(STRONGS)).xml
-.\GRC\The Analytic Septuagint\SF_2009-01-20_GRC_ALXX_(THE ANALYTIC SEPTUAGINT).xml
-.\GRC\The New Testament in the Original Greek - Byzantine Textform 2005\SF_2014-02-25_GRC_BYZ_(THE NEW TESTAMENT IN THE ORIGINAL GREEK - BYZANTINE TEXTFORM 2005).xml
-.\GRC\Tischendorf Greek NT\SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF GREEK NT(STRONGS)).xml
-.\GRC\Tischendorf Greek NT\SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF GREEK NT).xml
-.\GRC\Westcott-Hort Greek NT\Strongs Numbers\SF_2009-01-20_GRC_GNTWH_(WESTCOTT-HORT GREEK NEW TESTAMENT(STRONGS)).xml
-.\GRE\Tischendorf Greek NT\SF_2009-01-20_GRE_TISCHENDORF_(TISCHENDORF GREEK NT).xml
-.\HAT\Haitian Creole Version\SF_2009-01-20_HAT_HAT_(HAITIAN CREOLE VERSION).xml
-.\HEB\Aleppo Codex\SF_2009-01-22_HEB_ALEP_(ALEPPO CODEX).xml
-.\HEB\Biblia hebraica\SF_2009-01-20_HEB_BHS_(BIBLIA HEBRAICA).xml
-.\HEB\Miqra al pi ha-Mesorah\SF_2014-07-09_HEB_MAPM_(MIQRA AL PI HA-MESORAH).xml
-.\HEB\Modern Hebrew Bible\SF_2009-01-23_HEB_HEBM_(MODERN HEBREW BIBLE).xml
-.\HEB\Open Scriptures Morphological Hebrew Bible\SF_2012-04-21_HEB_OSMHB_(OPEN SCRIPTURES MORPHOLOGICAL HEBREW BIBLE).xml
-.\HEB\Westminster Leningrad Codex\SF_2009-01-20_HEB_WCL_(WESTMINSTER LENINGRAD CODEX).xml
-.\HIN\SF_2015-08-16_HIN_HINERV_(EASY-TO-READ VERSION (HINDI ERV)).xml
-.\HUN\Hungarian Version\SF_2009-01-20_HUN_HUN_(HUNGARIAN VERSION).xml
-.\HUN\Magyar Ujforditasu Biblia\SF_2005-03-10_HUN_HUNUJ_(MAGYAR éJFORDÖTµSé BIBLIA).xml
-.\ITA\1649 Italian Giovanni Diodati Bibbia\SF_2009-01-23_ITA_ITADIO_(1649 ITALIAN GIOVANNI DIODATI BIBBIA).xml
-.\ITA\Italian Version\SF_2009-01-20_ITA_ITALIAN1_(ITALIAN VERSION).xml
-.\ITA\La Bibbia CEI 74\SF_2009-01-20_ITA_CEI74_(LA BIBBIA CEI 74).xml
-.\ITA\La Nuova Diodati 1991\SF_2009-01-20_ITA_LND_1991_(LA NUOVA DIODATI 1991).xml
-.\ITA\Riveduta 1990\SF_2009-01-20_ITA_IRV_1990_(RIVEDUTA 1990).xml
-.\KAB\Kabyle NT\SF_2009-01-20_KAB_KABNT_(KABYLE NT).xml
-.\KOR\Korean Version\SF_2009-01-20_KOR_KOR_(KOREAN VERSION).xml
-.\LAT\Biblia Sacra Vulgata\SF_2009-01-20_LAT_BIBLE_VULGATA_(BIBLIA SACRA VULGATA).xml
-.\LAT\Biblia Sacra Vulgata\SF_2014-09-06_LAT_VULGATE_(BIBLIA SACRA VULGATA).xml
-.\LAT\Clementine Vulgate\SF_2009-01-20_LAT_CLVUL_(CLEMENTINE VULGATE).xml
-.\LAT\Nova Vulgata\SF_2009-01-23_LAT_NVLA_(NOVA VULGATA).xml
-.\LAT\Vulgata Hetzenauer\SF_2014-02-26_LAT_VULGHETZENAUER_(VULGATA CLEMENTINA HETZENAUER EDITORE).xml
-.\LAT\Vulgata Sistina\SF_2014-02-25_LAT_VULGSISTINE_(VULGATA SISTINA).xml
-.\LAV\Lativian Version\SF_2009-01-20_LAV_LATV_(LATIVIAN VERSION).xml
-.\MAO\Maori Version\SF_2009-01-20_MAO_MAO_(MAORI VERSION).xml
-.\NDS\Daut niee Testamente en de Psalme\SF_2009-01-20_NDS_DNTF_(DAUT NIEE TESTAMENTE EN DE PSALME).xml
-.\NDS\Reimer NT 2001\SF_2009-01-20_NDS_REIMERNT_(REIMER NT 2001).xml
-.\NL\Dutch Statenvertaling\SF_2009-01-20_NL_DUTV_(DUTCH STATENVERTALING).xml
-.\NOR\Norwegian Version\SF_2009-01-20_NOR_NOR_(NORWEGIAN VERSION).xml
-.\NOR\Studentmallagsbibelen 1921\SF_2012-01-27_NOR_NORSMB_(STUDENTMLLAGSBIBELEN FR 1921).xml
-.\POL\Polska Biblia\SF_2009-01-20_POL_POLAND_(POLSKA BIBLIA).xml
-.\PON\PohnOld\SF_2015-02-27_PON_POHNOLD_(OLD PUBLIC DOMAIN POHNPEIAN BIBLE).xml
-.\POR\Portuguese Corrigida Fiel (1753\1995)\SF_2009-01-20_POR_ACF_(PORTUGUESE CORRIGIDA FIEL (1753_1995)).xml
-.\POR\Portuguese Version\SF_2009-01-20_POR_PORT_(PORTUGUESE VERSION).xml
-.\RUM\Cornilescu (1928)\SF_2013-11-20_RUM_RUC28_(CORNILESCU (1928)).xml
-.\RUM\Orthographically Corrected Cornilescu Bible\SF_2013-09-09_RUM_RCCV_(ROMANIAN CORRECTED CORNILESCU BIBLE).xml
-.\RUS\Makarij Translation (Pentateuch) (1825)\SF_2013-11-22_RUS_MP28_(MAKARIJ TRANSLATION (PENTATEUCH) (1825)).xml
-.\RUS\Russian New Testament Strongs\SF_2009-01-20_RUS_RUSVZH_(RUSSIAN NEW TESTAMENT STRONGS).xml
-.\RUS\Russian Synodal Translation\SF_2009-01-20_RUS_RST_(RUSSIAN SYNODAL TRANSLATION).xml
-.\RUS\Russian Version\SF_2009-01-20_RUS_RUSSUB_(RUSSIAN VERSION).xml
-.\RUS\Ukrainian Version\SF_2009-01-23_RUS_UKRUB_(UKRAINIAN VERSION).xml
-.\SCR\Croatian Bible Version\SF_2009-01-23_SCR_CROAT_(CROATIAN BIBLE VERSION).xml
-.\SHU\Shuar NT\SF_2009-01-20_SHU_SHU_(SHUAR NT).xml
-.\SPA\Las Sagradas Escrituras\SF_2009-01-20_SPA_SEV_(LAS SAGRADAS ESCRITURAS).xml
-.\SPA\Reina Valera 1989\SF_2009-01-20_SPA_RVA_(REINA VALERA 1989).xml
-.\SPA\Spanish Reina-Valera\SF_2009-01-22_SPA_BIBLE_SPARV_(SPANISH REINA-VALERA).xml
-.\SWA\Swahili NT\SF_2009-01-20_SWA_SWA_(SWAHILI NT).xml
-.\SWE\Svenska Folkbibeln (1998)\SF_2009-08-01_SWE_SWEFOLK1998_(SVENSKA FOLKBIBELN (1998)).xml
-.\SWE\Swedish 1917 Version\SF_2009-01-20_SWE_SVD_(SWEDISH 1917 VERSION).xml
-.\SYR\Syriac Peshitta NT\SF_2009-01-20_SYR_SYP_(SYRIAC PESHITTA NT).xml
-.\TGL\Ang Dating Biblia\SF_2009-01-20_TGL_TLGANGBIBLIA_(ANG DATING BIBLIA).xml
-.\THA\KJV-Thai\SF_2009-01-20_THA_KJVTHAI_(KJV-THAI).xml
-.\TUR\Southern Azeri Translation\SF_2012-01-07_AZB_AZERI_(DESCRIPTION_EN=SOUTHERN AZERI TRANSLATION).xml
-.\TUR\Turkish\SF_2004-07-28_TUR_BB31_(TURKISH).xml
-.\UND\Uma Version\SF_2009-01-20_UND_UMA_(UMA VERSION).xml
-.\VIE\New Vietnamese Bible (2002)\SF_2009-03-11_VIE_VIETNVB_(NEW VIETNAMESE BIBLE (2002)).xml
-.\VIE\Vietnamese Version\SF_2009-01-20_VIE_VIE_(VIETNAMESE VERSION).xml
-.\WIU\SF_2014-05-12_WIU_WITNT_(THE NEW TESTAMENT).xml
-.\XKL\Klingon Version\SF_2009-01-22_XKL_KLINGON_(KLINGON VERSION).xml
-.\YBY\SF_2014-05-12_YBY_YAWNT_(THE NEW TESTAMENT).xml
-.\YUW\SF_2014-05-06_YUW_NTYAU_(THE NEW TESTAMENT).xml
-.\ZIA\SF_2014-04-22_ZIA_ZIANT_(ZIA NT).xml
+﻿FilePath,DownloadUrl
+.\AFR\1933\1953 Afrikaans Bybel\SF_2009-01-20_AFR_AFR3353_(1933_1953 AFRIKAANS BYBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/AFR/1933/1953%20Afrikaans%20Bybel/SF_2009-01-20_AFR_AFR3353_(1933_1953%20AFRIKAANS%20BYBEL).xml?raw=true
+.\ALB\Albanian Version\SF_2009-01-20_ALB_ALB1_(ALBANIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ALB/Albanian%20Version/SF_2009-01-20_ALB_ALB1_(ALBANIAN%20VERSION).xml?raw=true
+.\ARA\New Arabic Version (Ketab El Hayat)\SF_2012-01-07_ARA_ARANAV_(NEW ARABIC VERSION (KETAB EL HAYAT)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ARA/New%20Arabic%20Version%20(Ketab%20El%20Hayat)/SF_2012-01-07_ARA_ARANAV_(NEW%20ARABIC%20VERSION%20(KETAB%20EL%20HAYAT)).xml?raw=true
+.\ARA\Smith Van Dyke Arabic Bible\SF_2009-01-20_ARA_ARASVD_(SMITH VAN DYKE ARABIC BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ARA/Smith%20Van%20Dyke%20Arabic%20Bible/SF_2009-01-20_ARA_ARASVD_(SMITH%20VAN%20DYKE%20ARABIC%20BIBLE).xml?raw=true
+.\BAQ\Basque(Navarro-Labourdin)NT\SF_2009-01-20_BAQ_BASQ1571_(BASQUE(NAVARRO-LABOURDIN)NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/BAQ/Basque(Navarro-Labourdin)NT/SF_2009-01-20_BAQ_BASQ1571_(BASQUE(NAVARRO-LABOURDIN)NT).xml?raw=true
+.\BUL\Bulgarian NT 1914\SF_2009-03-26_BUL_BULCARIGRADNT_(BULGARIAN NEW TESTAMENT FROM 1914, KNOWN AS 'TSARIGRAD EDITION').xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/BUL/Bulgarian%20NT%201914/SF_2009-03-26_BUL_BULCARIGRADNT_(BULGARIAN%20NEW%20TESTAMENT%20FROM%201914,%20KNOWN%20AS%20'TSARIGRAD%20EDITION').xml?raw=true
+.\BUL\Verens Contemporary Bible\SF_2010-01-10_BUL_BULVEREN_(VEREN'S CONTEMPORARY BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/BUL/Verens%20Contemporary%20Bible/SF_2010-01-10_BUL_BULVEREN_(VEREN'S%20CONTEMPORARY%20BIBLE).xml?raw=true
+.\CEB\Cebuano Ang Biblia (Bugna Version)\SF_2009-01-20_CEB_CEB-B_(CEBUANO ANG BIBLIA (BUGNA VERSION)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CEB/Cebuano%20Ang%20Biblia%20(Bugna%20Version)/SF_2009-01-20_CEB_CEB-B_(CEBUANO%20ANG%20BIBLIA%20(BUGNA%20VERSION)).xml?raw=true
+.\CEB\Cebuano Ang Biblia (Pinadayag Version)\SF_2009-01-20_CEB_CEB-P_(CEBUANO ANG BIBLIA (PINADAYAG VERSION)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CEB/Cebuano%20Ang%20Biblia%20(Pinadayag%20Version)/SF_2009-01-20_CEB_CEB-P_(CEBUANO%20ANG%20BIBLIA%20(PINADAYAG%20VERSION)).xml?raw=true
+.\CHA\SF_2010-01-10_CHA_CHAMORRO_(CHAMORRO Y SANTA BIBLIA (1908)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CHA/SF_2010-01-10_CHA_CHAMORRO_(CHAMORRO%20Y%20SANTA%20BIBLIA%20(1908)).xml?raw=true
+.\CHI\Chinese Union Version\SF_2009-01-20_CHI_CHI_(CHINESE UNION VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CHI/Chinese%20Union%20Version/SF_2009-01-20_CHI_CHI_(CHINESE%20UNION%20VERSION).xml?raw=true
+.\CHI\CHINESE UNION VERSION Simplified\SF_2004-10-17_CHI_CHIUS_(CHINESE UNION VERSION SIMPLIFIED).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CHI/CHINESE%20UNION%20VERSION%20Simplified/SF_2004-10-17_CHI_CHIUS_(CHINESE%20UNION%20VERSION%20SIMPLIFIED).xml?raw=true
+.\CHI\New Chinese Version Simplified\SF_2009-01-20_CHI_CVS_(NEW CHINESE VERSION SIMPLIFIED).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CHI/New%20Chinese%20Version%20Simplified/SF_2009-01-20_CHI_CVS_(NEW%20CHINESE%20VERSION%20SIMPLIFIED).xml?raw=true
+.\CHU\1757 Church Slavonic Elizabeth Bible\SF_2014-02-27_CHU_CSLELIZABETH_(1757 CHURCH SLAVONIC ELIZABETH BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CHU/1757%20Church%20Slavonic%20Elizabeth%20Bible/SF_2014-02-27_CHU_CSLELIZABETH_(1757%20CHURCH%20SLAVONIC%20ELIZABETH%20BIBLE).xml?raw=true
+.\CKB\SF_2015-08-16_CKB_SORA_(KURDISH NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CKB/SF_2015-08-16_CKB_SORA_(KURDISH%20NEW%20TESTAMENT).xml?raw=true
+.\COP\Coptic NT Bohairic\SF_2014-02-26_COP_BONT_(BOHAIRIC NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/COP/Coptic%20NT%20Bohairic/SF_2014-02-26_COP_BONT_(BOHAIRIC%20NT).xml?raw=true
+.\CZE\Cesky studijni preklad\SF_2015-05-20_CZE_ČSP_(ČESKÝ STUDIJNÍ PŘEKLAD).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Cesky%20studijni%20preklad/SF_2015-05-20_CZE_%c4%8cSP_(%c4%8cESK%c3%9d%20STUDIJN%c3%8d%20P%c5%98EKLAD).xml?raw=true
+.\CZE\Czech BKR\Czech BKR\SF_2014-11-23_CZE_CZBKR_(CZECH BKR).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20BKR/Czech%20BKR/SF_2014-11-23_CZE_CZBKR_(CZECH%20BKR).xml?raw=true
+.\CZE\Czech BKR\Czech BKR\sf_czech_bkr.xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20BKR/Czech%20BKR/sf_czech_bkr.xml?raw=true
+.\CZE\Czech BKR\SF_2009-01-20_CZE_CZBKR_(CZECH BKR).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20BKR/SF_2009-01-20_CZE_CZBKR_(CZECH%20BKR).xml?raw=true
+.\CZE\Czech Ekumenicky Cesky preklad\Czech Ekumenicky Cesky preklad\SF_2014-11-23_CZE_CZECEP_(CZECH EKUMENICKY CESKY PREKLAD).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20Ekumenicky%20Cesky%20preklad/Czech%20Ekumenicky%20Cesky%20preklad/SF_2014-11-23_CZE_CZECEP_(CZECH%20EKUMENICKY%20CESKY%20PREKLAD).xml?raw=true
+.\CZE\Czech Ekumenicky Cesky preklad\Czech Ekumenicky Cesky preklad\sf_czecep.xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20Ekumenicky%20Cesky%20preklad/Czech%20Ekumenicky%20Cesky%20preklad/sf_czecep.xml?raw=true
+.\CZE\Czech Ekumenicky Cesky preklad\SF_2009-01-23_CZE_CZECEP_(CZECH EKUMENICKY CESKY PREKLAD).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20Ekumenicky%20Cesky%20preklad/SF_2009-01-23_CZE_CZECEP_(CZECH%20EKUMENICKY%20CESKY%20PREKLAD).xml?raw=true
+.\CZE\Czech Preklad 21\SF_2009-07-31_CZE_CZEB21_(CZECH BIBLE, PREKLAD 21. STOLETI).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20Preklad%2021/SF_2009-07-31_CZE_CZEB21_(CZECH%20BIBLE,%20PREKLAD%2021.%20STOLETI).xml?raw=true
+.\CZE\Czech Preklad 21\SF_2014-11-23_CZE_CZEB21_(CZECH BIBLE, PŘEKLAD 21. STOLETÍ).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Czech%20Preklad%2021/SF_2014-11-23_CZE_CZEB21_(CZECH%20BIBLE,%20P%c5%98EKLAD%2021.%20STOLET%c3%8d).xml?raw=true
+.\CZE\Nova Bible Kralicka NKB\SF_2014-03-11_CZE_CZNBK_(CZECH NKB).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/CZE/Nova%20Bible%20Kralicka%20NKB/SF_2014-03-11_CZE_CZNBK_(CZECH%20NKB).xml?raw=true
+.\DAN\Danish Version\SF_2009-01-20_DAN_DAN_(DANISH VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/DAN/Danish%20Version/SF_2009-01-20_DAN_DAN_(DANISH%20VERSION).xml?raw=true
+.\ENG\A Conservative Version\SF_2009-01-20_ENG_ACV_(A CONSERVATIVE VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/A%20Conservative%20Version/SF_2009-01-20_ENG_ACV_(A%20CONSERVATIVE%20VERSION).xml?raw=true
+.\ENG\American Standard Version\SF_2009-01-20_ENG_ASV_(AMERICAN STANDARD VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/American%20Standard%20Version/SF_2009-01-20_ENG_ASV_(AMERICAN%20STANDARD%20VERSION).xml?raw=true
+.\ENG\Bible in Basic English\SF_2009-01-20_ENG_BBE_(BIBLE IN BASIC ENGLISH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Bible%20in%20Basic%20English/SF_2009-01-20_ENG_BBE_(BIBLE%20IN%20BASIC%20ENGLISH).xml?raw=true
+.\ENG\Bible in Worldwide English\SF_2012-02-07_ENG_BWE_(BIBLE IN WORLDWIDE ENGLISH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Bible%20in%20Worldwide%20English/SF_2012-02-07_ENG_BWE_(BIBLE%20IN%20WORLDWIDE%20ENGLISH).xml?raw=true
+.\ENG\Bible in Worldwide English\SF_2015-08-14_ENG_BWE96_(BIBLE IN WORLDWIDE ENGLISH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Bible%20in%20Worldwide%20English/SF_2015-08-14_ENG_BWE96_(BIBLE%20IN%20WORLDWIDE%20ENGLISH).xml?raw=true
+.\ENG\Bible in Worldwide English NT\SF_2009-01-20_ENG_BWE_(BIBLE IN WORLDWIDE ENGLISH NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Bible%20in%20Worldwide%20English%20NT/SF_2009-01-20_ENG_BWE_(BIBLE%20IN%20WORLDWIDE%20ENGLISH%20NT).xml?raw=true
+.\ENG\Brentons English Septuagint\SF_2009-01-20_ENG_LXXE_(BRENTON'S ENGLISH SEPTUAGINT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Brentons%20English%20Septuagint/SF_2009-01-20_ENG_LXXE_(BRENTON'S%20ENGLISH%20SEPTUAGINT).xml?raw=true
+.\ENG\Catholic Public Domain Version\SF_2014-02-26_ENG_CPDV_(CATHOLIC PUBLIC DOMAIN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Catholic%20Public%20Domain%20Version/SF_2014-02-26_ENG_CPDV_(CATHOLIC%20PUBLIC%20DOMAIN%20VERSION).xml?raw=true
+.\ENG\Darby Bible\SF_2009-01-20_ENG_DARBY_(DARBY BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Darby%20Bible/SF_2009-01-20_ENG_DARBY_(DARBY%20BIBLE).xml?raw=true
+.\ENG\Diaglot NT - 1865\SF_2009-01-20_ENG_DIAGLOT_(DIAGLOT NT - 1865).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Diaglot%20NT%20-%201865/SF_2009-01-20_ENG_DIAGLOT_(DIAGLOT%20NT%20-%201865).xml?raw=true
+.\ENG\Douay Rheims\SF_2013-12-05_ENG_DOUR_(DOUAY RHEIMS).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Douay%20Rheims/SF_2013-12-05_ENG_DOUR_(DOUAY%20RHEIMS).xml?raw=true
+.\ENG\English Jubilee 2000 Bible\SF_2009-01-20_ENG_JUBL2000_(ENGLISH JUBILEE 2000 BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/English%20Jubilee%202000%20Bible/SF_2009-01-20_ENG_JUBL2000_(ENGLISH%20JUBILEE%202000%20BIBLE).xml?raw=true
+.\ENG\English Majority Text Version\SF_2009-04-13_ENG_EMTV_(ENGLISH MAJORITY TEXT VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/English%20Majority%20Text%20Version/SF_2009-04-13_ENG_EMTV_(ENGLISH%20MAJORITY%20TEXT%20VERSION).xml?raw=true
+.\ENG\Etheridge\SF_2010-02-21_ENG_ETHERIDGE_(THE PESCHITO SYRIAC NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Etheridge/SF_2010-02-21_ENG_ETHERIDGE_(THE%20PESCHITO%20SYRIAC%20NEW%20TESTAMENT).xml?raw=true
+.\ENG\Geneva Bible\SF_2009-01-20_ENG_GB_(GENEVA BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Geneva%20Bible/SF_2009-01-20_ENG_GB_(GENEVA%20BIBLE).xml?raw=true
+.\ENG\Greens Literal Translation\SF_2009-04-08_ENG_LITV_(GREEN'S LITERAL TRANSLATION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Greens%20Literal%20Translation/SF_2009-04-08_ENG_LITV_(GREEN'S%20LITERAL%20TRANSLATION).xml?raw=true
+.\ENG\ISV NT\SF_2009-01-22_ENG_ISV_(ISV NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/ISV%20NT/SF_2009-01-22_ENG_ISV_(ISV%20NT).xml?raw=true
+.\ENG\Jewish Publication Society AT\SF_2009-01-23_ENG_JPS_(JEWISH PUBLICATION SOCIETY AT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Jewish%20Publication%20Society%20AT/SF_2009-01-23_ENG_JPS_(JEWISH%20PUBLICATION%20SOCIETY%20AT).xml?raw=true
+.\ENG\John Wycliffe Bible\SF_2009-01-20_ENG_BIBLE_WYCLIFFE_(JOHN WYCLIFFE BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/John%20Wycliffe%20Bible/SF_2009-01-20_ENG_BIBLE_WYCLIFFE_(JOHN%20WYCLIFFE%20BIBLE).xml?raw=true
+.\ENG\King James\American King James Version\SF_2009-01-20_ENG_BIBLE_AKJV_(AMERICAN KING JAMES VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/American%20King%20James%20Version/SF_2009-01-20_ENG_BIBLE_AKJV_(AMERICAN%20KING%20JAMES%20VERSION).xml?raw=true
+.\ENG\King James\King James 2000\SF_2009-01-20_ENG_KJ2000_(KING JAMES 2000).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/King%20James%202000/SF_2009-01-20_ENG_KJ2000_(KING%20JAMES%202000).xml?raw=true
+.\ENG\King James\King James Clarified NT\SF_2009-01-20_ENG_KJVCNT_(KING JAMES CLARIFIED NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/King%20James%20Clarified%20NT/SF_2009-01-20_ENG_KJVCNT_(KING%20JAMES%20CLARIFIED%20NT).xml?raw=true
+.\ENG\King James\King James Version\SF_2009-01-23_ENG_KJV_(KING JAMES VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/King%20James%20Version/SF_2009-01-23_ENG_KJV_(KING%20JAMES%20VERSION).xml?raw=true
+.\ENG\King James\King James Version Pure Cambridge Edition\SF_2014-02-26_ENG_KJVPCE_(KING JAMES VERSION PCE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/King%20James%20Version%20Pure%20Cambridge%20Edition/SF_2014-02-26_ENG_KJVPCE_(KING%20JAMES%20VERSION%20PCE).xml?raw=true
+.\ENG\King James\King James Version with Apokryphen\SF_2009-01-23_ENG_KJVAK_(KING JAMES VERSION WITH APOKRYPHEN).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/King%20James%20Version%20with%20Apokryphen/SF_2009-01-23_ENG_KJVAK_(KING%20JAMES%20VERSION%20WITH%20APOKRYPHEN).xml?raw=true
+.\ENG\King James\KJV+\SF_2009-01-20_ENG_KJV_(KJV+).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/KJV+/SF_2009-01-20_ENG_KJV_(KJV+).xml?raw=true
+.\ENG\King James\Modern KJV 1963\SF_2009-01-23_ENG_MKJV1962_(MODERN KJV 1963).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/Modern%20KJV%201963/SF_2009-01-23_ENG_MKJV1962_(MODERN%20KJV%201963).xml?raw=true
+.\ENG\King James\Revised King James New Testament\SF_2009-01-20_ENG_RKJVNT_(REVISED KING JAMES NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/Revised%20King%20James%20New%20Testament/SF_2009-01-20_ENG_RKJVNT_(REVISED%20KING%20JAMES%20NEW%20TESTAMENT).xml?raw=true
+.\ENG\King James\Updated King James Version\SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/King%20James/Updated%20King%20James%20Version/SF_2009-01-20_ENG_UKJV_(UPDATED%20KING%20JAMES%20VERSION).xml?raw=true
+.\ENG\Leeser Old Testament\SF_2009-01-20_ENG_LEESER_(LEESER OLD TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Leeser%20Old%20Testament/SF_2009-01-20_ENG_LEESER_(LEESER%20OLD%20TESTAMENT).xml?raw=true
+.\ENG\Living Oracles NT\SF_2009-01-20_ENG_LONT_(LIVING ORACLES NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Living%20Oracles%20NT/SF_2009-01-20_ENG_LONT_(LIVING%20ORACLES%20NT).xml?raw=true
+.\ENG\Montgomery New Testament\SF_2009-01-20_ENG_MONT_(MONTGOMERY NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Montgomery%20New%20Testament/SF_2009-01-20_ENG_MONT_(MONTGOMERY%20NEW%20TESTAMENT).xml?raw=true
+.\ENG\New Heart English Bible\SF_2012-02-07_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2012-02-07_ENG_NHEB_(NEW%20HEART%20ENGLISH%20BIBLE).xml?raw=true
+.\ENG\New Heart English Bible\SF_2014-02-26_ENG_NHEBJE_(NEW HEART ENGLISH BIBLE - JEHOVAH EDITION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2014-02-26_ENG_NHEBJE_(NEW%20HEART%20ENGLISH%20BIBLE%20-%20JEHOVAH%20EDITION).xml?raw=true
+.\ENG\New Heart English Bible\SF_2014-02-26_ENG_NHEBME_(NEW HEART ENGLISH BIBLE - MESSIANIC EDITION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2014-02-26_ENG_NHEBME_(NEW%20HEART%20ENGLISH%20BIBLE%20-%20MESSIANIC%20EDITION).xml?raw=true
+.\ENG\New Heart English Bible\SF_2015-08-15_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-15_ENG_NHEB_(NEW%20HEART%20ENGLISH%20BIBLE).xml?raw=true
+.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBJE_(NNEW HEART ENGLISH BIBLE SPECIAL EDITION (JEHOVAH)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-16_ENG_NHEBJE_(NNEW%20HEART%20ENGLISH%20BIBLE%20SPECIAL%20EDITION%20(JEHOVAH)).xml?raw=true
+.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBJM_(NEW HEART ENGLISH BIBLE SPECIAL EDITION (JESUS MESSIAH)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-16_ENG_NHEBJM_(NEW%20HEART%20ENGLISH%20BIBLE%20SPECIAL%20EDITION%20(JESUS%20MESSIAH)).xml?raw=true
+.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBME_(NEW HEART ENGLISH BIBLE ME).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-16_ENG_NHEBME_(NEW%20HEART%20ENGLISH%20BIBLE%20ME).xml?raw=true
+.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBNTAN_(NEW HEART ENGLISH BIBLE SPECIAL EDITION, WITH ARAMAIC NAMES NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-16_ENG_NHEBNTAN_(NEW%20HEART%20ENGLISH%20BIBLE%20SPECIAL%20EDITION,%20WITH%20ARAMAIC%20NAMES%20NEW%20TESTAMENT).xml?raw=true
+.\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBYHWH_(NEW HEART ENGLISH BIBLE (YHWH)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Heart%20English%20Bible/SF_2015-08-16_ENG_NHEBYHWH_(NEW%20HEART%20ENGLISH%20BIBLE%20(YHWH)).xml?raw=true
+.\ENG\New Simplified Bible\SF_2009-01-20_ENG_NSB_(NEW SIMPLIFIED BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/New%20Simplified%20Bible/SF_2009-01-20_ENG_NSB_(NEW%20SIMPLIFIED%20BIBLE).xml?raw=true
+.\ENG\Noyes Translation\SF_2009-01-20_ENG_NOYES_(NOYES TRANSLATION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Noyes%20Translation/SF_2009-01-20_ENG_NOYES_(NOYES%20TRANSLATION).xml?raw=true
+.\ENG\Open English Bible (Commonwealth Spelling)\SF_2014-02-26_ENG_OEBCTH_(OPEN ENGLISH BIBLE (COMMONWEALTH SPELLING)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Open%20English%20Bible%20(Commonwealth%20Spelling)/SF_2014-02-26_ENG_OEBCTH_(OPEN%20ENGLISH%20BIBLE%20(COMMONWEALTH%20SPELLING)).xml?raw=true
+.\ENG\Open English Bible (US Spelling)\SF_2012-08-08_ENG_OEB_(OPEN ENGLISH BIBLE (US SPELLING)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Open%20English%20Bible%20(US%20Spelling)/SF_2012-08-08_ENG_OEB_(OPEN%20ENGLISH%20BIBLE%20(US%20SPELLING)).xml?raw=true
+.\ENG\Revised 1833 Webster Version\SF_2009-01-20_ENG_RWEBSTER_(REVISED 1833 WEBSTER VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Revised%201833%20Webster%20Version/SF_2009-01-20_ENG_RWEBSTER_(REVISED%201833%20WEBSTER%20VERSION).xml?raw=true
+.\ENG\Revised 1833 Webster Version with Strongs\SF_2009-01-22_ENG_RWEBSTER_(REVISED 1833 WEBSTER VERSION WITH STRONGS).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Revised%201833%20Webster%20Version%20with%20Strongs/SF_2009-01-22_ENG_RWEBSTER_(REVISED%201833%20WEBSTER%20VERSION%20WITH%20STRONGS).xml?raw=true
+.\ENG\Revised Standard Version\SF_2009-01-22_ENG_RSV_(REVISED STANDARD VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Revised%20Standard%20Version/SF_2009-01-22_ENG_RSV_(REVISED%20STANDARD%20VERSION).xml?raw=true
+.\ENG\Revised Youngs Literal Translation NT\SF_2009-01-22_ENG_RYLT_(REVISED YOUNG'S LITERAL TRANSLATION NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Revised%20Youngs%20Literal%20Translation%20NT/SF_2009-01-22_ENG_RYLT_(REVISED%20YOUNG'S%20LITERAL%20TRANSLATION%20NT).xml?raw=true
+.\ENG\Rotherham Version\SF_2009-01-22_ENG_ROTH_(ROTHERHAM VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Rotherham%20Version/SF_2009-01-22_ENG_ROTH_(ROTHERHAM%20VERSION).xml?raw=true
+.\ENG\Samaritan Pentateuch in English\SF_2014-02-26_ENG_SPE_(SAMARITAN PENTATEUCH IN ENGLISH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Samaritan%20Pentateuch%20in%20English/SF_2014-02-26_ENG_SPE_(SAMARITAN%20PENTATEUCH%20IN%20ENGLISH).xml?raw=true
+.\ENG\The Book of Mormon\SF_2009-01-23_ENG_BOM_(THE BOOK OF MORMON).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/The%20Book%20of%20Mormon/SF_2009-01-23_ENG_BOM_(THE%20BOOK%20OF%20MORMON).xml?raw=true
+.\ENG\The Common Edition New Testament\SF_2009-01-20_ENG_TCE_(THE COMMON EDITION NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/The%20Common%20Edition%20New%20Testament/SF_2009-01-20_ENG_TCE_(THE%20COMMON%20EDITION%20NT).xml?raw=true
+.\ENG\The Epistle to the Galatians English version of the translation by Hermann Detering\SF_25.04.2004_ENG_MARCGAL_(THE EPISTLE TO THE GALATIANS(DETERING)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/The%20Epistle%20to%20the%20Galatians%20English%20version%20of%20the%20translation%20by%20Hermann%20Detering/SF_25.04.2004_ENG_MARCGAL_(THE%20EPISTLE%20TO%20THE%20GALATIANS(DETERING)).xml?raw=true
+.\ENG\The Lexham English Bible\SF_2010-03-29_ENG_LEB_(THE LEXHAM ENGLISH BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/The%20Lexham%20English%20Bible/SF_2010-03-29_ENG_LEB_(THE%20LEXHAM%20ENGLISH%20BIBLE).xml?raw=true
+.\ENG\The Orthodox Jewish Brit Chadasha\SF_2009-01-23_ENG_ORTHJBC_(THE ORTHODOX JEWISH BRIT CHADASHA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/The%20Orthodox%20Jewish%20Brit%20Chadasha/SF_2009-01-23_ENG_ORTHJBC_(THE%20ORTHODOX%20JEWISH%20BRIT%20CHADASHA).xml?raw=true
+.\ENG\The Riverside New Testament\SF_2009-01-20_ENG_RNT_(THE RIVERSIDE NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/The%20Riverside%20New%20Testament/SF_2009-01-20_ENG_RNT_(THE%20RIVERSIDE%20NEW%20TESTAMENT).xml?raw=true
+.\ENG\Torreys Topical Textbook\SF_2006-03-02_ENG_TTB_(TORREY'S TOPICAL TEXTBOOK).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Torreys%20Topical%20Textbook/SF_2006-03-02_ENG_TTB_(TORREY'S%20TOPICAL%20TEXTBOOK).xml?raw=true
+.\ENG\Updated Bible Version\SF_2009-01-20_ENG_UPDV_(UPDATED BIBLE VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Updated%20Bible%20Version/SF_2009-01-20_ENG_UPDV_(UPDATED%20BIBLE%20VERSION).xml?raw=true
+.\ENG\VW-Edition 2006\SF_2009-01-20_ENG_XXX_(VW-EDITION 2006).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/VW-Edition%202006/SF_2009-01-20_ENG_XXX_(VW-EDITION%202006).xml?raw=true
+.\ENG\Webster\SF_2013-12-05_ENG_WBS_(WEBSTER).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Webster/SF_2013-12-05_ENG_WBS_(WEBSTER).xml?raw=true
+.\ENG\Wesleys NT\SF_2009-01-20_ENG_WESLEY_(WESLEY'S NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Wesleys%20NT/SF_2009-01-20_ENG_WESLEY_(WESLEY'S%20NT).xml?raw=true
+.\ENG\Weymouth NT\SF_2009-01-20_ENG_WMTH_(WEYMOUTH NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Weymouth%20NT/SF_2009-01-20_ENG_WMTH_(WEYMOUTH%20NT).xml?raw=true
+.\ENG\Willam Tyndale Bible\SF_2009-01-20_ENG_BIBLE_TYNDALE_(WILLAM TYNDALE BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/Willam%20Tyndale%20Bible/SF_2009-01-20_ENG_BIBLE_TYNDALE_(WILLAM%20TYNDALE%20BIBLE).xml?raw=true
+.\ENG\World English Bible\SF_2009-01-20_ENG_WEB_(WORLD ENGLISH BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/World%20English%20Bible/SF_2009-01-20_ENG_WEB_(WORLD%20ENGLISH%20BIBLE).xml?raw=true
+.\ENG\World English Bible - British Edition\SF_2014-02-26_ENG_WEBBE_(WORLD ENGLISH BIBLE - BRITISH EDITION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/World%20English%20Bible%20-%20British%20Edition/SF_2014-02-26_ENG_WEBBE_(WORLD%20ENGLISH%20BIBLE%20-%20BRITISH%20EDITION).xml?raw=true
+.\ENG\World English Bible - Messianic Edition\SF_2014-02-26_ENG_WEBME_(WORLD ENGLISH BIBLE - MESSIANIC EDITION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/World%20English%20Bible%20-%20Messianic%20Edition/SF_2014-02-26_ENG_WEBME_(WORLD%20ENGLISH%20BIBLE%20-%20MESSIANIC%20EDITION).xml?raw=true
+.\ENG\YLT\SF_2009-01-20_ENG_YLT_(YLT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ENG/YLT/SF_2009-01-20_ENG_YLT_(YLT).xml?raw=true
+.\ESP\Esperanto Bible\SF_2009-01-20_ESP_ESP_(ESPERANTO BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ESP/Esperanto%20Bible/SF_2009-01-20_ESP_ESP_(ESPERANTO%20BIBLE).xml?raw=true
+.\FIN\Finish Version\SF_2009-01-20_FIN_FIN_(FINISH VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FIN/Finish%20Version/SF_2009-01-20_FIN_FIN_(FINISH%20VERSION).xml?raw=true
+.\FRE\Bible de Geneve de 1669\SF_2009-06-01_FRE_BGNT1669_(BIBLE DE GENÔVE DE 1669).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20de%20Geneve%20de%201669/SF_2009-06-01_FRE_BGNT1669_(BIBLE%20DE%20GEN%c3%94VE%20DE%201669).xml?raw=true
+.\FRE\Bible des Peuples\SF_2011-07-10_FRE_BDP_(BIBLE DES PEUPLES).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20des%20Peuples/SF_2011-07-10_FRE_BDP_(BIBLE%20DES%20PEUPLES).xml?raw=true
+.\FRE\Bible Martin\SF_2009-01-20_FRE_BM1744_(BIBLE MARTIN 1744).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20Martin/SF_2009-01-20_FRE_BM1744_(BIBLE%20MARTIN%201744).xml?raw=true
+.\FRE\Bible Martin\SF_2014-04-26_FRE_BM1707_(BIBLE MARTIN 1707).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20Martin/SF_2014-04-26_FRE_BM1707_(BIBLE%20MARTIN%201707).xml?raw=true
+.\FRE\Bible Perret-Gentil et Rilliet\SF_2012-01-07_FRE_FREPGR_(BIBLE PERRET-GENTIL ET RILLIET).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20Perret-Gentil%20et%20Rilliet/SF_2012-01-07_FRE_FREPGR_(BIBLE%20PERRET-GENTIL%20ET%20RILLIET).xml?raw=true
+.\FRE\Bible Pirot-Clamer\SF_2009-06-02_FRE_BDC_(BIBLE PIROT-CLAMER).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20Pirot-Clamer/SF_2009-06-02_FRE_BDC_(BIBLE%20PIROT-CLAMER).xml?raw=true
+.\FRE\Bible Vigouroux 1902\SF_2012-03-16_FRE_VIGOUROUX_(BIBLE VIGOUROUX 1902).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Bible%20Vigouroux%201902/SF_2012-03-16_FRE_VIGOUROUX_(BIBLE%20VIGOUROUX%201902).xml?raw=true
+.\FRE\French Bible Bovet Bonnet (1900)\SF_2009-03-25_FRE_FREBBB_(FRENCH BIBLE BOVET BONNET (1900)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/French%20Bible%20Bovet%20Bonnet%20(1900)/SF_2009-03-25_FRE_FREBBB_(FRENCH%20BIBLE%20BOVET%20BONNET%20(1900)).xml?raw=true
+.\FRE\French Darby\SF_2009-01-20_FRE_FRDARB_(FRENCH DARBY).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/French%20Darby/SF_2009-01-20_FRE_FRDARB_(FRENCH%20DARBY).xml?raw=true
+.\FRE\French Darby 2006\SF_2009-06-06_FRE_JND_(FRENCH DARBY 2006).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/French%20Darby%202006/SF_2009-06-06_FRE_JND_(FRENCH%20DARBY%202006).xml?raw=true
+.\FRE\French Louis Segond\SF_2009-01-20_FRE_FREN_(FRENCH LOUIS SEGOND).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/French%20Louis%20Segond/SF_2009-01-20_FRE_FREN_(FRENCH%20LOUIS%20SEGOND).xml?raw=true
+.\FRE\King James Francais\SF_2010-10-10_FRE_KJF_(KING JAMES FRAN€AISE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/King%20James%20Francais/SF_2010-10-10_FRE_KJF_(KING%20JAMES%20FRAN%e2%82%acAISE).xml?raw=true
+.\FRE\La Bible Augustin Crampon 1923\SF_2009-01-20_FRE_CRAMP23_(LA BIBLE AUGUSTIN CRAMPON 1923).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20Augustin%20Crampon%201923/SF_2009-01-20_FRE_CRAMP23_(LA%20BIBLE%20AUGUSTIN%20CRAMPON%201923).xml?raw=true
+.\FRE\La Bible de Jerusalem\SF_2004-11-13_FRE_DEJER_(LA BIBLE DE JRUSALEM).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20de%20Jerusalem/SF_2004-11-13_FRE_DEJER_(LA%20BIBLE%20DE%20J%c2%90RUSALEM).xml?raw=true
+.\FRE\La Bible de Saci 1759\SF_2010-09-05_FRE_SACC_(LA BIBLE DE SACI 1759).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20de%20Saci%201759/SF_2010-09-05_FRE_SACC_(LA%20BIBLE%20DE%20SACI%201759).xml?raw=true
+.\FRE\La Bible de Zadoc Khan\SF_2009-12-21_FRE_BZKH_(LA BIBLE DE ZADOC KHAN).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20de%20Zadoc%20Khan/SF_2009-12-21_FRE_BZKH_(LA%20BIBLE%20DE%20ZADOC%20KHAN).xml?raw=true
+.\FRE\La Bible J.F. Ostervald 1996\SF_2009-01-20_FRE_OSTV1996_(LA BIBLE JF OSTERVALD 1996).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20J.F.%20Ostervald%201996/SF_2009-01-20_FRE_OSTV1996_(LA%20BIBLE%20JF%20OSTERVALD%201996).xml?raw=true
+.\FRE\La Bible Machaira 2012\SF_2013-04-12_FRE_MACH2012_(LA BIBLE MACHAIRA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20Machaira%202012/SF_2013-04-12_FRE_MACH2012_(LA%20BIBLE%20MACHAIRA).xml?raw=true
+.\FRE\La Bible Ostervald 1877\SF_2013-04-19_FRE_BO1877_(OSTERVALD 1877).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/La%20Bible%20Ostervald%201877/SF_2013-04-19_FRE_BO1877_(OSTERVALD%201877).xml?raw=true
+.\FRE\Sainte Bible Fillion\SF_2010-05-15_FRE_FILL_(LA BIBLE FILLION DE LOUIS CLAUDE FILLION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/FRE/Sainte%20Bible%20Fillion/SF_2010-05-15_FRE_FILL_(LA%20BIBLE%20FILLION%20DE%20LOUIS%20CLAUDE%20FILLION).xml?raw=true
+.\GAE\Gaelic Gospel of Mark\SF_2009-01-20_GAE_GAES_(GAELIC GOSPEL OF MARK).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GAE/Gaelic%20Gospel%20of%20Mark/SF_2009-01-20_GAE_GAES_(GAELIC%20GOSPEL%20OF%20MARK).xml?raw=true
+.\GER\Abraham Meister NT\SF_2009-01-20_GER_AMNT_(ABRAHAM MEISTER NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Abraham%20Meister%20NT/SF_2009-01-20_GER_AMNT_(ABRAHAM%20MEISTER%20NT).xml?raw=true
+.\GER\Albrecht Bibel 1926\SF_2009-01-20_GER_ALBRECHT1926_(ALBRECHT BIBEL 1926).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Albrecht%20Bibel%201926/SF_2009-01-20_GER_ALBRECHT1926_(ALBRECHT%20BIBEL%201926).xml?raw=true
+.\GER\Alemannische Bibel NT\SF_2009-01-20_GER_ALMNT_(ALEMANNISCHE BIBEL NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Alemannische%20Bibel%20NT/SF_2009-01-20_GER_ALMNT_(ALEMANNISCHE%20BIBEL%20NT).xml?raw=true
+.\GER\Bengel NT\SF_2009-01-20_GER_BIBLE_GERBEN_(BENGEL NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Bengel%20NT/SF_2009-01-20_GER_BIBLE_GERBEN_(BENGEL%20NT).xml?raw=true
+.\GER\Elberfelder\Elberfelder 1905\SF_2009-01-20_GER_ELB1905_(ELBERFELDER 1905).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Elberfelder/Elberfelder%201905/SF_2009-01-20_GER_ELB1905_(ELBERFELDER%201905).xml?raw=true
+.\GER\Elberfelder\Elberfelder 1905\SF_2009-01-22_GER_ELB1905STR_(ELBERFELDER 1905).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Elberfelder/Elberfelder%201905/SF_2009-01-22_GER_ELB1905STR_(ELBERFELDER%201905).xml?raw=true
+.\GER\FreeBible2004\SF_2009-01-20_GER_FB2004_(FREEBIBLE2004).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/FreeBible2004/SF_2009-01-20_GER_FB2004_(FREEBIBLE2004).xml?raw=true
+.\GER\Gruenewalder\SF_2009-01-20_GER_GB_(GRšNEWALDER).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Gruenewalder/SF_2009-01-20_GER_GB_(GR%c5%a1NEWALDER).xml?raw=true
+.\GER\Interlinearuebersetzung\SF_2009-01-20_GER_ILGRDE_(INTERLINEARšBERSETZUNG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Interlinearuebersetzung/SF_2009-01-20_GER_ILGRDE_(INTERLINEAR%c5%a1BERSETZUNG).xml?raw=true
+.\GER\Johannes Greber 1936 NT\SF_2009-01-20_GER_GREB_(JOHANNES GREBER 1936 NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Johannes%20Greber%201936%20NT/SF_2009-01-20_GER_GREB_(JOHANNES%20GREBER%201936%20NT).xml?raw=true
+.\GER\Konkordantes NT\SF_2009-01-22_GER_KNT_(KONKORDANTES NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Konkordantes%20NT/SF_2009-01-22_GER_KNT_(KONKORDANTES%20NT).xml?raw=true
+.\GER\Leander van Ess\SF_2012-07-12_GER_VANESS_(LEANDER VAN ESS_REV2).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Leander%20van%20Ess/SF_2012-07-12_GER_VANESS_(LEANDER%20VAN%20ESS_REV2).xml?raw=true
+.\GER\Lutherbibel\Luther 1545\SF_2009-01-20_GER_LUTH1545_(LUTHER 1545).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Lutherbibel/Luther%201545/SF_2009-01-20_GER_LUTH1545_(LUTHER%201545).xml?raw=true
+.\GER\Lutherbibel\Luther 1545 (Letzte Hand)\SF_2009-01-20_GER_LUT_1545_LH_(LUTHER 1545 (LETZTE HAND)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Lutherbibel/Luther%201545%20(Letzte%20Hand)/SF_2009-01-20_GER_LUT_1545_LH_(LUTHER%201545%20(LETZTE%20HAND)).xml?raw=true
+.\GER\Lutherbibel\Luther 1545 (Letzte Hand)\SF_2012-08-14_DEUTSCH_LUT_1545_LH_(LUTHER 1545 (LETZTE HAND)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Lutherbibel/Luther%201545%20(Letzte%20Hand)/SF_2012-08-14_DEUTSCH_LUT_1545_LH_(LUTHER%201545%20(LETZTE%20HAND)).xml?raw=true
+.\GER\Lutherbibel\Luther 1545 mit Strongs\SF_2009-01-20_GER_LUTH1545STR_(LUTHER 1545 MIT STRONGS).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Lutherbibel/Luther%201545%20mit%20Strongs/SF_2009-01-20_GER_LUTH1545STR_(LUTHER%201545%20MIT%20STRONGS).xml?raw=true
+.\GER\Lutherbibel\Luther 1912\SF_2009-01-20_GER_LUTH1912_(LUTHER 1912).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Lutherbibel/Luther%201912/SF_2009-01-20_GER_LUTH1912_(LUTHER%201912).xml?raw=true
+.\GER\Lutherbibel\Luther 1912 - mit Apokryphen\SF_2006-12-20_GER_LUTH1912AP_(LUTHER 1912 - MIT APOKRYPHEN).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Lutherbibel/Luther%201912%20-%20mit%20Apokryphen/SF_2006-12-20_GER_LUTH1912AP_(LUTHER%201912%20-%20MIT%20APOKRYPHEN).xml?raw=true
+.\GER\Menge-Bibel\SF_2010-01-01_GER_MENG39_(MENGE-BIBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Menge-Bibel/SF_2010-01-01_GER_MENG39_(MENGE-BIBEL).xml?raw=true
+.\GER\Neue evangelistische Uebersetzung\SF_2009-01-20_GER_NEš_(NEUE EVANGELISTISCHE šBERSETZUNG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Neue%20evangelistische%20Uebersetzung/SF_2009-01-20_GER_NE%c5%a1_(NEUE%20EVANGELISTISCHE%20%c5%a1BERSETZUNG).xml?raw=true
+.\GER\Neue evangelistische Uebersetzung\SF_2010-06-10_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Neue%20evangelistische%20Uebersetzung/SF_2010-06-10_GER_GERNEUE_(NEUE%20EVANGELISTISCHE%20%c5%a1BERSETZUNG).xml?raw=true
+.\GER\Neue evangelistische Uebersetzung\SF_2012-01-07_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Neue%20evangelistische%20Uebersetzung/SF_2012-01-07_GER_GERNEUE_(NEUE%20EVANGELISTISCHE%20%c5%a1BERSETZUNG).xml?raw=true
+.\GER\Neue evangelistische Uebersetzung\SF_2014-02-25_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Neue%20evangelistische%20Uebersetzung/SF_2014-02-25_GER_GERNEUE_(NEUE%20EVANGELISTISCHE%20%c5%a1BERSETZUNG).xml?raw=true
+.\GER\Neue evangelistische Uebersetzung\SF_2014-03-23_GER_GERNEUE_(NEUE EVANGELISTISCHE šBERSETZUNG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Neue%20evangelistische%20Uebersetzung/SF_2014-03-23_GER_GERNEUE_(NEUE%20EVANGELISTISCHE%20%c5%a1BERSETZUNG).xml?raw=true
+.\GER\Neue evangelistische Uebersetzung\SF_2014-09-30_GER_NEš_(NEUE EVANGELISTISCHE šBERSETZUNG (NEš)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Neue%20evangelistische%20Uebersetzung/SF_2014-09-30_GER_NE%c5%a1_(NEUE%20EVANGELISTISCHE%20%c5%a1BERSETZUNG%20(NE%c5%a1)).xml?raw=true
+.\GER\Pattloch Bibel\SF_2009-01-20_GER_PAT80_(PATTLOCH BIBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Pattloch%20Bibel/SF_2009-01-20_GER_PAT80_(PATTLOCH%20BIBEL).xml?raw=true
+.\GER\Pattloch Bibel\SF_2011-01-24_GER_PAT80_(PATTLOCH BIBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Pattloch%20Bibel/SF_2011-01-24_GER_PAT80_(PATTLOCH%20BIBEL).xml?raw=true
+.\GER\Reinhardt 1910 Evangelien\SF_2009-01-20_GER_REI10EV_(REINHARDT 1910 EVANGELIEN).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Reinhardt%201910%20Evangelien/SF_2009-01-20_GER_REI10EV_(REINHARDT%201910%20EVANGELIEN).xml?raw=true
+.\GER\Schlachterbibel\Schlachter 1951\SF_2009-01-20_GER_SCH1951_(SCHLACHTER 1951).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Schlachterbibel/Schlachter%201951/SF_2009-01-20_GER_SCH1951_(SCHLACHTER%201951).xml?raw=true
+.\GER\Schlachterbibel\Schlachter Bibel 1951 with Strong\SF_2009-01-20_GER_SCH1951_(SCHLACHTER BIBEL 1951 WITH STRONG).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Schlachterbibel/Schlachter%20Bibel%201951%20with%20Strong/SF_2009-01-20_GER_SCH1951_(SCHLACHTER%20BIBEL%201951%20WITH%20STRONG).xml?raw=true
+.\GER\Tafelbibel\SF_2009-01-20_GER_TAF_(TAFELBIBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Tafelbibel/SF_2009-01-20_GER_TAF_(TAFELBIBEL).xml?raw=true
+.\GER\Textbibel\SF_2009-01-20_GER_TEXTBIBELAT_(TEXTBIBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Textbibel/SF_2009-01-20_GER_TEXTBIBELAT_(TEXTBIBEL).xml?raw=true
+.\GER\Textbibel\SF_2009-04-06_GER_TB_(TEXTBIBEL).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Textbibel/SF_2009-04-06_GER_TB_(TEXTBIBEL).xml?raw=true
+.\GER\Volxbibel 3.0\SF_2009-01-20_GER_VLX3_(VOLXBIBEL 3_0).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Volxbibel%203.0/SF_2009-01-20_GER_VLX3_(VOLXBIBEL%203_0).xml?raw=true
+.\GER\Zuercher Bibel 1931\SF_2009-04-12_GER_ZšRCHER_(ZšRCHER BIBEL 1931).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GER/Zuercher%20Bibel%201931/SF_2009-04-12_GER_Z%c5%a1RCHER_(Z%c5%a1RCHER%20BIBEL%201931).xml?raw=true
+.\GLA\Gaelic Scripture (Manx Gaelic)\SF_2009-01-23_GLA_GLA2_(GAELIC SCRIPTURE (MANX GAELIC)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GLA/Gaelic%20Scripture%20(Manx%20Gaelic)/SF_2009-01-23_GLA_GLA2_(GAELIC%20SCRIPTURE%20(MANX%20GAELIC)).xml?raw=true
+.\GOT\Gothic Codex Ambrosianus A, and Manuscripts\SF_2009-01-23_GOT_GOTA_(GOTHIC CODEX AMBROSIANUS A, AND MANUSCRIPTS).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GOT/Gothic%20Codex%20Ambrosianus%20A,%20and%20Manuscripts/SF_2009-01-23_GOT_GOTA_(GOTHIC%20CODEX%20AMBROSIANUS%20A,%20AND%20MANUSCRIPTS).xml?raw=true
+.\GOT\Gothic Codices Ambrosianus B\SF_2009-01-23_GOT_GOTB_(GOTHIC CODICES AMBROSIANUS B).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GOT/Gothic%20Codices%20Ambrosianus%20B/SF_2009-01-23_GOT_GOTB_(GOTHIC%20CODICES%20AMBROSIANUS%20B).xml?raw=true
+.\GRC\Antoniades Patriarchal Edition (1904-1912)\SF_2014-02-25_GRC_ANTONIADES_(ANTONIADES PATRIARCHAL EDITION (1904-1912)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Antoniades%20Patriarchal%20Edition%20(1904-1912)/SF_2014-02-25_GRC_ANTONIADES_(ANTONIADES%20PATRIARCHAL%20EDITION%20(1904-1912)).xml?raw=true
+.\GRC\Byzantine\Majority Text (2000)\SF_2009-01-20_GRC_BZY2000_(BYZANTINE MAJORITY TEXT (2000 PLUS STRONGS)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Byzantine/Majority%20Text%20(2000)/SF_2009-01-20_GRC_BZY2000_(BYZANTINE%20MAJORITY%20TEXT%20(2000%20PLUS%20STRONGS)).xml?raw=true
+.\GRC\Byzantine\Majority Text (2000)\SF_2009-01-20_GRC_BZY2000_(BYZANTINE MAJORITY TEXT (2000)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Byzantine/Majority%20Text%20(2000)/SF_2009-01-20_GRC_BZY2000_(BYZANTINE%20MAJORITY%20TEXT%20(2000)).xml?raw=true
+.\GRC\Elzevir Textus Receptus (1624)\SF_2014-02-25_GRC_ELZEVIR_(ELZEVIR TEXTUS RECEPTUS (1624)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Elzevir%20Textus%20Receptus%20(1624)/SF_2014-02-25_GRC_ELZEVIR_(ELZEVIR%20TEXTUS%20RECEPTUS%20(1624)).xml?raw=true
+.\GRC\Family 35 group of Byzantine manuscripts\SF_2014-02-25_GRC_F35_(FAMILY 35).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Family%2035%20group%20of%20Byzantine%20manuscripts/SF_2014-02-25_GRC_F35_(FAMILY%2035).xml?raw=true
+.\GRC\Greek New Testament\SF_2005-03-14_GRC_GNTV_(GREEK NEW TESTAMENT(VARIANTS)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Greek%20New%20Testament/SF_2005-03-14_GRC_GNTV_(GREEK%20NEW%20TESTAMENT(VARIANTS)).xml?raw=true
+.\GRC\Greek NT 1550\SF_2009-01-20_GRC_GREEK1550_(GREEK NT 1550).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Greek%20NT%201550/SF_2009-01-20_GRC_GREEK1550_(GREEK%20NT%201550).xml?raw=true
+.\GRC\Greek NT 1894\SF_2009-01-20_GRC_GREEK1894_(GREEK NT 1894).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Greek%20NT%201894/SF_2009-01-20_GRC_GREEK1894_(GREEK%20NT%201894).xml?raw=true
+.\GRC\Greek NT Tischendorf 8th Ed\SF_2009-01-20_GRC_GRTISCH8_(GREEK NT TISCHENDORF 8TH ED).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Greek%20NT%20Tischendorf%208th%20Ed/SF_2009-01-20_GRC_GRTISCH8_(GREEK%20NT%20TISCHENDORF%208TH%20ED).xml?raw=true
+.\GRC\Greek WH\SF_2009-01-20_GRC_GREEKWH_(GREEK WH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Greek%20WH/SF_2009-01-20_GRC_GREEKWH_(GREEK%20WH).xml?raw=true
+.\GRC\Modern Greek\SF_2009-01-20_GRC_GREEKM_(MODERN GREEK).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Modern%20Greek/SF_2009-01-20_GRC_GREEKM_(MODERN%20GREEK).xml?raw=true
+.\GRC\Robinson\Pierpont Byzantine Greek NT\SF_2009-01-20_GRC_GNT_(ROBINSON PIERPONT BYZANTINE GREEK NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Robinson/Pierpont%20Byzantine%20Greek%20NT/SF_2009-01-20_GRC_GNT_(ROBINSON%20PIERPONT%20BYZANTINE%20GREEK%20NT).xml?raw=true
+.\GRC\Septuaginta LXX\SF_2009-01-20_GRC_LXX_(SEPTUAGINTA LXX).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Septuaginta%20LXX/SF_2009-01-20_GRC_LXX_(SEPTUAGINTA%20LXX).xml?raw=true
+.\GRC\Textus Receptus NT\Strongs Numbers\SF_2009-01-20_GRC_GNTTR_(TEXTUS RECEPTUS NT(STRONGS)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Textus%20Receptus%20NT/Strongs%20Numbers/SF_2009-01-20_GRC_GNTTR_(TEXTUS%20RECEPTUS%20NT(STRONGS)).xml?raw=true
+.\GRC\The Analytic Septuagint\SF_2009-01-20_GRC_ALXX_(THE ANALYTIC SEPTUAGINT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/The%20Analytic%20Septuagint/SF_2009-01-20_GRC_ALXX_(THE%20ANALYTIC%20SEPTUAGINT).xml?raw=true
+.\GRC\The New Testament in the Original Greek - Byzantine Textform 2005\SF_2014-02-25_GRC_BYZ_(THE NEW TESTAMENT IN THE ORIGINAL GREEK - BYZANTINE TEXTFORM 2005).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/The%20New%20Testament%20in%20the%20Original%20Greek%20-%20Byzantine%20Textform%202005/SF_2014-02-25_GRC_BYZ_(THE%20NEW%20TESTAMENT%20IN%20THE%20ORIGINAL%20GREEK%20-%20BYZANTINE%20TEXTFORM%202005).xml?raw=true
+.\GRC\Tischendorf Greek NT\SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF GREEK NT(STRONGS)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Tischendorf%20Greek%20NT/SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF%20GREEK%20NT(STRONGS)).xml?raw=true
+.\GRC\Tischendorf Greek NT\SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF GREEK NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Tischendorf%20Greek%20NT/SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF%20GREEK%20NT).xml?raw=true
+.\GRC\Westcott-Hort Greek NT\Strongs Numbers\SF_2009-01-20_GRC_GNTWH_(WESTCOTT-HORT GREEK NEW TESTAMENT(STRONGS)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRC/Westcott-Hort%20Greek%20NT/Strongs%20Numbers/SF_2009-01-20_GRC_GNTWH_(WESTCOTT-HORT%20GREEK%20NEW%20TESTAMENT(STRONGS)).xml?raw=true
+.\GRE\Tischendorf Greek NT\SF_2009-01-20_GRE_TISCHENDORF_(TISCHENDORF GREEK NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/GRE/Tischendorf%20Greek%20NT/SF_2009-01-20_GRE_TISCHENDORF_(TISCHENDORF%20GREEK%20NT).xml?raw=true
+.\HAT\Haitian Creole Version\SF_2009-01-20_HAT_HAT_(HAITIAN CREOLE VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HAT/Haitian%20Creole%20Version/SF_2009-01-20_HAT_HAT_(HAITIAN%20CREOLE%20VERSION).xml?raw=true
+.\HEB\Aleppo Codex\SF_2009-01-22_HEB_ALEP_(ALEPPO CODEX).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HEB/Aleppo%20Codex/SF_2009-01-22_HEB_ALEP_(ALEPPO%20CODEX).xml?raw=true
+.\HEB\Biblia hebraica\SF_2009-01-20_HEB_BHS_(BIBLIA HEBRAICA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HEB/Biblia%20hebraica/SF_2009-01-20_HEB_BHS_(BIBLIA%20HEBRAICA).xml?raw=true
+.\HEB\Miqra al pi ha-Mesorah\SF_2014-07-09_HEB_MAPM_(MIQRA AL PI HA-MESORAH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HEB/Miqra%20al%20pi%20ha-Mesorah/SF_2014-07-09_HEB_MAPM_(MIQRA%20AL%20PI%20HA-MESORAH).xml?raw=true
+.\HEB\Modern Hebrew Bible\SF_2009-01-23_HEB_HEBM_(MODERN HEBREW BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HEB/Modern%20Hebrew%20Bible/SF_2009-01-23_HEB_HEBM_(MODERN%20HEBREW%20BIBLE).xml?raw=true
+.\HEB\Open Scriptures Morphological Hebrew Bible\SF_2012-04-21_HEB_OSMHB_(OPEN SCRIPTURES MORPHOLOGICAL HEBREW BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HEB/Open%20Scriptures%20Morphological%20Hebrew%20Bible/SF_2012-04-21_HEB_OSMHB_(OPEN%20SCRIPTURES%20MORPHOLOGICAL%20HEBREW%20BIBLE).xml?raw=true
+.\HEB\Westminster Leningrad Codex\SF_2009-01-20_HEB_WCL_(WESTMINSTER LENINGRAD CODEX).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HEB/Westminster%20Leningrad%20Codex/SF_2009-01-20_HEB_WCL_(WESTMINSTER%20LENINGRAD%20CODEX).xml?raw=true
+.\HIN\SF_2015-08-16_HIN_HINERV_(EASY-TO-READ VERSION (HINDI ERV)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HIN/SF_2015-08-16_HIN_HINERV_(EASY-TO-READ%20VERSION%20(HINDI%20ERV)).xml?raw=true
+.\HUN\Hungarian Version\SF_2009-01-20_HUN_HUN_(HUNGARIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HUN/Hungarian%20Version/SF_2009-01-20_HUN_HUN_(HUNGARIAN%20VERSION).xml?raw=true
+.\HUN\Magyar Ujforditasu Biblia\SF_2005-03-10_HUN_HUNUJ_(MAGYAR éJFORDÖTµSé BIBLIA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/HUN/Magyar%20Ujforditasu%20Biblia/SF_2005-03-10_HUN_HUNUJ_(MAGYAR%20%c3%a9JFORD%c3%96T%c2%b5S%c3%a9%20BIBLIA).xml?raw=true
+.\ITA\1649 Italian Giovanni Diodati Bibbia\SF_2009-01-23_ITA_ITADIO_(1649 ITALIAN GIOVANNI DIODATI BIBBIA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ITA/1649%20Italian%20Giovanni%20Diodati%20Bibbia/SF_2009-01-23_ITA_ITADIO_(1649%20ITALIAN%20GIOVANNI%20DIODATI%20BIBBIA).xml?raw=true
+.\ITA\Italian Version\SF_2009-01-20_ITA_ITALIAN1_(ITALIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ITA/Italian%20Version/SF_2009-01-20_ITA_ITALIAN1_(ITALIAN%20VERSION).xml?raw=true
+.\ITA\La Bibbia CEI 74\SF_2009-01-20_ITA_CEI74_(LA BIBBIA CEI 74).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ITA/La%20Bibbia%20CEI%2074/SF_2009-01-20_ITA_CEI74_(LA%20BIBBIA%20CEI%2074).xml?raw=true
+.\ITA\La Nuova Diodati 1991\SF_2009-01-20_ITA_LND_1991_(LA NUOVA DIODATI 1991).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ITA/La%20Nuova%20Diodati%201991/SF_2009-01-20_ITA_LND_1991_(LA%20NUOVA%20DIODATI%201991).xml?raw=true
+.\ITA\Riveduta 1990\SF_2009-01-20_ITA_IRV_1990_(RIVEDUTA 1990).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ITA/Riveduta%201990/SF_2009-01-20_ITA_IRV_1990_(RIVEDUTA%201990).xml?raw=true
+.\KAB\Kabyle NT\SF_2009-01-20_KAB_KABNT_(KABYLE NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/KAB/Kabyle%20NT/SF_2009-01-20_KAB_KABNT_(KABYLE%20NT).xml?raw=true
+.\KOR\Korean Version\SF_2009-01-20_KOR_KOR_(KOREAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/KOR/Korean%20Version/SF_2009-01-20_KOR_KOR_(KOREAN%20VERSION).xml?raw=true
+.\LAT\Biblia Sacra Vulgata\SF_2009-01-20_LAT_BIBLE_VULGATA_(BIBLIA SACRA VULGATA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAT/Biblia%20Sacra%20Vulgata/SF_2009-01-20_LAT_BIBLE_VULGATA_(BIBLIA%20SACRA%20VULGATA).xml?raw=true
+.\LAT\Biblia Sacra Vulgata\SF_2014-09-06_LAT_VULGATE_(BIBLIA SACRA VULGATA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAT/Biblia%20Sacra%20Vulgata/SF_2014-09-06_LAT_VULGATE_(BIBLIA%20SACRA%20VULGATA).xml?raw=true
+.\LAT\Clementine Vulgate\SF_2009-01-20_LAT_CLVUL_(CLEMENTINE VULGATE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAT/Clementine%20Vulgate/SF_2009-01-20_LAT_CLVUL_(CLEMENTINE%20VULGATE).xml?raw=true
+.\LAT\Nova Vulgata\SF_2009-01-23_LAT_NVLA_(NOVA VULGATA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAT/Nova%20Vulgata/SF_2009-01-23_LAT_NVLA_(NOVA%20VULGATA).xml?raw=true
+.\LAT\Vulgata Hetzenauer\SF_2014-02-26_LAT_VULGHETZENAUER_(VULGATA CLEMENTINA HETZENAUER EDITORE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAT/Vulgata%20Hetzenauer/SF_2014-02-26_LAT_VULGHETZENAUER_(VULGATA%20CLEMENTINA%20HETZENAUER%20EDITORE).xml?raw=true
+.\LAT\Vulgata Sistina\SF_2014-02-25_LAT_VULGSISTINE_(VULGATA SISTINA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAT/Vulgata%20Sistina/SF_2014-02-25_LAT_VULGSISTINE_(VULGATA%20SISTINA).xml?raw=true
+.\LAV\Lativian Version\SF_2009-01-20_LAV_LATV_(LATIVIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/LAV/Lativian%20Version/SF_2009-01-20_LAV_LATV_(LATIVIAN%20VERSION).xml?raw=true
+.\MAO\Maori Version\SF_2009-01-20_MAO_MAO_(MAORI VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/MAO/Maori%20Version/SF_2009-01-20_MAO_MAO_(MAORI%20VERSION).xml?raw=true
+.\NDS\Daut niee Testamente en de Psalme\SF_2009-01-20_NDS_DNTF_(DAUT NIEE TESTAMENTE EN DE PSALME).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/NDS/Daut%20niee%20Testamente%20en%20de%20Psalme/SF_2009-01-20_NDS_DNTF_(DAUT%20NIEE%20TESTAMENTE%20EN%20DE%20PSALME).xml?raw=true
+.\NDS\Reimer NT 2001\SF_2009-01-20_NDS_REIMERNT_(REIMER NT 2001).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/NDS/Reimer%20NT%202001/SF_2009-01-20_NDS_REIMERNT_(REIMER%20NT%202001).xml?raw=true
+.\NL\Dutch Statenvertaling\SF_2009-01-20_NL_DUTV_(DUTCH STATENVERTALING).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/NL/Dutch%20Statenvertaling/SF_2009-01-20_NL_DUTV_(DUTCH%20STATENVERTALING).xml?raw=true
+.\NOR\Norwegian Version\SF_2009-01-20_NOR_NOR_(NORWEGIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/NOR/Norwegian%20Version/SF_2009-01-20_NOR_NOR_(NORWEGIAN%20VERSION).xml?raw=true
+.\NOR\Studentmallagsbibelen 1921\SF_2012-01-27_NOR_NORSMB_(STUDENTMLLAGSBIBELEN FR 1921).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/NOR/Studentmallagsbibelen%201921/SF_2012-01-27_NOR_NORSMB_(STUDENTM%c2%8fLLAGSBIBELEN%20FR%c2%8f%201921).xml?raw=true
+.\POL\Polska Biblia\SF_2009-01-20_POL_POLAND_(POLSKA BIBLIA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/POL/Polska%20Biblia/SF_2009-01-20_POL_POLAND_(POLSKA%20BIBLIA).xml?raw=true
+.\PON\PohnOld\SF_2015-02-27_PON_POHNOLD_(OLD PUBLIC DOMAIN POHNPEIAN BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/PON/PohnOld/SF_2015-02-27_PON_POHNOLD_(OLD%20PUBLIC%20DOMAIN%20POHNPEIAN%20BIBLE).xml?raw=true
+.\POR\Portuguese Corrigida Fiel (1753\1995)\SF_2009-01-20_POR_ACF_(PORTUGUESE CORRIGIDA FIEL (1753_1995)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/POR/Portuguese%20Corrigida%20Fiel%20(1753/1995)/SF_2009-01-20_POR_ACF_(PORTUGUESE%20CORRIGIDA%20FIEL%20(1753_1995)).xml?raw=true
+.\POR\Portuguese Version\SF_2009-01-20_POR_PORT_(PORTUGUESE VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/POR/Portuguese%20Version/SF_2009-01-20_POR_PORT_(PORTUGUESE%20VERSION).xml?raw=true
+.\RUM\Cornilescu (1928)\SF_2013-11-20_RUM_RUC28_(CORNILESCU (1928)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUM/Cornilescu%20(1928)/SF_2013-11-20_RUM_RUC28_(CORNILESCU%20(1928)).xml?raw=true
+.\RUM\Orthographically Corrected Cornilescu Bible\SF_2013-09-09_RUM_RCCV_(ROMANIAN CORRECTED CORNILESCU BIBLE).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUM/Orthographically%20Corrected%20Cornilescu%20Bible/SF_2013-09-09_RUM_RCCV_(ROMANIAN%20CORRECTED%20CORNILESCU%20BIBLE).xml?raw=true
+.\RUS\Makarij Translation (Pentateuch) (1825)\SF_2013-11-22_RUS_MP28_(MAKARIJ TRANSLATION (PENTATEUCH) (1825)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUS/Makarij%20Translation%20(Pentateuch)%20(1825)/SF_2013-11-22_RUS_MP28_(MAKARIJ%20TRANSLATION%20(PENTATEUCH)%20(1825)).xml?raw=true
+.\RUS\Russian New Testament Strongs\SF_2009-01-20_RUS_RUSVZH_(RUSSIAN NEW TESTAMENT STRONGS).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUS/Russian%20New%20Testament%20Strongs/SF_2009-01-20_RUS_RUSVZH_(RUSSIAN%20NEW%20TESTAMENT%20STRONGS).xml?raw=true
+.\RUS\Russian Synodal Translation\SF_2009-01-20_RUS_RST_(RUSSIAN SYNODAL TRANSLATION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUS/Russian%20Synodal%20Translation/SF_2009-01-20_RUS_RST_(RUSSIAN%20SYNODAL%20TRANSLATION).xml?raw=true
+.\RUS\Russian Version\SF_2009-01-20_RUS_RUSSUB_(RUSSIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUS/Russian%20Version/SF_2009-01-20_RUS_RUSSUB_(RUSSIAN%20VERSION).xml?raw=true
+.\RUS\Ukrainian Version\SF_2009-01-23_RUS_UKRUB_(UKRAINIAN VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/RUS/Ukrainian%20Version/SF_2009-01-23_RUS_UKRUB_(UKRAINIAN%20VERSION).xml?raw=true
+.\SCR\Croatian Bible Version\SF_2009-01-23_SCR_CROAT_(CROATIAN BIBLE VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SCR/Croatian%20Bible%20Version/SF_2009-01-23_SCR_CROAT_(CROATIAN%20BIBLE%20VERSION).xml?raw=true
+.\SHU\Shuar NT\SF_2009-01-20_SHU_SHU_(SHUAR NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SHU/Shuar%20NT/SF_2009-01-20_SHU_SHU_(SHUAR%20NT).xml?raw=true
+.\SPA\Las Sagradas Escrituras\SF_2009-01-20_SPA_SEV_(LAS SAGRADAS ESCRITURAS).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SPA/Las%20Sagradas%20Escrituras/SF_2009-01-20_SPA_SEV_(LAS%20SAGRADAS%20ESCRITURAS).xml?raw=true
+.\SPA\Reina Valera 1989\SF_2009-01-20_SPA_RVA_(REINA VALERA 1989).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SPA/Reina%20Valera%201989/SF_2009-01-20_SPA_RVA_(REINA%20VALERA%201989).xml?raw=true
+.\SPA\Spanish Reina-Valera\SF_2009-01-22_SPA_BIBLE_SPARV_(SPANISH REINA-VALERA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SPA/Spanish%20Reina-Valera/SF_2009-01-22_SPA_BIBLE_SPARV_(SPANISH%20REINA-VALERA).xml?raw=true
+.\SWA\Swahili NT\SF_2009-01-20_SWA_SWA_(SWAHILI NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SWA/Swahili%20NT/SF_2009-01-20_SWA_SWA_(SWAHILI%20NT).xml?raw=true
+.\SWE\Svenska Folkbibeln (1998)\SF_2009-08-01_SWE_SWEFOLK1998_(SVENSKA FOLKBIBELN (1998)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SWE/Svenska%20Folkbibeln%20(1998)/SF_2009-08-01_SWE_SWEFOLK1998_(SVENSKA%20FOLKBIBELN%20(1998)).xml?raw=true
+.\SWE\Swedish 1917 Version\SF_2009-01-20_SWE_SVD_(SWEDISH 1917 VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SWE/Swedish%201917%20Version/SF_2009-01-20_SWE_SVD_(SWEDISH%201917%20VERSION).xml?raw=true
+.\SYR\Syriac Peshitta NT\SF_2009-01-20_SYR_SYP_(SYRIAC PESHITTA NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/SYR/Syriac%20Peshitta%20NT/SF_2009-01-20_SYR_SYP_(SYRIAC%20PESHITTA%20NT).xml?raw=true
+.\TGL\Ang Dating Biblia\SF_2009-01-20_TGL_TLGANGBIBLIA_(ANG DATING BIBLIA).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/TGL/Ang%20Dating%20Biblia/SF_2009-01-20_TGL_TLGANGBIBLIA_(ANG%20DATING%20BIBLIA).xml?raw=true
+.\THA\KJV-Thai\SF_2009-01-20_THA_KJVTHAI_(KJV-THAI).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/THA/KJV-Thai/SF_2009-01-20_THA_KJVTHAI_(KJV-THAI).xml?raw=true
+.\TUR\Southern Azeri Translation\SF_2012-01-07_AZB_AZERI_(DESCRIPTION_EN=SOUTHERN AZERI TRANSLATION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/TUR/Southern%20Azeri%20Translation/SF_2012-01-07_AZB_AZERI_(DESCRIPTION_EN=SOUTHERN%20AZERI%20TRANSLATION).xml?raw=true
+.\TUR\Turkish\SF_2004-07-28_TUR_BB31_(TURKISH).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/TUR/Turkish/SF_2004-07-28_TUR_BB31_(TURKISH).xml?raw=true
+.\UND\Uma Version\SF_2009-01-20_UND_UMA_(UMA VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/UND/Uma%20Version/SF_2009-01-20_UND_UMA_(UMA%20VERSION).xml?raw=true
+.\VIE\New Vietnamese Bible (2002)\SF_2009-03-11_VIE_VIETNVB_(NEW VIETNAMESE BIBLE (2002)).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/VIE/New%20Vietnamese%20Bible%20(2002)/SF_2009-03-11_VIE_VIETNVB_(NEW%20VIETNAMESE%20BIBLE%20(2002)).xml?raw=true
+.\VIE\Vietnamese Version\SF_2009-01-20_VIE_VIE_(VIETNAMESE VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/VIE/Vietnamese%20Version/SF_2009-01-20_VIE_VIE_(VIETNAMESE%20VERSION).xml?raw=true
+.\WIU\SF_2014-05-12_WIU_WITNT_(THE NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/WIU/SF_2014-05-12_WIU_WITNT_(THE%20NEW%20TESTAMENT).xml?raw=true
+.\XKL\Klingon Version\SF_2009-01-22_XKL_KLINGON_(KLINGON VERSION).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/XKL/Klingon%20Version/SF_2009-01-22_XKL_KLINGON_(KLINGON%20VERSION).xml?raw=true
+.\YBY\SF_2014-05-12_YBY_YAWNT_(THE NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/YBY/SF_2014-05-12_YBY_YAWNT_(THE%20NEW%20TESTAMENT).xml?raw=true
+.\YUW\SF_2014-05-06_YUW_NTYAU_(THE NEW TESTAMENT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/YUW/SF_2014-05-06_YUW_NTYAU_(THE%20NEW%20TESTAMENT).xml?raw=true
+.\ZIA\SF_2014-04-22_ZIA_ZIANT_(ZIA NT).xml,https://github.com/kohelet-net-admin/zefania-xml-bibles/blob/master/Bibles/ZIA/SF_2014-04-22_ZIA_ZIANT_(ZIA%20NT).xml?raw=true
