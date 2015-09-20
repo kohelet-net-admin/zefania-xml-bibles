@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Visit the online documentation for Zefania XML Markup-->
+<!--http://bgfdb.de/zefaniaxml/bml/-->
+<!--Download another Zefania XML files from-->
+<!--http://sourceforge.net/projects/zefania-sharp-->
+<XMLBIBLE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xmlbible_pre_1008.xsd" version="1.0.0.8" status="v" biblename="The Epistle to the Galatians (Hermann Detering)">
+  <INFORMATION>
+    <title>The Epistle to the Galatians(Detering)</title>
+    <creator>Snoopy</creator>
+    <subject>holy bible</subject>
+    <type>bible portion</type>
+    <publisher>Bibleway</publisher>
+    <identifier>MARCGAL</identifier>
+    <source>http://radikalkritik.de/Marcgal_eng.htm</source>
+    <format>Zefania XML Bible Markup Language</format>
+    <date>25.04.2004</date>
+    <language>ENG</language>
+  </INFORMATION>
+  <BIBLEBOOK bnumber="48" bname="Galater" bsname="Gal">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="0">The Epistle to the Galatians</VERS>
+      <VERS vnumber="0">English version of the translation by Hermann Detering </VERS>
+      <VERS vnumber="0">provided by Frans-Joris Fabri (based on RSV)</VERS>
+      <VERS vnumber="0">
+        <DIV>
+          <NOTE type="x-erased">Original (Marcionite) Text, erased by Catholic Editor</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="0">
+        <DIV>
+          <NOTE type="x-studynote">Catholic Substitute, resp. Addition</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="0">Numbers in brackets refer to:  IV. Explanations</VERS>
+      <VERS vnumber="0">Introduction: Paul, called to be an Apostle not by man, but by God</VERS>
+      <VERS vnumber="1">Paul, an apostle- not from men nor through man, but through Jesus Christ <DIV><NOTE type="x-studynote">and God the Father</NOTE></DIV>, who <DIV><NOTE type="x-erased">rose</NOTE></DIV><DIV><NOTE type="x-studynote"> raised him</NOTE></DIV> from the dead (1)</VERS>
+      <VERS vnumber="2">and all the brothers who are with me, To the churches of Galatia:</VERS>
+      <VERS vnumber="3">Grace to you and peace from God our Father and the Lord Jesus Christ,</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">to whom be the glory forever and ever. Amen. </NOTE>
+        </DIV>(2)</VERS>
+      <VERS vnumber="0">There is but one Gospel: Paul’s</VERS>
+      <VERS vnumber="6">I am astonished that you are so quickly deserting him who called you in the grace [of Christ] (3) and are turning to a different gospel,</VERS>
+      <VERS vnumber="7">which <DIV><NOTE type="x-erased">according to my Gospel </NOTE></DIV>[4] is not “another one” [coming from “another” God]<DIV><NOTE type="x-erased"> at all</NOTE></DIV>, but there are some who trouble you and want to distort the gospel of Christ.</VERS>
+      <VERS vnumber="8">But even if we [the original author here refers to the Paul of Acts] or an angel from heaven [of the Creator God] should preach [to you] something different from what we preached to you, let him be accursed!</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote"> As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed!</NOTE>
+        </DIV> (5)</VERS>
+      <VERS vnumber="10">For am I now [saying just this] seeking the approval of man, or of <DIV><NOTE type="x-erased">the</NOTE></DIV> God <DIV><NOTE type="x-erased">of this aeon</NOTE></DIV>[i.e. the Creator God]? (6) Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.</VERS>
+      <VERS vnumber="0">Paul’s Gospel, received not from the Jerusalem Apostles, but from Jesus Christ</VERS>
+      <VERS vnumber="11">For I would have you know, brothers, that the gospel that was preached by me is not man's gospel.</VERS>
+      <VERS vnumber="12">For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.</VERS>
+      <VERS vnumber="13">
+        <DIV>
+          <NOTE type="x-studynote">For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="14">
+        <DIV>
+          <NOTE type="x-studynote"> And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers. </NOTE>
+        </DIV>(7)</VERS>
+      <VERS vnumber="15">But when he who had set me apart before I was born, and who called me by his grace,</VERS>
+      <VERS vnumber="16">was pleased (8) to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with flesh and blood;</VERS>
+      <VERS vnumber="17">nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.</VERS>
+      <VERS vnumber="18">
+        <DIV>
+          <NOTE type="x-studynote">Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="19">
+        <DIV>
+          <NOTE type="x-studynote">But I saw none of the other apostles except James the Lord's brother.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="20">
+        <DIV>
+          <NOTE type="x-studynote">In what I am writing to you, before God [I profess], I do not lie!</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="21">
+        <DIV>
+          <NOTE type="x-studynote"> Then I went into the regions of Syria and Cilicia.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="22">
+        <DIV>
+          <NOTE type="x-studynote">And I was still unknown in person to the churches of Judea that are in Christ.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="23">
+        <DIV>
+          <NOTE type="x-studynote">They only were hearing it said, "He who used to persecute us is now preaching the faith he once tried to destroy."</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="24">
+        <DIV>
+          <NOTE type="x-studynote">And they glorified God because of me. </NOTE>
+        </DIV>(9)</VERS>
+    </CHAPTER>
+    <CHAPTER cnumber="2">
+      <VERS vnumber="0">The Conflict about the Truth of the Gospel (= the Gospel free from the O.T.) Paul does not submit to the Jewish False Brothers</VERS>
+      <VERS vnumber="1">Then after fourteen years I went up <DIV><NOTE type="x-studynote">again</NOTE></DIV> to Jerusalem <DIV><NOTE type="x-studynote">with Barnabas</NOTE></DIV>, taking Titus along with me.</VERS>
+      <VERS vnumber="2">I went up because of a revelation and set before them <DIV><NOTE type="x-studynote">(though privately before those who seemed influential)</NOTE></DIV> the gospel that I proclaim among the Gentiles, <DIV><NOTE type="x-studynote">in order to make sure I was not running or had not run in vain. </NOTE></DIV>(10)</VERS>
+      <VERS vnumber="3">But even Titus, who was with me, was not forced to be circumcised, though he was a Greek</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">Yet</NOTE>
+        </DIV> because of false brothers secretly brought in- who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery-</VERS>
+      <VERS vnumber="5">to them we did not yield in submission <DIV><NOTE type="x-erased">not even</NOTE></DIV> for a moment, so that the truth of the gospel might be preserved for you. (11)</VERS>
+      <VERS vnumber="6">And from those who seemed to be influential [….] (12) (what they were makes no difference to me; God shows no partiality)- those, I say, who seemed influential added nothing to me.</VERS>
+      <VERS vnumber="7">On the contrary, when they saw that I had been entrusted with the gospel<DIV><NOTE type="x-studynote"> to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised,</NOTE></DIV></VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles, </NOTE>
+        </DIV>(13)</VERS>
+      <VERS vnumber="9">and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to <DIV><NOTE type="x-studynote">Barnabas and</NOTE></DIV> me, that <DIV><NOTE type="x-studynote">we</NOTE></DIV><DIV><NOTE type="x-erased"> I</NOTE></DIV> should go to the Gentiles and they to the circumcised.</VERS>
+      <VERS vnumber="10">
+        <DIV>
+          <NOTE type="x-studynote"> Only, they asked us to remember the poor, the very thing I was eager to do. </NOTE>(14)</DIV>
+      </VERS>
+      <VERS vnumber="0">The Conflict about the Truth of the Gospel:  Conflict with Cephas in Antioch</VERS>
+      <VERS vnumber="11">But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.</VERS>
+      <VERS vnumber="12">For before <DIV><NOTE type="x-erased">he came</NOTE></DIV><DIV><NOTE type="x-studynote">certain men came from James</NOTE></DIV>, (15) he was eating with the Gentiles; but when<DIV><NOTE type="x-studynote"> they</NOTE></DIV><DIV><NOTE type="x-erased"> he</NOTE></DIV> came he drew back and separated himself, fearing the circumcision party.</VERS>
+      <VERS vnumber="13">And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy.</VERS>
+      <VERS vnumber="14">But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, "If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?"</VERS>
+      <VERS vnumber="15">
+        <DIV>
+          <NOTE type="x-studynote">We ourselves are Jews by birth and not Gentile sinners;</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">
+        <DIV>
+          <NOTE type="x-studynote">yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-erased"> [If you live by the law, God would have rebuilt what he had tore down before and so would be found out to be a transgressor of the law]</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">
+        <DIV>
+          <NOTE type="x-studynote">But if, in our endeavor to be justified in Christ, we too were found to be sinners, is Christ then a servant of sin? Certainly not! </NOTE>
+        </DIV>(16)</VERS>
+      <VERS vnumber="18">For if I rebuild what I tore down, I prove myself to be a transgressor [of the law which had been torn down].</VERS>
+      <VERS vnumber="19">For through the law I died to the law, so that I might live to God. I have been crucified with Christ.</VERS>
+      <VERS vnumber="20">It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who<DIV><NOTE type="x-studynote">loved</NOTE></DIV><DIV><NOTE type="x-erased"> ransomed me from the God of the Law</NOTE></DIV> [and gave himself for me]. (17)</VERS>
+      <VERS vnumber="21">I do not nullify the grace<DIV><NOTE type="x-studynote"> of God</NOTE></DIV>, for if justification were through the law, then Christ died for no purpose [no liberation from the Creator God].</VERS>
+    </CHAPTER>
+    <CHAPTER cnumber="3">
+      <VERS vnumber="0">The Spirit and Miraculous Powers are received by faith, not by Works of the Law</VERS>
+      <VERS vnumber="1">O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified.</VERS>
+      <VERS vnumber="2">Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith?</VERS>
+      <VERS vnumber="3">Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?</VERS>
+      <VERS vnumber="4">Did you suffer so many things in vain- if indeed it was in vain?</VERS>
+      <VERS vnumber="5">Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith-</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote"> just as Abraham "believed God, and it was counted to him as righteousness".</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote"> Know then that it is those of faith who are the sons of Abraham.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote"> And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, "In you shall all the nations be blessed.</NOTE>
+        </DIV>"</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">So then, those who are of faith are blessed along with Abraham, the man of faith. </NOTE>
+        </DIV>(18)</VERS>
+      <VERS vnumber="0">The Curse of the Law and the Blessing of Faith</VERS>
+      <VERS vnumber="10">
+        <DIV>
+          <NOTE type="x-erased">Learn: The righteous by faith shall live.</NOTE>
+        </DIV> For <DIV><NOTE type="x-erased">those under the law</NOTE></DIV><DIV><NOTE type="x-studynote"> all who rely on works of the law</NOTE></DIV> are under a curse; <DIV><NOTE type="x-studynote">for it is written, "Cursed be everyone who does not abide by all things written in the Book of the Law, and do them."</NOTE></DIV></VERS>
+      <VERS vnumber="11">
+        <DIV>
+          <NOTE type="x-studynote"> Now it is evident that no one is justified before God by the law, for "The righteous shall live by faith."</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">
+        <DIV>
+          <NOTE type="x-studynote">But the law is not of faith, rather "</NOTE>
+        </DIV>The one who does them shall live by them." (19)</VERS>
+      <VERS vnumber="13">Christ redeemed us from the curse of the law by becoming a curse for us-<DIV><NOTE type="x-studynote"> for it is written,</NOTE></DIV> "Cursed is everyone who is hanged on a tree"- (20)</VERS>
+      <VERS vnumber="14">
+        <DIV>
+          <NOTE type="x-studynote">so that in Christ Jesus the blessing of Abraham might come to the Gentiles</NOTE>
+        </DIV>, <DIV><NOTE type="x-erased">Let us now receive the blessing of the Spirit</NOTE></DIV><DIV><NOTE type="x-studynote">so that we might receive the promised Spirit</NOTE></DIV> through faith! (21)</VERS>
+      <VERS vnumber="15">
+        <DIV>
+          <NOTE type="x-studynote"> To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">
+        <DIV>
+          <NOTE type="x-studynote">Now the promises were made to Abraham and to his offspring. It does not say, "And to offsprings," referring to many, but referring to one, "And to your offspring," who is Christ.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">
+        <DIV>
+          <NOTE type="x-studynote">This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="18">
+        <DIV>
+          <NOTE type="x-studynote">For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="19">
+        <DIV>
+          <NOTE type="x-studynote">Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="20">
+        <DIV>
+          <NOTE type="x-studynote">Now an intermediary implies more than one, but God is one</NOTE>
+        </DIV>.</VERS>
+      <VERS vnumber="21">
+        <DIV>
+          <NOTE type="x-studynote"> Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="22">
+        <DIV>
+          <NOTE type="x-studynote"> But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="23">
+        <DIV>
+          <NOTE type="x-studynote">Now before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="24">
+        <DIV>
+          <NOTE type="x-studynote">So then, the law was our guardian until Christ came, in order that we might be justified by faith.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="25">
+        <DIV>
+          <NOTE type="x-studynote"> But now that faith has come, we are no longer under a guardian, </NOTE>
+        </DIV>(22)</VERS>
+      <VERS vnumber="26">for you are all sons <DIV><NOTE type="x-erased">of faith</NOTE></DIV><DIV><NOTE type="x-studynote"> of God, through faith in Christ Jesus. </NOTE></DIV>(23)</VERS>
+      <VERS vnumber="27">
+        <DIV>
+          <NOTE type="x-studynote">For as many of you as were baptized into Christ have put on Christ.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="28">
+        <DIV>
+          <NOTE type="x-studynote">There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female, for you are all one in Christ Jesus.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="29">
+        <DIV>
+          <NOTE type="x-studynote"> And if you are Christ's, then you are Abraham's offspring, heirs according to promise.</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">I <DIV><NOTE type="x-studynote"> mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything,</NOTE></DIV></VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote"> but he is under guardians and managers until the date set by his father.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="0">Breaking with the Truth of the Gospel means a Return to the Demiurge and his Angelic and Elementary Principles</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-erased"> I’m saying this in a human way: </NOTE>
+        </DIV>(24)<DIV><NOTE type="x-studynote"> In the same way we also</NOTE></DIV>, when we were children, were enslaved to the elementary principles of the world.</VERS>
+      <VERS vnumber="4">But when the fullness of time had come, God sent forth his Son, born of woman, <DIV><NOTE type="x-studynote">born under the law, </NOTE></DIV>(25)</VERS>
+      <VERS vnumber="5">to redeem those who were under the law, so that we might receive adoption as sons.</VERS>
+      <VERS vnumber="6">And because <DIV><NOTE type="x-erased">we</NOTE></DIV><DIV><NOTE type="x-studynote"> you</NOTE></DIV> are sons, <DIV><NOTE type="x-erased">he</NOTE></DIV><DIV><NOTE type="x-studynote"> God</NOTE></DIV> has sent <DIV><NOTE type="x-erased">his</NOTE></DIV><DIV><NOTE type="x-studynote">the</NOTE></DIV> Spirit (26) <DIV><NOTE type="x-studynote">of his Son</NOTE></DIV> into our hearts, crying, "Abba! Father!"</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">So you are no longer a slave, but a son, and if a son, then an heir through God.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">Formerly, when you did not know God</NOTE>
+        </DIV>, <DIV><NOTE type="x-erased">When</NOTE></DIV> you were enslaved to the gods <DIV><NOTE type="x-erased">in</NOTE></DIV><DIV><NOTE type="x-studynote"> who by</NOTE></DIV> nature <DIV><NOTE type="x-studynote">are not.</NOTE></DIV> (28)</VERS>
+      <VERS vnumber="9">But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world [that are, according to marcionite-gnostic doctrine, responsible for the law] whose slaves you want to be once more?</VERS>
+      <VERS vnumber="10">You observe days and months and seasons and years <DIV><NOTE type="x-erased">and Sabbaths I think, and kosher meals and fasting and holy days!</NOTE></DIV> (29)</VERS>
+      <VERS vnumber="11">I am afraid I may have labored over you in vain.</VERS>
+      <VERS vnumber="0">Personal Address: from God’s Angel to “Enemy”</VERS>
+      <VERS vnumber="12">Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong.</VERS>
+      <VERS vnumber="13">You know it was because of a bodily ailment that I preached the gospel to you at first,</VERS>
+      <VERS vnumber="14">and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus.</VERS>
+      <VERS vnumber="15">What then has become of the blessing you felt? For I testify to you that, if possible, you would have gouged out your eyes and given them to me.</VERS>
+      <VERS vnumber="16">Have I then become your enemy by telling you the truth [of the Gospel]?</VERS>
+      <VERS vnumber="17">They make much of you, but for no good purpose. They want to shut you out, that you may make much of them.</VERS>
+      <VERS vnumber="18">It is always good to be made much of for a good purpose, and not only when I am present with you,</VERS>
+      <VERS vnumber="19">my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!</VERS>
+      <VERS vnumber="20">I wish I could be present with you now and change my tone, for I am perplexed about you.</VERS>
+      <VERS vnumber="0">Allegorical Exegesis: the Faithful as Sons of the Free Woman, not of the Slave</VERS>
+      <VERS vnumber="21">Tell me, you who desire to be under the law, do you not listen to the law?</VERS>
+      <VERS vnumber="22">For it is written that Abraham had two sons, one by a slave woman and one by a free woman.</VERS>
+      <VERS vnumber="23">But the son of the slave was born according to the flesh, while the son of the free woman was born through promise. (30)</VERS>
+      <VERS vnumber="24">Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children <DIV><NOTE type="x-erased">by the Law to the Jews’ Synagogue</NOTE></DIV> for slavery; <DIV><NOTE type="x-studynote">she is Hagar.</NOTE></DIV><DIV><NOTE type="x-erased">The other who bears, higher than all Principality, Virtue, Power, higher than any Name ever named, not only in this Aeon but in that to come,</NOTE></DIV></VERS>
+      <VERS vnumber="25">
+        <DIV>
+          <NOTE type="x-studynote"> Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="26">
+        <DIV>
+          <NOTE type="x-studynote">But the Jerusalem above is free</NOTE>
+        </DIV>, and she is our mother.</VERS>
+      <VERS vnumber="27">
+        <DIV>
+          <NOTE type="x-studynote"> For it is written, "Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor! For the children of the desolate one will be more than those of the one who has a husband."</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="28">
+        <DIV>
+          <NOTE type="x-studynote">Now you, brothers, like Isaac, are children of promise.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="29">
+        <DIV>
+          <NOTE type="x-studynote"> But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="30">
+        <DIV>
+          <NOTE type="x-studynote"> But what does the Scripture say? "Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman." </NOTE>
+        </DIV>(31)</VERS>
+      <VERS vnumber="31">So, brothers, we are not children of the slave but of the free woman.</VERS>
+    </CHAPTER>
+    <CHAPTER cnumber="5">
+      <VERS vnumber="0">If a man accepts  Circumcision he does no   longer belong to Christ but acts against the Truth of the Gospel</VERS>
+      <VERS vnumber="1">
+        <DIV>
+          <NOTE type="x-erased"> In the freedom for which Christ has set us free; stand firm! </NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">For freedom Christ has set us free, therefore stand firm </NOTE>
+        </DIV>(32) and do not submit again to a yoke of slavery.</VERS>
+      <VERS vnumber="2">Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you.</VERS>
+      <VERS vnumber="3">I testify again <DIV><NOTE type="x-erased">that a man who accepts circumscision</NOTE></DIV><DIV><NOTE type="x-studynote"> to every man who accepts circumcision that he</NOTE></DIV> is obligated to keep the whole law.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-erased"> [Remove the mark of slavery]</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote"> You are severed from Christ,</NOTE>
+        </DIV> (33)you who would be justified by the law; you have fallen away from grace.</VERS>
+      <VERS vnumber="5">For through the Spirit, by faith, we ourselves eagerly wait for the hope of righteousness.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote"> For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.</NOTE>
+        </DIV> (34)</VERS>
+      <VERS vnumber="7">You were running well. Who hindered you from obeying the truth?</VERS>
+      <VERS vnumber="8">This persuasion is not from him who calls you.</VERS>
+      <VERS vnumber="9">A little leaven <DIV><NOTE type="x-erased">spoils</NOTE></DIV><DIV><NOTE type="x-studynote"> leavens</NOTE></DIV> the whole lump. (35)</VERS>
+      <VERS vnumber="10">I have confidence <DIV><NOTE type="x-erased">in the Lord</NOTE></DIV> that you will take no other view than mine, and the one who is troubling you will bear the penalty, whoever he is.</VERS>
+      <VERS vnumber="11">But if I, brothers, still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed.</VERS>
+      <VERS vnumber="12">I wish those who unsettle you would emasculate themselves!</VERS>
+      <VERS vnumber="13">For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another.</VERS>
+      <VERS vnumber="14">For the whole law is fulfilled for you <DIV><NOTE type="x-studynote">in one word:</NOTE></DIV> "You shall love your neighbor as yourself." (36)</VERS>
+      <VERS vnumber="15">But if you bite and devour one another, watch out that you are not consumed by one another.</VERS>
+      <VERS vnumber="0">  The Flesh Crucified: Walking by the Spirit, not by the Flesh</VERS>
+      <VERS vnumber="16">But I say, walk by the Spirit, and you will not gratify the desires of the flesh.</VERS>
+      <VERS vnumber="17">For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.</VERS>
+      <VERS vnumber="18">But if you are led by the Spirit, you are not under the law.</VERS>
+      <VERS vnumber="19">Now the works of the flesh are evident: [adultery] sexual immorality, impurity, sensuality,</VERS>
+      <VERS vnumber="20">idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,</VERS>
+      <VERS vnumber="21">
+        <DIV>
+          <NOTE type="x-erased">murder</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote"> envy</NOTE>
+        </DIV>, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God. (37)</VERS>
+      <VERS vnumber="22">But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,</VERS>
+      <VERS vnumber="23">gentleness, self-control; against such things there is no law.</VERS>
+      <VERS vnumber="24">And those who belong to Christ <DIV><NOTE type="x-studynote">Jesus</NOTE></DIV> have crucified the flesh with its passions and desires.</VERS>
+      <VERS vnumber="25">If we live by the Spirit, let us also walk by the Spirit.</VERS>
+      <VERS vnumber="26">Let us not become conceited, provoking one another, envying one another.</VERS>
+    </CHAPTER>
+    <CHAPTER cnumber="6">
+      <VERS vnumber="0"> Conclusions to be Practiced in the Community</VERS>
+      <VERS vnumber="1">Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.</VERS>
+      <VERS vnumber="2">Bear one another's burdens, and so fulfill the law of Christ.</VERS>
+      <VERS vnumber="3">For if anyone thinks he is something, when he is nothing, he deceives himself.</VERS>
+      <VERS vnumber="4">But let each one test his own work, and then his reason to boast will be in himself alone and not in his neighbor.</VERS>
+      <VERS vnumber="5">For each will have to bear his own load.</VERS>
+      <VERS vnumber="6">One who is taught the word must share all good things with the one who teaches [him]. (38)</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-erased">You are deceived!</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote"> Do not be deceived</NOTE>
+        </DIV> (39) God is not mocked, for whatever one sows, that will he also reap.</VERS>
+      <VERS vnumber="8">For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life.</VERS>
+      <VERS vnumber="9">And let us not grow weary of doing good, <DIV><NOTE type="x-studynote">for in due season we will reap, if we do not give up.</NOTE></DIV></VERS>
+      <VERS vnumber="10">
+        <DIV>
+          <NOTE type="x-erased">And</NOTE>
+        </DIV> So <DIV><NOTE type="x-studynote">then</NOTE></DIV>, as we have opportunity, let us do good, <DIV><NOTE type="x-erased">when the time comes we will reap</NOTE></DIV><DIV><NOTE type="x-studynote"> to everyone, and especially to those who are of the household of faith.</NOTE></DIV> (40)</VERS>
+      <VERS vnumber="0">The true Motives of the Judaising Heretics</VERS>
+      <VERS vnumber="11">See with what large letters I am writing to you with my own hand.</VERS>
+      <VERS vnumber="12">It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of Christ.</VERS>
+      <VERS vnumber="13">For even those who are circumcised do not themselves keep the law, but they desire to have you circumcised that they may boast in your flesh. (41)</VERS>
+      <VERS vnumber="14">But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world.</VERS>
+      <VERS vnumber="15">
+        <DIV>
+          <NOTE type="x-studynote">For neither circumcision counts for anything, nor uncircumcision, but a new creation.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">
+        <DIV>
+          <NOTE type="x-studynote"> And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of God. </NOTE>
+        </DIV>(42)</VERS>
+      <VERS vnumber="0">Conclusion: Paul bears the Marks of Christ</VERS>
+      <VERS vnumber="17">From now on let no one cause me trouble, for I bear on my body the marks of <DIV><NOTE type="x-erased">Christ</NOTE></DIV><DIV><NOTE type="x-studynote">Jesus. </NOTE></DIV>(43)</VERS>
+      <VERS vnumber="18">The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>
