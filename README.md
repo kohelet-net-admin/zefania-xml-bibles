@@ -8,6 +8,7 @@ This is a clone of all XML files from Zefania XML
 ## Please see origin sources from
 * https://plus.google.com/u/0/communities/109708308486675468431
 * http://sourceforge.net/projects/zefania-sharp/files/
+* http://bgfdb.de/zefania.de/
 
 ## For bible reader app authors
 * An index file to all available bibles is available at 
