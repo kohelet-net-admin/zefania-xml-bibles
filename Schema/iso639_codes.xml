@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iso639languagecodes>
+  <codes>
+    
+    <code id="1" threecharcode="aar" twocharcode="aa"/>
+    <code id="2" threecharcode="abk" twocharcode="ab"/>
+    <code id="3" threecharcode="ace"/>
+    <code id="4" threecharcode="ach"/>
+    <code id="5" threecharcode="ada"/>
+    <code id="6" threecharcode="ady"/>
+    <code id="7" threecharcode="afa"/>
+    <code id="8" threecharcode="afh"/>
+    <code id="9" threecharcode="afr" twocharcode="af"/>
+    <code id="10" threecharcode="aka" twocharcode="ak"/>
+    <code id="11" threecharcode="akk"/>
+    <code id="12" threecharcode="alb" threecharcode2="sqi" twocharcode="sq"/>
+    <code id="13" threecharcode="ale"/>
+    <code id="14" threecharcode="alg"/>
+    <code id="15" threecharcode="amh" twocharcode="am"/>
+    <code id="16" threecharcode="ang"/>
+    <code id="17" threecharcode="apa"/>
+    <code id="18" threecharcode="ara" twocharcode="ar"/>
+    <code id="19" threecharcode="arc"/>
+    <code id="20" threecharcode="arg" twocharcode="an"/>
+    <code id="21" threecharcode="arm" threecharcode2="hye" twocharcode="hy"/>
+    <code id="22" threecharcode="arn"/>
+    <code id="23" threecharcode="arp"/>
+    <code id="24" threecharcode="art"/>
+    <code id="25" threecharcode="arw"/>
+    <code id="26" threecharcode="asm" twocharcode="as"/>
+    <code id="27" threecharcode="ast"/>
+    <code id="28" threecharcode="ath"/>
+    <code id="29" threecharcode="aus"/>
+    <code id="30" threecharcode="ava" twocharcode="av"/>
+    <code id="31" threecharcode="ave" twocharcode="ae"/>
+    <code id="32" threecharcode="awa"/>
+    <code id="33" threecharcode="aym" twocharcode="ay"/>
+    <code id="34" threecharcode="aze" twocharcode="az"/>
+    <code id="35" threecharcode="bad"/>
+    <code id="36" threecharcode="bai"/>
+    <code id="37" threecharcode="bak" twocharcode="ba"/>
+    <code id="38" threecharcode="bal"/>
+    <code id="39" threecharcode="bam" twocharcode="bm"/>
+    <code id="40" threecharcode="ban"/>
+    <code id="41" threecharcode="baq" threecharcode2="eus" twocharcode="eu"/>
+    <code id="42" threecharcode="bas"/>
+    <code id="43" threecharcode="bat"/>
+    <code id="44" threecharcode="bej"/>
+    <code id="45" threecharcode="bel" twocharcode="be"/>
+    <code id="46" threecharcode="bem"/>
+    <code id="47" threecharcode="ben" twocharcode="bn"/>
+    <code id="48" threecharcode="ber"/>
+    <code id="49" threecharcode="bho"/>
+    <code id="50" threecharcode="bih" twocharcode="bh"/>
+    <code id="51" threecharcode="bik"/>
+    <code id="52" threecharcode="bin"/>
+    <code id="53" threecharcode="bis" twocharcode="bi"/>
+    <code id="54" threecharcode="bla"/>
+    <code id="55" threecharcode="bnt"/>
+    <code id="56" threecharcode="bos" twocharcode="bs"/>
+    <code id="57" threecharcode="bra"/>
+    <code id="58" threecharcode="bre" twocharcode="br"/>
+    <code id="59" threecharcode="btk"/>
+    <code id="60" threecharcode="bua"/>
+    <code id="61" threecharcode="bug"/>
+    <code id="62" threecharcode="bul" twocharcode="bg"/>
+    <code id="63" threecharcode="bur" threecharcode2="mya" twocharcode="my"/>
+    <code id="64" threecharcode="byn"/>
+    <code id="65" threecharcode="cad"/>
+    <code id="66" threecharcode="cai"/>
+    <code id="67" threecharcode="car"/>
+    <code id="68" threecharcode="cat" twocharcode="ca"/>
+    <code id="69" threecharcode="cau"/>
+    <code id="70" threecharcode="ceb"/>
+    <code id="71" threecharcode="cel"/>
+    <code id="72" threecharcode="cha" twocharcode="ch"/>
+    <code id="73" threecharcode="chb"/>
+    <code id="74" threecharcode="che" twocharcode="ce"/>
+    <code id="75" threecharcode="chg"/>
+    <code id="76" threecharcode="chi" threecharcode2="zho" twocharcode="zh"/>
+    <code id="77" threecharcode="chk"/>
+    <code id="78" threecharcode="chm"/>
+    <code id="79" threecharcode="chn"/>
+    <code id="80" threecharcode="cho"/>
+    <code id="81" threecharcode="chp"/>
+    <code id="82" threecharcode="chr"/>
+    <code id="83" threecharcode="chu" twocharcode="cu"/>
+    <code id="84" threecharcode="chv" twocharcode="cv"/>
+    <code id="85" threecharcode="chy"/>
+    <code id="86" threecharcode="cmc"/>
+    <code id="87" threecharcode="cop"/>
+    <code id="88" threecharcode="cor" twocharcode="kw"/>
+    <code id="89" threecharcode="cos" twocharcode="co"/>
+    <code id="90" threecharcode="cpe"/>
+    <code id="91" threecharcode="cpf"/>
+    <code id="92" threecharcode="cpp"/>
+    <code id="93" threecharcode="cre" twocharcode="cr"/>
+    <code id="94" threecharcode="crh"/>
+    <code id="95" threecharcode="crp"/>
+    <code id="96" threecharcode="csb"/>
+    <code id="97" threecharcode="cus"/>
+    <code id="98" threecharcode="cze" threecharcode2="ces" twocharcode="cs"/>
+    <code id="99" threecharcode="dak"/>
+    <code id="100" threecharcode="dan" twocharcode="da"/>
+    <code id="101" threecharcode="dar"/>
+    <code id="102" threecharcode="day"/>
+    <code id="103" threecharcode="del"/>
+    <code id="104" threecharcode="den"/>
+    <code id="105" threecharcode="dgr"/>
+    <code id="106" threecharcode="din"/>
+    <code id="107" threecharcode="div" twocharcode="dv"/>
+    <code id="108" threecharcode="doi"/>
+    <code id="109" threecharcode="dra"/>
+    <code id="110" threecharcode="dsb"/>
+    <code id="111" threecharcode="dua"/>
+    <code id="112" threecharcode="dum"/>
+    <code id="113" ix="2" threecharcode="dut" threecharcode2="nld" twocharcode="nl"/>
+    <code id="114" threecharcode="dyu"/>
+    <code id="115" threecharcode="dzo" twocharcode="dz"/>
+    <code id="116" threecharcode="efi"/>
+    <code id="117" threecharcode="egy"/>
+    <code id="118" threecharcode="eka"/>
+    <code id="119" threecharcode="elx"/>
+    <code id="120" ix="75"  threecharcode="eng" twocharcode="en"/>
+    <code id="121" threecharcode="enm"/>
+    <code id="122" threecharcode="epo" twocharcode="eo"/>
+    <code id="123" threecharcode="est" twocharcode="et"/>
+    <code id="124" threecharcode="ewe" twocharcode="ee"/>
+    <code id="125" threecharcode="ewo"/>
+    <code id="126" threecharcode="fan"/>
+    <code id="127" threecharcode="fao" twocharcode="fo"/>
+    <code id="128" threecharcode="fat"/>
+    <code id="129" threecharcode="fij" twocharcode="fj"/>
+    <code id="130" threecharcode="fin" twocharcode="fi"/>
+    <code id="131" threecharcode="fiu"/>
+    <code id="132" threecharcode="fon"/>
+    <code id="133" ix="1"  threecharcode="fre" threecharcode2="fra" twocharcode="fr"/>
+    <code id="134" threecharcode="frm"/>
+    <code id="135" threecharcode="fro"/>
+    <code id="136" threecharcode="fry" twocharcode="fy"/>
+    <code id="137" threecharcode="ful" twocharcode="ff"/>
+    <code id="138" threecharcode="fur"/>
+    <code id="139" threecharcode="gaa"/>
+    <code id="140" threecharcode="gay"/>
+    <code id="141" threecharcode="gba"/>
+    <code id="142" threecharcode="gem"/>
+    <code id="143" threecharcode="geo" threecharcode2="kat" twocharcode="ka"/>
+    <code id="144" ix="0"  threecharcode="ger" threecharcode2="deu" twocharcode="de"/>
+    <code id="145" threecharcode="gez"/>
+    <code id="146" threecharcode="gil"/>
+    <code id="147" threecharcode="gla" twocharcode="gd"/>
+    <code id="148" threecharcode="gle" twocharcode="ga"/>
+    <code id="149" threecharcode="glg" twocharcode="gl"/>
+    <code id="150" threecharcode="glv" twocharcode="gv"/>
+    <code id="151" threecharcode="gmh"/>
+    <code id="152" threecharcode="goh"/>
+    <code id="153" threecharcode="gon"/>
+    <code id="154" threecharcode="gor"/>
+    <code id="155" threecharcode="got"/>
+    <code id="156" threecharcode="grb"/>
+    <code id="157" ix="9"  threecharcode="grc"/>
+    <code id="158" threecharcode="gre" threecharcode2="ell" twocharcode="el"/>
+    <code id="159" threecharcode="grn" twocharcode="gn"/>
+    <code id="160" threecharcode="guj" twocharcode="gu"/>
+    <code id="161" threecharcode="gwi"/>
+    <code id="162" threecharcode="hai"/>
+    <code id="163" threecharcode="hat" twocharcode="ht"/>
+    <code id="164" threecharcode="hau" twocharcode="ha"/>
+    <code id="165" threecharcode="haw"/>
+    <code id="166" threecharcode="heb" twocharcode="he"/>
+    <code id="167" threecharcode="her" twocharcode="hz"/>
+    <code id="168" threecharcode="hil"/>
+    <code id="169" threecharcode="him"/>
+    <code id="170" threecharcode="hin" twocharcode="hi"/>
+    <code id="171" threecharcode="hit"/>
+    <code id="172" threecharcode="hmn"/>
+    <code id="173" threecharcode="hmo" twocharcode="ho"/>
+    <code id="174" threecharcode="hsb"/>
+    <code id="175" threecharcode="hun" twocharcode="hu"/>
+    <code id="176" threecharcode="hup"/>
+    <code id="177" threecharcode="iba"/>
+    <code id="178" threecharcode="ibo" twocharcode="ig"/>
+    <code id="179" threecharcode="ice" threecharcode2="isl" twocharcode="is"/>
+    <code id="180" threecharcode="ido" twocharcode="io"/>
+    <code id="181" threecharcode="iii" twocharcode="ii"/>
+    <code id="182" threecharcode="ijo"/>
+    <code id="183" threecharcode="iku" twocharcode="iu"/>
+    <code id="184" threecharcode="ile" twocharcode="ie"/>
+    <code id="185" threecharcode="ilo"/>
+    <code id="186" threecharcode="ina" twocharcode="ia"/>
+    <code id="187" threecharcode="inc"/>
+    <code id="188" threecharcode="ind" twocharcode="id"/>
+    <code id="189" threecharcode="ine"/>
+    <code id="190" threecharcode="inh"/>
+    <code id="191" threecharcode="ipk" twocharcode="ik"/>
+    <code id="192" threecharcode="ira"/>
+    <code id="193" threecharcode="iro"/>
+    <code id="194" ix="3"  threecharcode="ita" twocharcode="it"/>
+    <code id="195" threecharcode="jav" twocharcode="jv"/>
+    <code id="196" threecharcode="jbo"/>
+    <code id="197" threecharcode="jpn" twocharcode="ja"/>
+    <code id="198" threecharcode="jpr"/>
+    <code id="199" threecharcode="jrb"/>
+    <code id="200" threecharcode="kaa"/>
+    <code id="201" threecharcode="kab"/>
+    <code id="202" threecharcode="kac"/>
+    <code id="203" threecharcode="kal" twocharcode="kl"/>
+    <code id="204" threecharcode="kam"/>
+    <code id="205" threecharcode="kan" twocharcode="kn"/>
+    <code id="206" threecharcode="kar"/>
+    <code id="207" threecharcode="kas" twocharcode="ks"/>
+    <code id="208" threecharcode="kau" twocharcode="kr"/>
+    <code id="209" threecharcode="kaw"/>
+    <code id="210" threecharcode="kaz" twocharcode="kk"/>
+    <code id="211" threecharcode="kbd"/>
+    <code id="212" threecharcode="kha"/>
+    <code id="213" threecharcode="khi"/>
+    <code id="214" threecharcode="khm" twocharcode="km"/>
+    <code id="215" threecharcode="kho"/>
+    <code id="216" threecharcode="kik" twocharcode="ki"/>
+    <code id="217" threecharcode="kin" twocharcode="rw"/>
+    <code id="218" threecharcode="kir" twocharcode="ky"/>
+    <code id="219" threecharcode="kmb"/>
+    <code id="220" threecharcode="kok"/>
+    <code id="221" threecharcode="kom" twocharcode="kv"/>
+    <code id="222" threecharcode="kon" twocharcode="kg"/>
+    <code id="223" threecharcode="kor" twocharcode="ko"/>
+    <code id="224" threecharcode="kos"/>
+    <code id="225" threecharcode="kpe"/>
+    <code id="226" threecharcode="krc"/>
+    <code id="227" threecharcode="kro"/>
+    <code id="228" threecharcode="kru"/>
+    <code id="229" threecharcode="kua" twocharcode="kj"/>
+    <code id="230" threecharcode="kum"/>
+    <code id="231" threecharcode="kur" twocharcode="ku"/>
+    <code id="232" threecharcode="kut"/>
+    <code id="233" threecharcode="lad"/>
+    <code id="234" threecharcode="lah"/>
+    <code id="235" threecharcode="lam"/>
+    <code id="236" threecharcode="lao" twocharcode="lo"/>
+    <code id="237" threecharcode="lat" twocharcode="la"/>
+    <code id="238" threecharcode="lav" twocharcode="lv"/>
+    <code id="239" threecharcode="lez"/>
+    <code id="240" threecharcode="lim" twocharcode="li"/>
+    <code id="241" threecharcode="lin" twocharcode="ln"/>
+    <code id="242" threecharcode="lit" twocharcode="lt"/>
+    <code id="243" threecharcode="lol"/>
+    <code id="244" threecharcode="loz"/>
+    <code id="245" threecharcode="ltz" twocharcode="lb"/>
+    <code id="246" threecharcode="lua"/>
+    <code id="247" threecharcode="lub" twocharcode="lu"/>
+    <code id="248" threecharcode="lug" twocharcode="lg"/>
+    <code id="249" threecharcode="lui"/>
+    <code id="250" threecharcode="lun"/>
+    <code id="251" threecharcode="luo"/>
+    <code id="252" threecharcode="lus"/>
+    <code id="253" threecharcode="mac" threecharcode2="mkd" twocharcode="mk"/>
+    <code id="254" threecharcode="mad"/>
+    <code id="255" threecharcode="mag"/>
+    <code id="256" threecharcode="mah" twocharcode="mh"/>
+    <code id="257" threecharcode="mai"/>
+    <code id="258" threecharcode="mak"/>
+    <code id="259" threecharcode="mal" twocharcode="ml"/>
+    <code id="260" threecharcode="man"/>
+    <code id="261" threecharcode="mao" threecharcode2="mri" twocharcode="mi"/>
+    <code id="262" threecharcode="map"/>
+    <code id="263" threecharcode="mar" twocharcode="mr"/>
+    <code id="264" threecharcode="mas"/>
+    <code id="265" threecharcode="may" threecharcode2="msa" twocharcode="ms"/>
+    <code id="266" threecharcode="mdf"/>
+    <code id="267" threecharcode="mdr"/>
+    <code id="268" threecharcode="men"/>
+    <code id="269" threecharcode="mga"/>
+    <code id="270" threecharcode="mic"/>
+    <code id="271" threecharcode="min"/>
+    <code id="272" threecharcode="mis"/>
+    <code id="273" threecharcode="mkh"/>
+    <code id="274" threecharcode="mlg" twocharcode="mg"/>
+    <code id="275" threecharcode="mlt" twocharcode="mt"/>
+    <code id="276" threecharcode="mnc"/>
+    <code id="277" threecharcode="mni"/>
+    <code id="278" threecharcode="mno"/>
+    <code id="279" threecharcode="moh"/>
+    <code id="280" threecharcode="mol" twocharcode="mo"/>
+    <code id="281" threecharcode="mon" twocharcode="mn"/>
+    <code id="282" threecharcode="mos"/>
+    <code id="283" threecharcode="mul"/>
+    <code id="284" threecharcode="mun"/>
+    <code id="285" threecharcode="mus"/>
+    <code id="286" threecharcode="mwr"/>
+    <code id="287" threecharcode="myn"/>
+    <code id="288" threecharcode="myv"/>
+    <code id="289" threecharcode="nah"/>
+    <code id="290" threecharcode="nai"/>
+    <code id="291" threecharcode="nap"/>
+    <code id="292" threecharcode="nau" twocharcode="na"/>
+    <code id="293" threecharcode="nav" twocharcode="nv"/>
+    <code id="294" threecharcode="nbl" twocharcode="nr"/>
+    <code id="295" threecharcode="nde" twocharcode="nd"/>
+    <code id="296" threecharcode="ndo" twocharcode="ng"/>
+    <code id="297" threecharcode="nds"/>
+    <code id="298" threecharcode="nep" twocharcode="ne"/>
+    <code id="299" threecharcode="new"/>
+    <code id="300" threecharcode="nia"/>
+    <code id="301" threecharcode="nic"/>
+    <code id="302" threecharcode="niu"/>
+    <code id="303" threecharcode="nno" twocharcode="nn"/>
+    <code id="304" threecharcode="nob" twocharcode="nb"/>
+    <code id="305" threecharcode="nog"/>
+    <code id="306" threecharcode="non"/>
+    <code id="307" threecharcode="nor" twocharcode="no"/>
+    <code id="308" threecharcode="nso"/>
+    <code id="309" threecharcode="nub"/>
+    <code id="310" threecharcode="nya" twocharcode="ny"/>
+    <code id="311" threecharcode="nym"/>
+    <code id="312" threecharcode="nyn"/>
+    <code id="313" threecharcode="nyo"/>
+    <code id="314" threecharcode="nzi"/>
+    <code id="315" threecharcode="oci" twocharcode="oc"/>
+    <code id="316" threecharcode="oji" twocharcode="oj"/>
+    <code id="317" threecharcode="ori" twocharcode="or"/>
+    <code id="318" threecharcode="orm" twocharcode="om"/>
+    <code id="319" threecharcode="osa"/>
+    <code id="320" threecharcode="oss" twocharcode="os"/>
+    <code id="321" threecharcode="ota"/>
+    <code id="322" threecharcode="oto"/>
+    <code id="323" threecharcode="paa"/>
+    <code id="324" threecharcode="pag"/>
+    <code id="325" threecharcode="pal"/>
+    <code id="326" threecharcode="pam"/>
+    <code id="327" threecharcode="pan" twocharcode="pa"/>
+    <code id="328" threecharcode="pap"/>
+    <code id="329" threecharcode="pau"/>
+    <code id="330" threecharcode="peo"/>
+    <code id="331" threecharcode="per" threecharcode2="fas" twocharcode="fa"/>
+    <code id="332" threecharcode="phi"/>
+    <code id="333" threecharcode="phn"/>
+    <code id="334" threecharcode="pli" twocharcode="pi"/>
+    <code id="335" threecharcode="pol" twocharcode="pl"/>
+    <code id="336" threecharcode="pon"/>
+    <code id="337" threecharcode="por" twocharcode="pt"/>
+    <code id="338" threecharcode="pra"/>
+    <code id="339" threecharcode="pro"/>
+    <code id="340" threecharcode="pus" twocharcode="ps"/>
+    <code id="341" threecharcode="que" twocharcode="qu"/>
+    <code id="342" threecharcode="raj"/>
+    <code id="343" threecharcode="rap"/>
+    <code id="344" threecharcode="rar"/>
+    <code id="345" threecharcode="roa"/>
+    <code id="346" threecharcode="roh" twocharcode="rm"/>
+    <code id="347" threecharcode="rom"/>
+    <code id="348" threecharcode="rum" threecharcode2="ron" twocharcode="ro"/>
+    <code id="349" threecharcode="run" twocharcode="rn"/>
+    <code id="350" threecharcode="rus" twocharcode="ru"/>
+    <code id="351" threecharcode="sad"/>
+    <code id="352" threecharcode="sag" twocharcode="sg"/>
+    <code id="353" threecharcode="sah"/>
+    <code id="354" threecharcode="sai"/>
+    <code id="355" threecharcode="sal"/>
+    <code id="356" threecharcode="sam"/>
+    <code id="357" threecharcode="san" twocharcode="sa"/>
+    <code id="358" threecharcode="sas"/>
+    <code id="359" threecharcode="sat"/>
+    <code id="360" threecharcode="scc" threecharcode2="srp" twocharcode="sr"/>
+    <code id="361" threecharcode="sco"/>
+    <code id="362" threecharcode="scr" threecharcode2="hrv" twocharcode="hr"/>
+    <code id="363" threecharcode="sel"/>
+    <code id="364" threecharcode="sem"/>
+    <code id="365" threecharcode="sga"/>
+    <code id="366" threecharcode="sgn"/>
+    <code id="367" threecharcode="shn"/>
+    <code id="368" threecharcode="sid"/>
+    <code id="369" threecharcode="sin" twocharcode="si"/>
+    <code id="370" threecharcode="sio"/>
+    <code id="371" threecharcode="sit"/>
+    <code id="372" threecharcode="sla"/>
+    <code id="373" threecharcode="slo" threecharcode2="slk" twocharcode="sk"/>
+    <code id="374" threecharcode="slv" twocharcode="sl"/>
+    <code id="375" threecharcode="sma"/>
+    <code id="376" threecharcode="sme" twocharcode="se"/>
+    <code id="377" threecharcode="smi"/>
+    <code id="378" threecharcode="smj"/>
+    <code id="379" threecharcode="smn"/>
+    <code id="380" threecharcode="smo" twocharcode="sm"/>
+    <code id="381" threecharcode="sms"/>
+    <code id="382" threecharcode="sna" twocharcode="sn"/>
+    <code id="383" threecharcode="snd" twocharcode="sd"/>
+    <code id="384" threecharcode="snk"/>
+    <code id="385" threecharcode="sog"/>
+    <code id="386" threecharcode="som" twocharcode="so"/>
+    <code id="387" threecharcode="son"/>
+    <code id="388" threecharcode="sot" twocharcode="st"/>
+    <code id="389" threecharcode="spa" twocharcode="es"/>
+    <code id="390" threecharcode="srd" twocharcode="sc"/>
+    <code id="391" threecharcode="srr"/>
+    <code id="392" threecharcode="ssa"/>
+    <code id="393" threecharcode="ssw" twocharcode="ss"/>
+    <code id="394" threecharcode="suk"/>
+    <code id="395" threecharcode="sun" twocharcode="su"/>
+    <code id="396" threecharcode="sus"/>
+    <code id="397" threecharcode="sux"/>
+    <code id="398" threecharcode="swa" twocharcode="sw"/>
+    <code id="399" threecharcode="swe" twocharcode="sv"/>
+    <code id="400" threecharcode="syr"/>
+    <code id="401" threecharcode="tah" twocharcode="ty"/>
+    <code id="402" threecharcode="tai"/>
+    <code id="403" threecharcode="tam" twocharcode="ta"/>
+    <code id="404" threecharcode="tat" twocharcode="tt"/>
+    <code id="405" threecharcode="tel" twocharcode="te"/>
+    <code id="406" threecharcode="tem"/>
+    <code id="407" threecharcode="ter"/>
+    <code id="408" threecharcode="tet"/>
+    <code id="409" threecharcode="tgk" twocharcode="tg"/>
+    <code id="410" threecharcode="tgl" twocharcode="tl"/>
+    <code id="411" threecharcode="tha" twocharcode="th"/>
+    <code id="412" threecharcode="tib" threecharcode2="bod" twocharcode="bo"/>
+    <code id="413" threecharcode="tig"/>
+    <code id="414" threecharcode="tir" twocharcode="ti"/>
+    <code id="415" threecharcode="tiv"/>
+    <code id="416" threecharcode="tkl"/>
+    <code id="417" threecharcode="tli"/>
+    <code id="418" threecharcode="tmh"/>
+    <code id="419" threecharcode="tog"/>
+    <code id="420" threecharcode="ton" twocharcode="to"/>
+    <code id="421" threecharcode="tpi"/>
+    <code id="422" threecharcode="tsi"/>
+    <code id="423" threecharcode="tsn" twocharcode="tn"/>
+    <code id="424" threecharcode="tso" twocharcode="ts"/>
+    <code id="425" threecharcode="tuk" twocharcode="tk"/>
+    <code id="426" threecharcode="tum"/>
+    <code id="427" threecharcode="tup"/>
+    <code id="428" threecharcode="tur" twocharcode="tr"/>
+    <code id="429" threecharcode="tut"/>
+    <code id="430" threecharcode="tvl"/>
+    <code id="431" threecharcode="twi" twocharcode="tw"/>
+    <code id="432" threecharcode="tyv"/>
+    <code id="433" threecharcode="udm"/>
+    <code id="434" threecharcode="uga"/>
+    <code id="435" threecharcode="uig" twocharcode="ug"/>
+    <code id="436" threecharcode="ukr" twocharcode="uk"/>
+    <code id="437" threecharcode="umb"/>
+    <code id="438" threecharcode="und"/>
+    <code id="439" threecharcode="urd" twocharcode="ur"/>
+    <code id="440" threecharcode="uzb" twocharcode="uz"/>
+    <code id="441" threecharcode="vai"/>
+    <code id="442" threecharcode="ven" twocharcode="ve"/>
+    <code id="443" threecharcode="vie" twocharcode="vi"/>
+    <code id="444" threecharcode="vol" twocharcode="vo"/>
+    <code id="445" threecharcode="vot"/>
+    <code id="446" threecharcode="wak"/>
+    <code id="447" threecharcode="wal"/>
+    <code id="448" threecharcode="war"/>
+    <code id="449" threecharcode="was"/>
+    <code id="450" threecharcode="wel" threecharcode2="cym" twocharcode="cy"/>
+    <code id="451" threecharcode="wen"/>
+    <code id="452" threecharcode="wln" twocharcode="wa"/>
+    <code id="453" threecharcode="wol" twocharcode="wo"/>
+    <code id="454" threecharcode="xal"/>
+    <code id="455" threecharcode="xho" twocharcode="xh"/>
+    <code id="456" threecharcode="yao"/>
+    <code id="457" threecharcode="yap"/>
+    <code id="458" threecharcode="yid" twocharcode="yi"/>
+    <code id="459" threecharcode="yor" twocharcode="yo"/>
+    <code id="460" threecharcode="ypk"/>
+    <code id="461" threecharcode="zap"/>
+    <code id="462" threecharcode="zen"/>
+    <code id="463" threecharcode="zha" twocharcode="za"/>
+    <code id="464" threecharcode="znd"/>
+    <code id="465" threecharcode="zul" twocharcode="zu"/>
+    <code id="466" threecharcode="zun"/>
+    <code id="467" threecharcode="tlh"/>
+  </codes>
+  <captions language="english">
+    <caption id="1">Afar</caption>
+    <caption id="2">Abkhazian</caption>
+    <caption id="3">Achinese</caption>
+    <caption id="4">Acoli</caption>
+    <caption id="5">Adangme</caption>
+    <caption id="6">Adyghe; Adygei</caption>
+    <caption id="7">Afro-Asiatic (Other)</caption>
+    <caption id="8">Afrihili</caption>
+    <caption id="9">Afrikaans</caption>
+    <caption id="10">Akan</caption>
+    <caption id="11">Akkadian</caption>
+    <caption id="12">Albanian</caption>
+    <caption id="13">Aleut</caption>
+    <caption id="14">Algonquian languages</caption>
+    <caption id="15">Amharic</caption>
+    <caption id="16">English, Old (ca.450-1100)</caption>
+    <caption id="17">Apache languages</caption>
+    <caption id="18">Arabic</caption>
+    <caption id="19">Aramaic</caption>
+    <caption id="20">Aragonese</caption>
+    <caption id="21">Armenian</caption>
+    <caption id="22">Araucanian</caption>
+    <caption id="23">Arapaho</caption>
+    <caption id="24">Artificial (Other)</caption>
+    <caption id="25">Arawak</caption>
+    <caption id="26">Assamese</caption>
+    <caption id="27">Asturian; Bable</caption>
+    <caption id="28">Athapascan languages</caption>
+    <caption id="29">Australian languages</caption>
+    <caption id="30">Avaric</caption>
+    <caption id="31">Avestan</caption>
+    <caption id="32">Awadhi</caption>
+    <caption id="33">Aymara</caption>
+    <caption id="34">Azerbaijani</caption>
+    <caption id="35">Banda</caption>
+    <caption id="36">Bamileke languages</caption>
+    <caption id="37">Bashkir</caption>
+    <caption id="38">Baluchi</caption>
+    <caption id="39">Bambara</caption>
+    <caption id="40">Balinese</caption>
+    <caption id="41">Basque</caption>
+    <caption id="42">Basa</caption>
+    <caption id="43">Baltic (Other)</caption>
+    <caption id="44">Beja</caption>
+    <caption id="45">Belarusian</caption>
+    <caption id="46">Bemba</caption>
+    <caption id="47">Bengali</caption>
+    <caption id="48">Berber (Other)</caption>
+    <caption id="49">Bhojpuri</caption>
+    <caption id="50">Bihari</caption>
+    <caption id="51">Bikol</caption>
+    <caption id="52">Bini</caption>
+    <caption id="53">Bislama</caption>
+    <caption id="54">Siksika</caption>
+    <caption id="55">Bantu (Other)</caption>
+    <caption id="56">Bosnian</caption>
+    <caption id="57">Braj</caption>
+    <caption id="58">Breton</caption>
+    <caption id="59">Batak (Indonesia)</caption>
+    <caption id="60">Buriat</caption>
+    <caption id="61">Buginese</caption>
+    <caption id="62">Bulgarian</caption>
+    <caption id="63">Burmese</caption>
+    <caption id="64">Blin; Bilin</caption>
+    <caption id="65">Caddo</caption>
+    <caption id="66">Central American Indian (Other)</caption>
+    <caption id="67">Carib</caption>
+    <caption id="68">Catalan; Valencian</caption>
+    <caption id="69">Caucasian (Other)</caption>
+    <caption id="70">Cebuano</caption>
+    <caption id="71">Celtic (Other)</caption>
+    <caption id="72">Chamorro</caption>
+    <caption id="73">Chibcha</caption>
+    <caption id="74">Chechen</caption>
+    <caption id="75">Chagatai</caption>
+    <caption id="76">Chinese</caption>
+    <caption id="77">Chuukese</caption>
+    <caption id="78">Mari</caption>
+    <caption id="79">Chinook jargon</caption>
+    <caption id="80">Choctaw</caption>
+    <caption id="81">Chipewyan</caption>
+    <caption id="82">Cherokee</caption>
+    <caption id="83">Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic</caption>
+    <caption id="84">Chuvash</caption>
+    <caption id="85">Cheyenne</caption>
+    <caption id="86">Chamic languages</caption>
+    <caption id="87">Coptic</caption>
+    <caption id="88">Cornish</caption>
+    <caption id="89">Corsican</caption>
+    <caption id="90">Creoles and pidgins, English based (Other)</caption>
+    <caption id="91">Creoles and pidgins, French-based (Other)</caption>
+    <caption id="92">Creoles and pidgins, Portuguese-based (Other)</caption>
+    <caption id="93">Cree</caption>
+    <caption id="94">Crimean Tatar; Crimean Turkish</caption>
+    <caption id="95">Creoles and pidgins (Other)</caption>
+    <caption id="96">Kashubian</caption>
+    <caption id="97">Cushitic (Other)</caption>
+    <caption id="98">Czech</caption>
+    <caption id="99">Dakota</caption>
+    <caption id="100">Danish</caption>
+    <caption id="101">Dargwa</caption>
+    <caption id="102">Dayak</caption>
+    <caption id="103">Delaware</caption>
+    <caption id="104">Slave (Athapascan)</caption>
+    <caption id="105">Dogrib</caption>
+    <caption id="106">Dinka</caption>
+    <caption id="107">Divehi</caption>
+    <caption id="108">Dogri</caption>
+    <caption id="109">Dravidian (Other)</caption>
+    <caption id="110">Lower Sorbian</caption>
+    <caption id="111">Duala</caption>
+    <caption id="112">Dutch, Middle (ca.1050-1350)</caption>
+    <caption id="113">Dutch; Flemish</caption>
+    <caption id="114">Dyula</caption>
+    <caption id="115">Dzongkha</caption>
+    <caption id="116">Efik</caption>
+    <caption id="117">Egyptian (Ancient)</caption>
+    <caption id="118">Ekajuk</caption>
+    <caption id="119">Elamite</caption>
+    <caption id="120">English</caption>
+    <caption id="121">English, Middle (1100-1500)</caption>
+    <caption id="122">Esperanto</caption>
+    <caption id="123">Estonian</caption>
+    <caption id="124">Ewe</caption>
+    <caption id="125">Ewondo</caption>
+    <caption id="126">Fang</caption>
+    <caption id="127">Faroese</caption>
+    <caption id="128">Fanti</caption>
+    <caption id="129">Fijian</caption>
+    <caption id="130">Finnish</caption>
+    <caption id="131">Finno-Ugrian (Other)</caption>
+    <caption id="132">Fon</caption>
+    <caption id="133">French</caption>
+    <caption id="134">French, Middle (ca.1400-1800)</caption>
+    <caption id="135">French, Old (842-ca.1400)</caption>
+    <caption id="136">Frisian</caption>
+    <caption id="137">Fulah</caption>
+    <caption id="138">Friulian</caption>
+    <caption id="139">Ga</caption>
+    <caption id="140">Gayo</caption>
+    <caption id="141">Gbaya</caption>
+    <caption id="142">Germanic (Other)</caption>
+    <caption id="143">Georgian</caption>
+    <caption id="144">German</caption>
+    <caption id="145">Geez</caption>
+    <caption id="146">Gilbertese</caption>
+    <caption id="147">Gaelic; Scottish Gaelic</caption>
+    <caption id="148">Irish</caption>
+    <caption id="149">Gallegan</caption>
+    <caption id="150">Manx</caption>
+    <caption id="151">German, Middle High (ca.1050-1500)</caption>
+    <caption id="152">German, Old High (ca.750-1050)</caption>
+    <caption id="153">Gondi</caption>
+    <caption id="154">Gorontalo</caption>
+    <caption id="155">Gothic</caption>
+    <caption id="156">Grebo</caption>
+    <caption id="157">Greek, Ancient (to 1453)</caption>
+    <caption id="158">Greek, Modern (1453-)</caption>
+    <caption id="159">Guarani</caption>
+    <caption id="160">Gujarati</caption>
+    <caption id="161">Gwich´in</caption>
+    <caption id="162">Haida</caption>
+    <caption id="163">Haitian; Haitian Creole</caption>
+    <caption id="164">Hausa</caption>
+    <caption id="165">Hawaiian</caption>
+    <caption id="166">Hebrew</caption>
+    <caption id="167">Herero</caption>
+    <caption id="168">Hiligaynon</caption>
+    <caption id="169">Himachali</caption>
+    <caption id="170">Hindi</caption>
+    <caption id="171">Hittite</caption>
+    <caption id="172">Hmong</caption>
+    <caption id="173">Hiri Motu</caption>
+    <caption id="174">Upper Sorbian</caption>
+    <caption id="175">Hungarian</caption>
+    <caption id="176">Hupa</caption>
+    <caption id="177">Iban</caption>
+    <caption id="178">Igbo</caption>
+    <caption id="179">Icelandic</caption>
+    <caption id="180">Ido</caption>
+    <caption id="181">Sichuan Yi</caption>
+    <caption id="182">Ijo</caption>
+    <caption id="183">Inuktitut</caption>
+    <caption id="184">Interlingue</caption>
+    <caption id="185">Iloko</caption>
+    <caption id="186">Interlingua (International Auxiliary Language Association)</caption>
+    <caption id="187">Indic (Other)</caption>
+    <caption id="188">Indonesian</caption>
+    <caption id="189">Indo-European (Other)</caption>
+    <caption id="190">Ingush</caption>
+    <caption id="191">Inupiaq</caption>
+    <caption id="192">Iranian (Other)</caption>
+    <caption id="193">Iroquoian languages</caption>
+    <caption id="194">Italian</caption>
+    <caption id="195">Javanese</caption>
+    <caption id="196">Lojban</caption>
+    <caption id="197">Japanese</caption>
+    <caption id="198">Judeo-Persian</caption>
+    <caption id="199">Judeo-Arabic</caption>
+    <caption id="200">Kara-Kalpak</caption>
+    <caption id="201">Kabyle</caption>
+    <caption id="202">Kachin</caption>
+    <caption id="203">Kalaallisut; Greenlandic</caption>
+    <caption id="204">Kamba</caption>
+    <caption id="205">Kannada</caption>
+    <caption id="206">Karen</caption>
+    <caption id="207">Kashmiri</caption>
+    <caption id="208">Kanuri</caption>
+    <caption id="209">Kawi</caption>
+    <caption id="210">Kazakh</caption>
+    <caption id="211">Kabardian</caption>
+    <caption id="212">Khasi</caption>
+    <caption id="213">Khoisan (Other)</caption>
+    <caption id="214">Khmer</caption>
+    <caption id="215">Khotanese</caption>
+    <caption id="216">Kikuyu; Gikuyu</caption>
+    <caption id="217">Kinyarwanda</caption>
+    <caption id="218">Kirghiz</caption>
+    <caption id="219">Kimbundu</caption>
+    <caption id="220">Konkani</caption>
+    <caption id="221">Komi</caption>
+    <caption id="222">Kongo</caption>
+    <caption id="223">Korean</caption>
+    <caption id="224">Kosraean</caption>
+    <caption id="225">Kpelle</caption>
+    <caption id="226">Karachay-Balkar</caption>
+    <caption id="227">Kru</caption>
+    <caption id="228">Kurukh</caption>
+    <caption id="229">Kuanyama; Kwanyama</caption>
+    <caption id="230">Kumyk</caption>
+    <caption id="231">Kurdish</caption>
+    <caption id="232">Kutenai</caption>
+    <caption id="233">Ladino</caption>
+    <caption id="234">Lahnda</caption>
+    <caption id="235">Lamba</caption>
+    <caption id="236">Lao</caption>
+    <caption id="237">Latin</caption>
+    <caption id="238">Latvian</caption>
+    <caption id="239">Lezghian</caption>
+    <caption id="240">Limburgan; Limburger; Limburgish</caption>
+    <caption id="241">Lingala</caption>
+    <caption id="242">Lithuanian</caption>
+    <caption id="243">Mongo</caption>
+    <caption id="244">Lozi</caption>
+    <caption id="245">Luxembourgish; Letzeburgesch</caption>
+    <caption id="246">Luba-Lulua</caption>
+    <caption id="247">Luba-Katanga</caption>
+    <caption id="248">Ganda</caption>
+    <caption id="249">Luiseno</caption>
+    <caption id="250">Lunda</caption>
+    <caption id="251">Luo (Kenya and Tanzania)</caption>
+    <caption id="252">lushai</caption>
+    <caption id="253">Macedonian</caption>
+    <caption id="254">Madurese</caption>
+    <caption id="255">Magahi</caption>
+    <caption id="256">Marshallese</caption>
+    <caption id="257">Maithili</caption>
+    <caption id="258">Makasar</caption>
+    <caption id="259">Malayalam</caption>
+    <caption id="260">Mandingo</caption>
+    <caption id="261">Maori</caption>
+    <caption id="262">Austronesian (Other)</caption>
+    <caption id="263">Marathi</caption>
+    <caption id="264">Masai</caption>
+    <caption id="265">Malay</caption>
+    <caption id="266">Moksha</caption>
+    <caption id="267">Mandar</caption>
+    <caption id="268">Mende</caption>
+    <caption id="269">Irish, Middle (900-1200)</caption>
+    <caption id="270">Micmac</caption>
+    <caption id="271">Minangkabau</caption>
+    <caption id="272">Miscellaneous languages</caption>
+    <caption id="273">Mon-Khmer (Other)</caption>
+    <caption id="274">Malagasy</caption>
+    <caption id="275">Maltese</caption>
+    <caption id="276">Manchu</caption>
+    <caption id="277">Manipuri</caption>
+    <caption id="278">Manobo languages</caption>
+    <caption id="279">Mohawk</caption>
+    <caption id="280">Moldavian</caption>
+    <caption id="281">Mongolian</caption>
+    <caption id="282">Mossi</caption>
+    <caption id="283">Multiple languages</caption>
+    <caption id="284">Munda languages</caption>
+    <caption id="285">Creek</caption>
+    <caption id="286">Marwari</caption>
+    <caption id="287">Mayan languages</caption>
+    <caption id="288">Erzya</caption>
+    <caption id="289">Nahuatl</caption>
+    <caption id="290">North American Indian</caption>
+    <caption id="291">Neapolitan</caption>
+    <caption id="292">Nauru</caption>
+    <caption id="293">Navajo; Navaho</caption>
+    <caption id="294">Ndebele, South; South Ndebele</caption>
+    <caption id="295">Ndebele, North; North Ndebele</caption>
+    <caption id="296">Ndonga</caption>
+    <caption id="297">Low German; Low Saxon; German, Low; Saxon, Low</caption>
+    <caption id="298">Nepali</caption>
+    <caption id="299">Newari</caption>
+    <caption id="300">Nias</caption>
+    <caption id="301">Niger-Kordofanian (Other)</caption>
+    <caption id="302">Niuean</caption>
+    <caption id="303">Norwegian Nynorsk; Nynorsk, Norwegian</caption>
+    <caption id="304">Norwegian Bokmål; Bokmål, Norwegian</caption>
+    <caption id="305">Nogai</caption>
+    <caption id="306">Norse, Old</caption>
+    <caption id="307">Norwegian</caption>
+    <caption id="308">Sotho, Northern</caption>
+    <caption id="309">Nubian languages</caption>
+    <caption id="310">Chichewa; Chewa; Nyanja</caption>
+    <caption id="311">Nyamwezi</caption>
+    <caption id="312">Nyankole</caption>
+    <caption id="313">Nyoro</caption>
+    <caption id="314">Nzima</caption>
+    <caption id="315">Occitan (post 1500); Provençal</caption>
+    <caption id="316">Ojibwa</caption>
+    <caption id="317">Oriya</caption>
+    <caption id="318">Oromo</caption>
+    <caption id="319">Osage</caption>
+    <caption id="320">Ossetian; Ossetic</caption>
+    <caption id="321">Turkish, Ottoman (1500-1928)</caption>
+    <caption id="322">Otomian languages</caption>
+    <caption id="323">Papuan (Other)</caption>
+    <caption id="324">Pangasinan</caption>
+    <caption id="325">Pahlavi</caption>
+    <caption id="326">Pampanga</caption>
+    <caption id="327">Panjabi; Punjabi</caption>
+    <caption id="328">Papiamento</caption>
+    <caption id="329">Palauan</caption>
+    <caption id="330">Persian, Old (ca.600-400 B.C.)</caption>
+    <caption id="331">Persian</caption>
+    <caption id="332">Philippine (Other)</caption>
+    <caption id="333">Phoenician</caption>
+    <caption id="334">Pali</caption>
+    <caption id="335">Polish</caption>
+    <caption id="336">Pohnpeian</caption>
+    <caption id="337">Portuguese</caption>
+    <caption id="338">Prakrit languages</caption>
+    <caption id="339">Provençal, Old (to 1500)</caption>
+    <caption id="340">Pushto</caption>
+    <caption id="341">Quechua</caption>
+    <caption id="342">Rajasthani</caption>
+    <caption id="343">Rapanui</caption>
+    <caption id="344">Rarotongan</caption>
+    <caption id="345">Romance (Other)</caption>
+    <caption id="346">Raeto-Romance</caption>
+    <caption id="347">Romany</caption>
+    <caption id="348">Romanian</caption>
+    <caption id="349">Rundi</caption>
+    <caption id="350">Russian</caption>
+    <caption id="351">Sandawe</caption>
+    <caption id="352">Sango</caption>
+    <caption id="353">Yakut</caption>
+    <caption id="354">South American Indian (Other)</caption>
+    <caption id="355">Salishan languages</caption>
+    <caption id="356">Samaritan Aramaic</caption>
+    <caption id="357">Sanskrit</caption>
+    <caption id="358">Sasak</caption>
+    <caption id="359">Santali</caption>
+    <caption id="360">Serbian</caption>
+    <caption id="361">Scots</caption>
+    <caption id="362">Croatian</caption>
+    <caption id="363">Selkup</caption>
+    <caption id="364">Semitic (Other)</caption>
+    <caption id="365">Irish, Old (to 900)</caption>
+    <caption id="366">Sign Languages</caption>
+    <caption id="367">Shan</caption>
+    <caption id="368">Sidamo</caption>
+    <caption id="369">Sinhalese</caption>
+    <caption id="370">Siouan languages</caption>
+    <caption id="371">Sino-Tibetan (Other)</caption>
+    <caption id="372">Slavic (Other)</caption>
+    <caption id="373">Slovak</caption>
+    <caption id="374">Slovenian</caption>
+    <caption id="375">Southern Sami</caption>
+    <caption id="376">Northern Sami</caption>
+    <caption id="377">Sami languages (Other)</caption>
+    <caption id="378">Lule Sami</caption>
+    <caption id="379">Inari Sami</caption>
+    <caption id="380">Samoan</caption>
+    <caption id="381">Skolt Sami</caption>
+    <caption id="382">Shona</caption>
+    <caption id="383">Sindhi</caption>
+    <caption id="384">Soninke</caption>
+    <caption id="385">Sogdian</caption>
+    <caption id="386">Somali</caption>
+    <caption id="387">Songhai</caption>
+    <caption id="388">Sotho, Southern</caption>
+    <caption id="389">Spanish; Castilian</caption>
+    <caption id="390">Sardinian</caption>
+    <caption id="391">Serer</caption>
+    <caption id="392">Nilo-Saharan (Other)</caption>
+    <caption id="393">Swati</caption>
+    <caption id="394">Sukuma</caption>
+    <caption id="395">Sundanese</caption>
+    <caption id="396">Susu</caption>
+    <caption id="397">Sumerian</caption>
+    <caption id="398">Swahili</caption>
+    <caption id="399">Swedish</caption>
+    <caption id="400">Syriac</caption>
+    <caption id="401">Tahitian</caption>
+    <caption id="402">Tai (Other)</caption>
+    <caption id="403">Tamil</caption>
+    <caption id="404">Tatar</caption>
+    <caption id="405">Telugu</caption>
+    <caption id="406">Timne</caption>
+    <caption id="407">Tereno</caption>
+    <caption id="408">Tetum</caption>
+    <caption id="409">Tajik</caption>
+    <caption id="410">Tagalog</caption>
+    <caption id="411">Thai</caption>
+    <caption id="412">Tibetan</caption>
+    <caption id="413">Tigre</caption>
+    <caption id="414">Tigrinya</caption>
+    <caption id="415">Tiv</caption>
+    <caption id="416">Tokelau</caption>
+    <caption id="417">Tlingit</caption>
+    <caption id="418">Tamashek</caption>
+    <caption id="419">Tonga (Nyasa)</caption>
+    <caption id="420">Tonga (Tonga Islands)</caption>
+    <caption id="421">Tok Pisin</caption>
+    <caption id="422">Tsimshian</caption>
+    <caption id="423">Tswana</caption>
+    <caption id="424">Tsonga</caption>
+    <caption id="425">Turkmen</caption>
+    <caption id="426">Tumbuka</caption>
+    <caption id="427">Tupi languages</caption>
+    <caption id="428">Turkish</caption>
+    <caption id="429">Altaic (Other)</caption>
+    <caption id="430">Tuvalu</caption>
+    <caption id="431">Twi</caption>
+    <caption id="432">Tuvinian</caption>
+    <caption id="433">Udmurt</caption>
+    <caption id="434">Ugaritic</caption>
+    <caption id="435">Uighur</caption>
+    <caption id="436">Ukrainian</caption>
+    <caption id="437">Umbundu</caption>
+    <caption id="438">Undetermined</caption>
+    <caption id="439">Urdu</caption>
+    <caption id="440">Uzbek</caption>
+    <caption id="441">Vai</caption>
+    <caption id="442">Venda</caption>
+    <caption id="443">Vietnamese</caption>
+    <caption id="444">Volapük</caption>
+    <caption id="445">Votic</caption>
+    <caption id="446">Wakashan languages</caption>
+    <caption id="447">Walamo</caption>
+    <caption id="448">Waray</caption>
+    <caption id="449">Washo</caption>
+    <caption id="450">Welsh</caption>
+    <caption id="451">Sorbian languages</caption>
+    <caption id="452">Walloon</caption>
+    <caption id="453">Wolof</caption>
+    <caption id="454">Kalmyk</caption>
+    <caption id="455">Xhosa</caption>
+    <caption id="456">Yao</caption>
+    <caption id="457">Yapese</caption>
+    <caption id="458">Yiddish</caption>
+    <caption id="459">Yoruba</caption>
+    <caption id="460">Yupik languages</caption>
+    <caption id="461">Zapotec</caption>
+    <caption id="462">Zenaga</caption>
+    <caption id="463">Zhuang; Chuang</caption>
+    <caption id="464">Zande</caption>
+    <caption id="465">Zulu</caption>
+    <caption id="466">Zuni</caption>
+    <caption id="467">Klingon</caption>
+  </captions>
+<!--TODO: Sprachvarianten übersetzen -->
+  <captions language="german">
+    <caption id="1">Afar</caption>
+    <caption id="2">Abchasisch</caption>
+    <caption id="9">Afrikaans</caption> <!-- frueher "Kapholländisch" oder "Kolonial-Niederlaendisch" -->
+    <caption id="12">Albanisch</caption>
+    <caption id="15">Amharisch</caption>
+    <caption id="16">Englisch, Alt (ca. 450-1100)</caption>
+    <caption id="18">Arabisch</caption>
+    <caption id="21">Armenisch</caption>
+    <caption id="26">Aserbaidschanisch</caption>
+    <caption id="33">Aimara</caption>
+    <caption id="37">Baschkirisch</caption>
+    <caption id="41">Baskisch</caption>
+    <caption id="45">Weißrussisch</caption>
+    <caption id="47">Bengalisch</caption>
+    <caption id="50">Biharisch</caption>
+    <caption id="53">Bislamisch</caption>
+    <caption id="58">Bretonisch</caption>
+    <caption id="62">Bulgarisch</caption>
+    <caption id="63">Birmanisch</caption>
+    <caption id="68">Katalonisch</caption>
+    <caption id="70">Cebuano</caption>
+    <caption id="76">Chinesisch</caption>
+    <caption id="89">Korsisch</caption>
+    <caption id="98">Tschechisch</caption>
+    <caption id="100">Dänisch</caption>
+    <caption id="112">Niederländisch, Mittelalterlich (ca. 1050-1350)</caption>
+    <caption id="113">Niederländisch; Flämisch</caption>
+    <caption id="115">Bhutanisch</caption>
+    <caption id="120">Englisch</caption>
+    <caption id="121">Englisch, Mittelalterlich (1100-1500)</caption>
+    <caption id="122">Esperanto</caption>
+    <caption id="123">Estnisch</caption>
+    <caption id="127">Färöisch</caption>
+    <caption id="129">Fidschianisch</caption>
+    <caption id="130">Finnisch</caption>
+    <caption id="133">Französisch</caption>
+
+    <caption id="143">Georgisch</caption>
+    <caption id="144">Deutsch</caption>
+    <caption id="147">Gälisch; Schottisch Gälisch</caption>
+    <caption id="148">Irisch</caption>
+    <caption id="149">Galicisch</caption>
+    <caption id="151">Deutsch, Mittelalterlich hoch (ca. 1050-1500)</caption>
+    <caption id="152">Deutsch, Alt hoch (ca. 750-1050)</caption>
+    <caption id="155">Gotisch</caption>
+    <caption id="157">Griechisch, Alt (bis 1453)</caption>
+    <caption id="158">Griechisch, Modern (ab 1453)</caption>
+    <caption id="159">Guarani</caption>
+    <caption id="160">Gudscharatisch</caption>
+    <caption id="163">Haitisch; Haitisches Créole</caption>
+    <caption id="164">Hausa</caption>
+    <caption id="166">Hebräisch</caption>
+    <caption id="170">Hindi</caption>
+    <caption id="175">Ungarisch</caption>
+    <caption id="179">Isländisch</caption>
+
+    <caption id="188">Indonesisch</caption>
+    <caption id="191">Inupiak</caption>
+    <caption id="194">Italienisch</caption>
+    <caption id="195">Javanisch</caption>
+    <caption id="197">Japanisch</caption>
+    <caption id="203">Griechisch</caption>
+    <caption id="205">Kanadisch</caption>
+    <caption id="207">Kaschmirisch</caption>
+    <caption id="210">Kasachisch</caption>
+    <caption id="214">Kambodschanisch</caption>
+    <caption id="217">Ruandisch/Kijarwanda</caption>
+    <caption id="218">Kirgisisch</caption>
+    <caption id="223">Koreanisch</caption>
+    <caption id="231">Kurdisch</caption>
+    <caption id="236">Laotisch</caption>
+    <caption id="237">Lateinisch</caption>
+    <caption id="238">Lettisch</caption>
+    <caption id="241">Lingala</caption>
+    <caption id="253">Mazedonisch</caption>
+    <caption id="259">Malajalam</caption>
+    <caption id="261">Maorisch</caption>
+    <caption id="263">Marathi</caption>
+    <caption id="265">Malaiisch/Malaysisch</caption>
+    <caption id="274">Madagassisch/Malagasy</caption>
+    <caption id="275">Maltesisch</caption>
+    <caption id="280">Moldauisch/Moldawisch</caption>
+    <caption id="281">Mongolisch</caption>
+    <caption id="292">Nauruisch</caption>
+    <caption id="298">Nepalesisch</caption>
+    <caption id="307">Norwegisch</caption>
+    
+    <caption id="315">Okzitanisch (ab 1500)</caption>
+    <caption id="317">Orija</caption>
+    <caption id="318">Oromo</caption>
+    <caption id="327">Pandschabisch/Pundjabisch</caption>
+    <caption id="331">Persisch</caption>
+    <caption id="335">Polnisch</caption>
+    <caption id="337">Portugiesisch</caption>
+    <caption id="340">Paschtu/Afghanisch</caption>
+    <caption id="341">Quechua/Ketschua</caption>
+    <caption id="346">Rhätoromanisch</caption>
+    <caption id="348">Rumänisch</caption>
+    <caption id="349">Kirundisch</caption>
+    <caption id="350">Russisch</caption>
+    <caption id="352">Sango</caption>
+    <caption id="357">Sanskrit</caption>
+    <caption id="360">Serbisch</caption>
+    <caption id="362">Kroatisch</caption>
+    <caption id="369">Singhalesisch</caption>
+    <caption id="373">Slowakisch</caption>
+    <caption id="374">Slowenisch</caption>
+    <caption id="380">Samoanisch</caption>
+    <caption id="382">Schonisch</caption>
+    <caption id="383">Sindhi/Zinti</caption>
+    <caption id="386">Somalisch</caption>
+    <caption id="388">Sesothisch/Sotho</caption>
+    <caption id="389">Spanisch</caption>
+    <caption id="393">Swazi/Swasiländisch</caption>
+    <caption id="395">Sundanesisch</caption>
+    <caption id="398">Suaheli</caption>
+    <caption id="399">Schwedisch</caption>
+    <caption id="400">Syrisch</caption>
+    <caption id="403">Tamilisch</caption>
+    <caption id="404">Tatarisch</caption>
+    <caption id="405">Telugu/Tegulu</caption>
+    <caption id="409">Tadschikisch</caption>
+    <caption id="410">Tagalog</caption>
+    <caption id="411">Thailändisch</caption>
+    <caption id="412">Tibetisch/Tibetanisch</caption>
+    <caption id="414">Tigrinja</caption>
+    <caption id="420">Tongaisch</caption>
+    <caption id="423">Tsuana/Sezuan</caption>
+    <caption id="424">Tsongaisch</caption>
+    <caption id="425">Turkmenisch</caption>
+    <caption id="428">Türkisch</caption>
+    <caption id="431">Twi</caption>
+    <caption id="435">Uigurisch</caption>
+    <caption id="436">Ukrainisch</caption>
+    <caption id="439">Urdu</caption>
+    <caption id="440">Usbekisch</caption>
+    <caption id="443">Vietnamesisch</caption>
+    <caption id="444">Volapük</caption>
+    <caption id="452">Walisisch</caption>
+    <caption id="453">Wolof</caption>
+    <caption id="455">Xhosa</caption>
+    <caption id="458">Jiddisch</caption>
+    <caption id="459">Joruba</caption>
+    <caption id="463">Zhuang</caption>
+    <caption id="465">Zulu</caption>
+    <caption id="467">Klingonisch</caption>
+  </captions>
+</iso639languagecodes>
