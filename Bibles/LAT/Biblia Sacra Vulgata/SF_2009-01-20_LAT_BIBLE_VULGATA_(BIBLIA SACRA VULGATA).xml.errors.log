@@ -1,4 +1,17 @@
-﻿System.Exception: Missing book name for book index 46
+﻿System.Xml.Schema.XmlSchemaValidationException: Der Typ 'MediaType' ist kein einfacher Typ oder wurde nicht deklariert.
+   bei System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaValidationException e, XmlSeverityType severity)
+   bei System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaException e)
+   bei System.Xml.Schema.XmlSchemaValidator.RecompileSchemaSet()
+   bei System.Xml.Schema.XmlSchemaValidator.Init()
+   bei System.Xml.Schema.XmlSchemaValidator..ctor(XmlNameTable nameTable, XmlSchemaSet schemas, IXmlNamespaceResolver namespaceResolver, XmlSchemaValidationFlags validationFlags)
+   bei System.Xml.DocumentSchemaValidator.CreateValidator(XmlSchemaObject partialValidationType, XmlSchemaValidationFlags validationFlags)
+   bei System.Xml.DocumentSchemaValidator.Validate(XmlNode nodeToValidate)
+   bei System.Xml.XmlDocument.Validate(ValidationEventHandler validationEventHandler, XmlNode nodeToValidate)
+   bei System.Xml.XmlDocument.Validate(ValidationEventHandler validationEventHandler)
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlDataWithSchema(String targetNamespace, String schemaName) in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 289.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 268.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
+System.Exception: Missing book name for book index 46
 System.Exception: Missing book name for book index 47
 System.Exception: Missing book name for book index 75
 System.Exception: Missing book short name for book index 46

@@ -1,9 +1,22 @@
-﻿System.Exception: Book number 15 identified as duplicate for book index 14
+﻿System.Xml.Schema.XmlSchemaValidationException: Der Typ 'MediaType' ist kein einfacher Typ oder wurde nicht deklariert.
+   bei System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaValidationException e, XmlSeverityType severity)
+   bei System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaException e)
+   bei System.Xml.Schema.XmlSchemaValidator.RecompileSchemaSet()
+   bei System.Xml.Schema.XmlSchemaValidator.Init()
+   bei System.Xml.Schema.XmlSchemaValidator..ctor(XmlNameTable nameTable, XmlSchemaSet schemas, IXmlNamespaceResolver namespaceResolver, XmlSchemaValidationFlags validationFlags)
+   bei System.Xml.DocumentSchemaValidator.CreateValidator(XmlSchemaObject partialValidationType, XmlSchemaValidationFlags validationFlags)
+   bei System.Xml.DocumentSchemaValidator.Validate(XmlNode nodeToValidate)
+   bei System.Xml.XmlDocument.Validate(ValidationEventHandler validationEventHandler, XmlNode nodeToValidate)
+   bei System.Xml.XmlDocument.Validate(ValidationEventHandler validationEventHandler)
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlDataWithSchema(String targetNamespace, String schemaName) in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 289.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 268.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
+System.Exception: Book number 15 identified as duplicate for book index 14
 System.Exception: Invalid characters in book name 1 K?nige for book index 10
 System.Exception: Invalid characters in book name 2 K?nige for book index 11
 System.Exception: Book name not available for book index 14 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
    bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
    --- Ende der internen Ausnahmestapelüberwachung ---
 System.Exception: Invalid characters in book name Matth?us for book index 39
 System.Exception: Invalid characters in book name R?mer for book index 44
@@ -12,6 +25,6 @@ System.Exception: Invalid characters in book short name 1K? for book index 10
 System.Exception: Invalid characters in book short name 2K? for book index 11
 System.Exception: Book short name not available for book index 14 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
    bei KoheletNetwork.ZefaniaXmlBook.get_BookShortName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 35.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 239.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 415.
    --- Ende der internen Ausnahmestapelüberwachung ---
 System.Exception: Invalid characters in book short name R?m for book index 44

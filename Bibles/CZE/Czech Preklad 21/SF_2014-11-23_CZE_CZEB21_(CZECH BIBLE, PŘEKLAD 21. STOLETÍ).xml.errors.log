@@ -1,7 +1,7 @@
 ﻿System.ArgumentNullException: Schema declaration required
 Parametername: xsi:noNamespaceSchemaLocation
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 124.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 192.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 272.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
 System.Exception: Book name Genesis identified as duplicate for book index 1
 System.Exception: Book short name Gen identified as duplicate for book index 1
 System.Exception: Book short name Kni identified as duplicate for book index 7

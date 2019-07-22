@@ -1,5 +1,5 @@
 ﻿System.ArgumentNullException: Schema declaration required
 Parametername: xsi:noNamespaceSchemaLocation
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 124.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 192.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 272.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
 System.Exception: Invalid book number for book index 29
