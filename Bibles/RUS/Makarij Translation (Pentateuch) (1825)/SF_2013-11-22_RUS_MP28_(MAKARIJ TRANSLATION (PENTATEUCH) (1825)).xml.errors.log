@@ -1,0 +1,24 @@
+﻿System.ArgumentNullException: Schema declaration required
+Parametername: xsi:noNamespaceSchemaLocation
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 124.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 192.
+System.Exception: Book name not available for book index 0 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   --- Ende der internen Ausnahmestapelüberwachung ---
+System.Exception: Book name not available for book index 1 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   --- Ende der internen Ausnahmestapelüberwachung ---
+System.Exception: Book name not available for book index 2 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   --- Ende der internen Ausnahmestapelüberwachung ---
+System.Exception: Book name not available for book index 3 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   --- Ende der internen Ausnahmestapelüberwachung ---
+System.Exception: Book name not available for book index 4 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   --- Ende der internen Ausnahmestapelüberwachung ---

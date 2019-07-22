@@ -1,0 +1,9 @@
+﻿System.Exception: Book number 14 identified as duplicate for book index 13
+System.Exception: Book name not available for book index 13 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 219.
+   --- Ende der internen Ausnahmestapelüberwachung ---
+System.Exception: Book short name not available for book index 13 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei KoheletNetwork.ZefaniaXmlBook.get_BookShortName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 35.
+   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 239.
+   --- Ende der internen Ausnahmestapelüberwachung ---

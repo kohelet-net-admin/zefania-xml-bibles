@@ -1,0 +1,8 @@
+﻿System.Exception: Invalid characters in book name 1 K?nige for book index 10
+System.Exception: Invalid characters in book name 2 K?nige for book index 11
+System.Exception: Invalid characters in book name Matth?us for book index 39
+System.Exception: Invalid characters in book name R?mer for book index 44
+System.Exception: Invalid characters in book name Hebr?er for book index 57
+System.Exception: Invalid characters in book short name 1K? for book index 10
+System.Exception: Invalid characters in book short name 2K? for book index 11
+System.Exception: Invalid characters in book short name R?m for book index 44
