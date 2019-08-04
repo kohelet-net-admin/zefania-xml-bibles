@@ -1,112 +1,28 @@
-﻿System.ArgumentNullException: Schema declaration required
-Parametername: xsi:noNamespaceSchemaLocation
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 272.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
-System.Exception: Book name not available for book index 0 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 1 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 2 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 3 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 4 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 5 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 6 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 7 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 8 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 9 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 10 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 11 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 12 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 13 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 14 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 15 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 16 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 17 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 18 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 19 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 20 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 21 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 22 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 23 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 24 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 25 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
-System.Exception: Book name not available for book index 26 ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 395.
-   --- Ende der internen Ausnahmestapelüberwachung ---
+﻿Der Typ 'MediaType' ist kein einfacher Typ oder wurde nicht deklariert.
+Book name not available for book index 0
+Book name not available for book index 1
+Book name not available for book index 2
+Book name not available for book index 3
+Book name not available for book index 4
+Book name not available for book index 5
+Book name not available for book index 6
+Book name not available for book index 7
+Book name not available for book index 8
+Book name not available for book index 9
+Book name not available for book index 10
+Book name not available for book index 11
+Book name not available for book index 12
+Book name not available for book index 13
+Book name not available for book index 14
+Book name not available for book index 15
+Book name not available for book index 16
+Book name not available for book index 17
+Book name not available for book index 18
+Book name not available for book index 19
+Book name not available for book index 20
+Book name not available for book index 21
+Book name not available for book index 22
+Book name not available for book index 23
+Book name not available for book index 24
+Book name not available for book index 25
+Book name not available for book index 26

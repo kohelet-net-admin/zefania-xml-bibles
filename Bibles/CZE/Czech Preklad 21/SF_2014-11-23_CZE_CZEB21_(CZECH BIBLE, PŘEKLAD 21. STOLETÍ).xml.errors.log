@@ -1,15 +1,12 @@
-﻿System.ArgumentNullException: Schema declaration required
-Parametername: xsi:noNamespaceSchemaLocation
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 272.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
-System.Exception: Book name Genesis identified as duplicate for book index 1
-System.Exception: Book short name Gen identified as duplicate for book index 1
-System.Exception: Book short name Kni identified as duplicate for book index 7
-System.Exception: Book short name Kni identified as duplicate for book index 8
-System.Exception: Book short name 1Kn identified as duplicate for book index 11
-System.Exception: Book short name 2Kn identified as duplicate for book index 12
-System.Exception: Book short name Kni identified as duplicate for book index 15
-System.Exception: Book short name Kni identified as duplicate for book index 16
-System.Exception: Book short name Kni identified as duplicate for book index 17
-System.Exception: Book short name Kni identified as duplicate for book index 18
-System.Exception: Book short name Fil identified as duplicate for book index 57
+﻿Der Typ 'MediaType' ist kein einfacher Typ oder wurde nicht deklariert.
+Book name Genesis identified as duplicate for book index 1
+Book short name Gen identified as duplicate for book index 1
+Book short name Kni identified as duplicate for book index 7
+Book short name Kni identified as duplicate for book index 8
+Book short name 1Kn identified as duplicate for book index 11
+Book short name 2Kn identified as duplicate for book index 12
+Book short name Kni identified as duplicate for book index 15
+Book short name Kni identified as duplicate for book index 16
+Book short name Kni identified as duplicate for book index 17
+Book short name Kni identified as duplicate for book index 18
+Book short name Fil identified as duplicate for book index 57

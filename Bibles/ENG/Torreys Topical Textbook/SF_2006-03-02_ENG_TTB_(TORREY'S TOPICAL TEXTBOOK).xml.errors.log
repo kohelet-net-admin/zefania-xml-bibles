@@ -1,7 +1,3 @@
-﻿System.ArgumentNullException: Schema declaration required
+﻿Schema declaration required
 Parametername: xsi:noNamespaceSchemaLocation
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 272.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
-System.Exception: Books collection not accessible ---> System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBible.get_Books() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 344.
-   --- Ende der internen Ausnahmestapelüberwachung ---
+Books collection not accessible

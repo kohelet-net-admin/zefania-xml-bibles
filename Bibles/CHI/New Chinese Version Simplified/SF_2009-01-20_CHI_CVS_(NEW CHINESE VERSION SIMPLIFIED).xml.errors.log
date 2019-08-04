@@ -1,21 +1,9 @@
-﻿System.Xml.Schema.XmlSchemaValidationException: Der Typ 'MediaType' ist kein einfacher Typ oder wurde nicht deklariert.
-   bei System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaValidationException e, XmlSeverityType severity)
-   bei System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaException e)
-   bei System.Xml.Schema.XmlSchemaValidator.RecompileSchemaSet()
-   bei System.Xml.Schema.XmlSchemaValidator.Init()
-   bei System.Xml.Schema.XmlSchemaValidator..ctor(XmlNameTable nameTable, XmlSchemaSet schemas, IXmlNamespaceResolver namespaceResolver, XmlSchemaValidationFlags validationFlags)
-   bei System.Xml.DocumentSchemaValidator.CreateValidator(XmlSchemaObject partialValidationType, XmlSchemaValidationFlags validationFlags)
-   bei System.Xml.DocumentSchemaValidator.Validate(XmlNode nodeToValidate)
-   bei System.Xml.XmlDocument.Validate(ValidationEventHandler validationEventHandler, XmlNode nodeToValidate)
-   bei System.Xml.XmlDocument.Validate(ValidationEventHandler validationEventHandler)
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlDataWithSchema(String targetNamespace, String schemaName) in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 289.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 268.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
-System.Exception: Invalid characters in book name 1 K?nige for book index 10
-System.Exception: Invalid characters in book name 2 K?nige for book index 11
-System.Exception: Invalid characters in book name Matth?us for book index 39
-System.Exception: Invalid characters in book name R?mer for book index 44
-System.Exception: Invalid characters in book name Hebr?er for book index 57
-System.Exception: Invalid characters in book short name 1K? for book index 10
-System.Exception: Invalid characters in book short name 2K? for book index 11
-System.Exception: Invalid characters in book short name R?m for book index 44
+﻿Der Typ 'MediaType' ist kein einfacher Typ oder wurde nicht deklariert.
+Invalid characters in book name 1 K?nige for book index 10
+Invalid characters in book name 2 K?nige for book index 11
+Invalid characters in book name Matth?us for book index 39
+Invalid characters in book name R?mer for book index 44
+Invalid characters in book name Hebr?er for book index 57
+Invalid characters in book short name 1K? for book index 10
+Invalid characters in book short name 2K? for book index 11
+Invalid characters in book short name R?m for book index 44

@@ -1,3 +1,1 @@
-﻿System.NotSupportedException: Schema not supported: xmlbible_pre_1008.xsd
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateXmlData() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 274.
-   bei KoheletNetwork.ZefaniaXmlBible.ValidateDeeply() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBible.vb:Zeile 368.
+﻿Schema not supported: xmlbible_pre_1008.xsd
