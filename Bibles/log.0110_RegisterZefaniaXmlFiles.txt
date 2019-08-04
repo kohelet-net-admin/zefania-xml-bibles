@@ -2,23 +2,17 @@ USING XML FILE: .\AFR\1933\1953 Afrikaans Bybel\SF_2009-01-20_AFR_AFR3353_(1933_
 USING XML FILE: .\ALB\Albanian Version\SF_2009-01-20_ALB_ALB1_(ALBANIAN VERSION).xml
 USING XML FILE: .\ARA\New Arabic Version (Ketab El Hayat)\SF_2012-01-07_ARA_ARANAV_(NEW ARABIC VERSION (KETAB EL HAYAT)).xml
 USING XML FILE: .\ARA\Smith Van Dyke Arabic Bible\SF_2009-01-20_ARA_ARASVD_(SMITH VAN DYKE ARABIC BIBLE).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\BAQ\Basque(Navarro-Labourdin)NT\SF_2009-01-20_BAQ_BASQ1571_(BASQUE(NAVARRO-LABOURDIN)NT).xml
 USING XML FILE: .\BUL\Bulgarian NT 1914\SF_2009-03-26_BUL_BULCARIGRADNT_(BULGARIAN NEW TESTAMENT FROM 1914, KNOWN AS 'TSARIGRAD EDITION').xml
 USING XML FILE: .\BUL\Verens Contemporary Bible\SF_2010-01-10_BUL_BULVEREN_(VEREN'S CONTEMPORARY BIBLE).xml
 USING XML FILE: .\CEB\Cebuano Ang Biblia (Bugna Version)\SF_2009-01-20_CEB_CEB-B_(CEBUANO ANG BIBLIA (BUGNA VERSION)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\CEB\Cebuano Ang Biblia (Pinadayag Version)\SF_2009-01-20_CEB_CEB-P_(CEBUANO ANG BIBLIA (PINADAYAG VERSION)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\CHA\SF_2010-01-10_CHA_CHAMORRO_(CHAMORRO Y SANTA BIBLIA (1908)).xml
 USING XML FILE: .\CHI\Chinese Union Version\SF_2009-01-20_CHI_CHI_(CHINESE UNION VERSION).xml
 USING XML FILE: .\CHI\CHINESE UNION VERSION Simplified\SF_2004-10-17_CHI_CHIUS_(CHINESE UNION VERSION SIMPLIFIED).xml
@@ -26,10 +20,8 @@ USING XML FILE: .\CHI\New Chinese Version Simplified\SF_2009-01-20_CHI_CVS_(NEW 
 USING XML FILE: .\CHU\1757 Church Slavonic Elizabeth Bible\SF_2014-02-27_CHU_CSLELIZABETH_(1757 CHURCH SLAVONIC ELIZABETH BIBLE).xml
 USING XML FILE: .\CKB\SF_2015-08-16_CKB_SORA_(KURDISH NEW TESTAMENT).xml
 USING XML FILE: .\COP\Coptic NT Bohairic\SF_2014-02-26_COP_BONT_(BOHAIRIC NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\CZE\Cesky studijni preklad\SF_2015-05-20_CZE_ČSP_(ČESKÝ STUDIJNÍ PŘEKLAD).xml
 USING XML FILE: .\CZE\Czech BKR\Czech BKR\SF_2014-11-23_CZE_CZBKR_(CZECH BKR).xml
 USING XML FILE: .\CZE\Czech BKR\Czech BKR\sf_czech_bkr.xml
@@ -40,171 +32,119 @@ USING XML FILE: .\CZE\Czech Ekumenicky Cesky preklad\SF_2009-01-23_CZE_CZECEP_(C
 USING XML FILE: .\CZE\Czech Preklad 21\SF_2009-07-31_CZE_CZEB21_(CZECH BIBLE, PREKLAD 21. STOLETI).xml
 USING XML FILE: .\CZE\Czech Preklad 21\SF_2014-11-23_CZE_CZEB21_(CZECH BIBLE, PŘEKLAD 21. STOLETÍ).xml
 USING XML FILE: .\CZE\Nova Bible Kralicka NKB\SF_2014-03-11_CZE_CZNBK_(CZECH NKB).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\DAN\Danish Version\SF_2009-01-20_DAN_DAN_(DANISH VERSION).xml
 USING XML FILE: .\ENG\A Conservative Version\SF_2009-01-20_ENG_ACV_(A CONSERVATIVE VERSION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\American Standard Version\SF_2009-01-20_ENG_ASV_(AMERICAN STANDARD VERSION).xml
 USING XML FILE: .\ENG\Bible in Basic English\SF_2009-01-20_ENG_BBE_(BIBLE IN BASIC ENGLISH).xml
 USING XML FILE: .\ENG\Bible in Worldwide English\SF_2012-02-07_ENG_BWE_(BIBLE IN WORLDWIDE ENGLISH).xml
 USING XML FILE: .\ENG\Bible in Worldwide English\SF_2015-08-14_ENG_BWE96_(BIBLE IN WORLDWIDE ENGLISH).xml
 USING XML FILE: .\ENG\Bible in Worldwide English NT\SF_2009-01-20_ENG_BWE_(BIBLE IN WORLDWIDE ENGLISH NT).xml
 USING XML FILE: .\ENG\Brentons English Septuagint\SF_2009-01-20_ENG_LXXE_(BRENTON'S ENGLISH SEPTUAGINT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Catholic Public Domain Version\SF_2014-02-26_ENG_CPDV_(CATHOLIC PUBLIC DOMAIN VERSION).xml
 USING XML FILE: .\ENG\Darby Bible\SF_2009-01-20_ENG_DARBY_(DARBY BIBLE).xml
 USING XML FILE: .\ENG\Diaglot NT - 1865\SF_2009-01-20_ENG_DIAGLOT_(DIAGLOT NT - 1865).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Douay Rheims\SF_2013-12-05_ENG_DOUR_(DOUAY RHEIMS).xml
 USING XML FILE: .\ENG\English Jubilee 2000 Bible\SF_2009-01-20_ENG_JUBL2000_(ENGLISH JUBILEE 2000 BIBLE).xml
 USING XML FILE: .\ENG\English Majority Text Version\SF_2009-04-13_ENG_EMTV_(ENGLISH MAJORITY TEXT VERSION).xml
 USING XML FILE: .\ENG\Etheridge\SF_2010-02-21_ENG_ETHERIDGE_(THE PESCHITO SYRIAC NEW TESTAMENT).xml
 USING XML FILE: .\ENG\Geneva Bible\SF_2009-01-20_ENG_GB_(GENEVA BIBLE).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Greens Literal Translation\SF_2009-04-08_ENG_LITV_(GREEN'S LITERAL TRANSLATION).xml
 USING XML FILE: .\ENG\ISV NT\SF_2009-01-22_ENG_ISV_(ISV NT).xml
 USING XML FILE: .\ENG\Jewish Publication Society AT\SF_2009-01-23_ENG_JPS_(JEWISH PUBLICATION SOCIETY AT).xml
 USING XML FILE: .\ENG\John Wycliffe Bible\SF_2009-01-20_ENG_BIBLE_WYCLIFFE_(JOHN WYCLIFFE BIBLE).xml
 USING XML FILE: .\ENG\King James\American King James Version\SF_2009-01-20_ENG_BIBLE_AKJV_(AMERICAN KING JAMES VERSION).xml
 USING XML FILE: .\ENG\King James\King James 2000\SF_2009-01-20_ENG_KJ2000_(KING JAMES 2000).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\King James\King James Clarified NT\SF_2009-01-20_ENG_KJVCNT_(KING JAMES CLARIFIED NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\King James\King James Version\SF_2009-01-23_ENG_KJV_(KING JAMES VERSION).xml
 USING XML FILE: .\ENG\King James\King James Version Pure Cambridge Edition\SF_2014-02-26_ENG_KJVPCE_(KING JAMES VERSION PCE).xml
 USING XML FILE: .\ENG\King James\King James Version with Apokryphen\SF_2009-01-23_ENG_KJVAK_(KING JAMES VERSION WITH APOKRYPHEN).xml
 USING XML FILE: .\ENG\King James\KJV+\SF_2009-01-20_ENG_KJV_(KJV+).xml
 USING XML FILE: .\ENG\King James\Modern KJV 1963\SF_2009-01-23_ENG_MKJV1962_(MODERN KJV 1963).xml
 USING XML FILE: .\ENG\King James\Revised King James New Testament\SF_2009-01-20_ENG_RKJVNT_(REVISED KING JAMES NEW TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\King James\Updated King James Version\SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Leeser Old Testament\SF_2009-01-20_ENG_LEESER_(LEESER OLD TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Living Oracles NT\SF_2009-01-20_ENG_LONT_(LIVING ORACLES NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Montgomery New Testament\SF_2009-01-20_ENG_MONT_(MONTGOMERY NEW TESTAMENT).xml
 USING XML FILE: .\ENG\New Heart English Bible\SF_2012-02-07_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml
 USING XML FILE: .\ENG\New Heart English Bible\SF_2014-02-26_ENG_NHEBJE_(NEW HEART ENGLISH BIBLE - JEHOVAH EDITION).xml
 USING XML FILE: .\ENG\New Heart English Bible\SF_2014-02-26_ENG_NHEBME_(NEW HEART ENGLISH BIBLE - MESSIANIC EDITION).xml
 USING XML FILE: .\ENG\New Heart English Bible\SF_2015-08-15_ENG_NHEB_(NEW HEART ENGLISH BIBLE).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBJE_(NNEW HEART ENGLISH BIBLE SPECIAL EDITION (JEHOVAH)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBJM_(NEW HEART ENGLISH BIBLE SPECIAL EDITION (JESUS MESSIAH)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBME_(NEW HEART ENGLISH BIBLE ME).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBNTAN_(NEW HEART ENGLISH BIBLE SPECIAL EDITION, WITH ARAMAIC NAMES NEW TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\New Heart English Bible\SF_2015-08-16_ENG_NHEBYHWH_(NEW HEART ENGLISH BIBLE (YHWH)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\New Simplified Bible\SF_2009-01-20_ENG_NSB_(NEW SIMPLIFIED BIBLE).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Noyes Translation\SF_2009-01-20_ENG_NOYES_(NOYES TRANSLATION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Open English Bible (Commonwealth Spelling)\SF_2014-02-26_ENG_OEBCTH_(OPEN ENGLISH BIBLE (COMMONWEALTH SPELLING)).xml
 USING XML FILE: .\ENG\Open English Bible (US Spelling)\SF_2012-08-08_ENG_OEB_(OPEN ENGLISH BIBLE (US SPELLING)).xml
 USING XML FILE: .\ENG\Revised 1833 Webster Version\SF_2009-01-20_ENG_RWEBSTER_(REVISED 1833 WEBSTER VERSION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Revised 1833 Webster Version with Strongs\SF_2009-01-22_ENG_RWEBSTER_(REVISED 1833 WEBSTER VERSION WITH STRONGS).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Revised Standard Version\SF_2009-01-22_ENG_RSV_(REVISED STANDARD VERSION).xml
 USING XML FILE: .\ENG\Revised Youngs Literal Translation NT\SF_2009-01-22_ENG_RYLT_(REVISED YOUNG'S LITERAL TRANSLATION NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Rotherham Version\SF_2009-01-22_ENG_ROTH_(ROTHERHAM VERSION).xml
 USING XML FILE: .\ENG\Samaritan Pentateuch in English\SF_2014-02-26_ENG_SPE_(SAMARITAN PENTATEUCH IN ENGLISH).xml
 USING XML FILE: .\ENG\The Book of Mormon\SF_2009-01-23_ENG_BOM_(THE BOOK OF MORMON).xml
 USING XML FILE: .\ENG\The Common Edition New Testament\SF_2009-01-20_ENG_TCE_(THE COMMON EDITION NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\The Epistle to the Galatians English version of the translation by Hermann Detering\SF_25.04.2004_ENG_MARCGAL_(THE EPISTLE TO THE GALATIANS(DETERING)).xml
 USING XML FILE: .\ENG\The Lexham English Bible\SF_2010-03-29_ENG_LEB_(THE LEXHAM ENGLISH BIBLE).xml
 USING XML FILE: .\ENG\The Orthodox Jewish Brit Chadasha\SF_2009-01-23_ENG_ORTHJBC_(THE ORTHODOX JEWISH BRIT CHADASHA).xml
 USING XML FILE: .\ENG\The Riverside New Testament\SF_2009-01-20_ENG_RNT_(THE RIVERSIDE NEW TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\Torreys Topical Textbook\SF_2006-03-02_ENG_TTB_(TORREY'S TOPICAL TEXTBOOK).xml
 USING XML FILE: .\ENG\Updated Bible Version\SF_2009-01-20_ENG_UPDV_(UPDATED BIBLE VERSION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ENG\VW-Edition 2006\SF_2009-01-20_ENG_XXX_(VW-EDITION 2006).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookShortName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 35.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 174.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+WARNING: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
 USING XML FILE: .\ENG\Webster\SF_2013-12-05_ENG_WBS_(WEBSTER).xml
 USING XML FILE: .\ENG\Wesleys NT\SF_2009-01-20_ENG_WESLEY_(WESLEY'S NT).xml
 USING XML FILE: .\ENG\Weymouth NT\SF_2009-01-20_ENG_WMTH_(WEYMOUTH NT).xml
@@ -217,79 +157,55 @@ USING XML FILE: .\ESP\Esperanto Bible\SF_2009-01-20_ESP_ESP_(ESPERANTO BIBLE).xm
 USING XML FILE: .\FIN\Finish Version\SF_2009-01-20_FIN_FIN_(FINISH VERSION).xml
 USING XML FILE: .\FRE\Bible de Geneve de 1669\SF_2009-06-01_FRE_BGNT1669_(BIBLE DE GENÔVE DE 1669).xml
 USING XML FILE: .\FRE\Bible des Peuples\SF_2011-07-10_FRE_BDP_(BIBLE DES PEUPLES).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\Bible Martin\SF_2009-01-20_FRE_BM1744_(BIBLE MARTIN 1744).xml
 USING XML FILE: .\FRE\Bible Martin\SF_2014-04-26_FRE_BM1707_(BIBLE MARTIN 1707).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\Bible Perret-Gentil et Rilliet\SF_2012-01-07_FRE_FREPGR_(BIBLE PERRET-GENTIL ET RILLIET).xml
 USING XML FILE: .\FRE\Bible Pirot-Clamer\SF_2009-06-02_FRE_BDC_(BIBLE PIROT-CLAMER).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\Bible Vigouroux 1902\SF_2012-03-16_FRE_VIGOUROUX_(BIBLE VIGOUROUX 1902).xml
 USING XML FILE: .\FRE\French Bible Bovet Bonnet (1900)\SF_2009-03-25_FRE_FREBBB_(FRENCH BIBLE BOVET BONNET (1900)).xml
 USING XML FILE: .\FRE\French Darby\SF_2009-01-20_FRE_FRDARB_(FRENCH DARBY).xml
 USING XML FILE: .\FRE\French Darby 2006\SF_2009-06-06_FRE_JND_(FRENCH DARBY 2006).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\French Louis Segond\SF_2009-01-20_FRE_FREN_(FRENCH LOUIS SEGOND).xml
 USING XML FILE: .\FRE\King James Francais\SF_2010-10-10_FRE_KJF_(KING JAMES FRANÇAISE).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\La Bible Augustin Crampon 1923\SF_2009-01-20_FRE_CRAMP23_(LA BIBLE AUGUSTIN CRAMPON 1923).xml
 USING XML FILE: .\FRE\La Bible de Jerusalem\SF_2004-11-13_FRE_DEJER_(LA BIBLE DE JÉRUSALEM).xml
 USING XML FILE: .\FRE\La Bible de Saci 1759\SF_2010-09-05_FRE_SACC_(LA BIBLE DE SACI 1759).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\La Bible de Zadoc Khan\SF_2009-12-21_FRE_BZKH_(LA BIBLE DE ZADOC KHAN).xml
 USING XML FILE: .\FRE\La Bible J.F. Ostervald 1996\SF_2009-01-20_FRE_OSTV1996_(LA BIBLE JF OSTERVALD 1996).xml
 USING XML FILE: .\FRE\La Bible Machaira 2012\SF_2013-04-12_FRE_MACH2012_(LA BIBLE MACHAIRA).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\La Bible Ostervald 1877\SF_2013-04-19_FRE_BO1877_(OSTERVALD 1877).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\FRE\Sainte Bible Fillion\SF_2010-05-15_FRE_FILL_(LA BIBLE FILLION DE LOUIS CLAUDE FILLION).xml
 USING XML FILE: .\GAE\Gaelic Gospel of Mark\SF_2009-01-20_GAE_GAES_(GAELIC GOSPEL OF MARK).xml
 USING XML FILE: .\GER\Abraham Meister NT\SF_2009-01-20_GER_AMNT_(ABRAHAM MEISTER NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Albrecht Bibel 1926\SF_2009-01-20_GER_ALBRECHT1926_(ALBRECHT BIBEL 1926).xml
 USING XML FILE: .\GER\Alemannische Bibel NT\SF_2009-01-20_GER_ALMNT_(ALEMANNISCHE BIBEL NT).xml
 USING XML FILE: .\GER\Bengel NT\SF_2009-01-20_GER_BIBLE_GERBEN_(BENGEL NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Elberfelder\Elberfelder 1905\SF_2009-01-20_GER_ELB1905_(ELBERFELDER 1905).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Elberfelder\Elberfelder 1905\SF_2009-01-22_GER_ELB1905STR_(ELBERFELDER 1905).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\FreeBible2004\SF_2009-01-20_GER_FB2004_(FREEBIBLE2004).xml
 USING XML FILE: .\GER\Gruenewalder\SF_2009-01-20_GER_GB_(GRÜNEWALDER).xml
 USING XML FILE: .\GER\Interlinearuebersetzung\SF_2009-01-20_GER_ILGRDE_(INTERLINEARÜBERSETZUNG).xml
@@ -297,51 +213,37 @@ USING XML FILE: .\GER\Johannes Greber 1936 NT\SF_2009-01-20_GER_GREB_(JOHANNES G
 USING XML FILE: .\GER\Konkordantes NT\SF_2009-01-22_GER_KNT_(KONKORDANTES NT).xml
 USING XML FILE: .\GER\Leander van Ess\SF_2012-07-12_GER_VANESS_(LEANDER VAN ESS_REV2).xml
 USING XML FILE: .\GER\Lutherbibel\Luther 1545\SF_2009-01-20_GER_LUTH1545_(LUTHER 1545).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Lutherbibel\Luther 1545 (Letzte Hand)\SF_2009-01-20_GER_LUT_1545_LH_(LUTHER 1545 (LETZTE HAND)).xml
 USING XML FILE: .\GER\Lutherbibel\Luther 1545 (Letzte Hand)\SF_2012-08-14_DEUTSCH_LUT_1545_LH_(LUTHER 1545 (LETZTE HAND)).xml
 USING XML FILE: .\GER\Lutherbibel\Luther 1545 mit Strongs\SF_2009-01-20_GER_LUTH1545STR_(LUTHER 1545 MIT STRONGS).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Lutherbibel\Luther 1912\SF_2009-01-20_GER_LUTH1912_(LUTHER 1912).xml
 USING XML FILE: .\GER\Lutherbibel\Luther 1912 - mit Apokryphen\SF_2006-12-20_GER_LUTH1912AP_(LUTHER 1912 - MIT APOKRYPHEN).xml
 USING XML FILE: .\GER\Menge-Bibel\SF_2010-01-01_GER_MENG39_(MENGE-BIBEL).xml
 USING XML FILE: .\GER\Neue evangelistische Uebersetzung\SF_2009-01-20_GER_NEÜ_(NEUE EVANGELISTISCHE ÜBERSETZUNG).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Neue evangelistische Uebersetzung\SF_2010-06-10_GER_GERNEUE_(NEUE EVANGELISTISCHE ÜBERSETZUNG).xml
 USING XML FILE: .\GER\Neue evangelistische Uebersetzung\SF_2012-01-07_GER_GERNEUE_(NEUE EVANGELISTISCHE ÜBERSETZUNG).xml
 USING XML FILE: .\GER\Neue evangelistische Uebersetzung\SF_2014-02-25_GER_GERNEUE_(NEUE EVANGELISTISCHE ÜBERSETZUNG).xml
 USING XML FILE: .\GER\Neue evangelistische Uebersetzung\SF_2014-03-23_GER_GERNEUE_(NEUE EVANGELISTISCHE ÜBERSETZUNG).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Neue evangelistische Uebersetzung\SF_2014-09-30_GER_NEÜ_(NEUE EVANGELISTISCHE ÜBERSETZUNG (NEÜ)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Pattloch Bibel\SF_2009-01-20_GER_PAT80_(PATTLOCH BIBEL).xml
 USING XML FILE: .\GER\Pattloch Bibel\SF_2011-01-24_GER_PAT80_(PATTLOCH BIBEL).xml
 USING XML FILE: .\GER\Reinhardt 1910 Evangelien\SF_2009-01-20_GER_REI10EV_(REINHARDT 1910 EVANGELIEN).xml
 USING XML FILE: .\GER\Schlachterbibel\Schlachter 1951\SF_2009-01-20_GER_SCH1951_(SCHLACHTER 1951).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Schlachterbibel\Schlachter Bibel 1951 with Strong\SF_2009-01-20_GER_SCH1951_(SCHLACHTER BIBEL 1951 WITH STRONG).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GER\Tafelbibel\SF_2009-01-20_GER_TAF_(TAFELBIBEL).xml
 USING XML FILE: .\GER\Textbibel\SF_2009-01-20_GER_TEXTBIBELAT_(TEXTBIBEL).xml
 USING XML FILE: .\GER\Textbibel\SF_2009-04-06_GER_TB_(TEXTBIBEL).xml
@@ -352,15 +254,11 @@ USING XML FILE: .\GOT\Gothic Codex Ambrosianus A, and Manuscripts\SF_2009-01-23_
 USING XML FILE: .\GOT\Gothic Codices Ambrosianus B\SF_2009-01-23_GOT_GOTB_(GOTHIC CODICES AMBROSIANUS B).xml
 USING XML FILE: .\GRC\Antoniades Patriarchal Edition (1904-1912)\SF_2014-02-25_GRC_ANTONIADES_(ANTONIADES PATRIARCHAL EDITION (1904-1912)).xml
 USING XML FILE: .\GRC\Byzantine\Majority Text (2000)\SF_2009-01-20_GRC_BZY2000_(BYZANTINE MAJORITY TEXT (2000 PLUS STRONGS)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GRC\Byzantine\Majority Text (2000)\SF_2009-01-20_GRC_BZY2000_(BYZANTINE MAJORITY TEXT (2000)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GRC\Elzevir Textus Receptus (1624)\SF_2014-02-25_GRC_ELZEVIR_(ELZEVIR TEXTUS RECEPTUS (1624)).xml
 USING XML FILE: .\GRC\Family 35 group of Byzantine manuscripts\SF_2014-02-25_GRC_F35_(FAMILY 35).xml
 USING XML FILE: .\GRC\Greek New Testament\SF_2005-03-14_GRC_GNTV_(GREEK NEW TESTAMENT(VARIANTS)).xml
@@ -373,27 +271,19 @@ USING XML FILE: .\GRC\Robinson\Pierpont Byzantine Greek NT\SF_2009-01-20_GRC_GNT
 USING XML FILE: .\GRC\Septuaginta LXX\SF_2009-01-20_GRC_LXX_(SEPTUAGINTA LXX).xml
 USING XML FILE: .\GRC\Textus Receptus NT\Strongs Numbers\SF_2009-01-20_GRC_GNTTR_(TEXTUS RECEPTUS NT(STRONGS)).xml
 USING XML FILE: .\GRC\The Analytic Septuagint\SF_2009-01-20_GRC_ALXX_(THE ANALYTIC SEPTUAGINT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GRC\The New Testament in the Original Greek - Byzantine Textform 2005\SF_2014-02-25_GRC_BYZ_(THE NEW TESTAMENT IN THE ORIGINAL GREEK - BYZANTINE TEXTFORM 2005).xml
 USING XML FILE: .\GRC\Tischendorf Greek NT\SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF GREEK NT(STRONGS)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GRC\Tischendorf Greek NT\SF_2009-01-20_GRC_TISCHENDORF_(TISCHENDORF GREEK NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\GRC\Westcott-Hort Greek NT\Strongs Numbers\SF_2009-01-20_GRC_GNTWH_(WESTCOTT-HORT GREEK NEW TESTAMENT(STRONGS)).xml
 USING XML FILE: .\GRE\Tischendorf Greek NT\SF_2009-01-20_GRE_TISCHENDORF_(TISCHENDORF GREEK NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\HAT\Haitian Creole Version\SF_2009-01-20_HAT_HAT_(HAITIAN CREOLE VERSION).xml
 USING XML FILE: .\HEB\Aleppo Codex\SF_2009-01-22_HEB_ALEP_(ALEPPO CODEX).xml
 USING XML FILE: .\HEB\Biblia hebraica\SF_2009-01-20_HEB_BHS_(BIBLIA HEBRAICA).xml
@@ -407,20 +297,14 @@ USING XML FILE: .\HUN\Magyar Ujforditasu Biblia\SF_2005-03-10_HUN_HUNUJ_(MAGYAR 
 USING XML FILE: .\ITA\1649 Italian Giovanni Diodati Bibbia\SF_2009-01-23_ITA_ITADIO_(1649 ITALIAN GIOVANNI DIODATI BIBBIA).xml
 USING XML FILE: .\ITA\Italian Version\SF_2009-01-20_ITA_ITALIAN1_(ITALIAN VERSION).xml
 USING XML FILE: .\ITA\La Bibbia CEI 74\SF_2009-01-20_ITA_CEI74_(LA BIBBIA CEI 74).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ITA\La Nuova Diodati 1991\SF_2009-01-20_ITA_LND_1991_(LA NUOVA DIODATI 1991).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ITA\Riveduta 1990\SF_2009-01-20_ITA_IRV_1990_(RIVEDUTA 1990).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\KAB\Kabyle NT\SF_2009-01-20_KAB_KABNT_(KABYLE NT).xml
 USING XML FILE: .\KOR\Korean Version\SF_2009-01-20_KOR_KOR_(KOREAN VERSION).xml
 USING XML FILE: .\LAT\Biblia Sacra Vulgata\SF_2009-01-20_LAT_BIBLE_VULGATA_(BIBLIA SACRA VULGATA).xml
@@ -437,40 +321,28 @@ USING XML FILE: .\NL\Dutch Statenvertaling\SF_2009-01-20_NL_DUTV_(DUTCH STATENVE
 USING XML FILE: .\NOR\Norwegian Version\SF_2009-01-20_NOR_NOR_(NORWEGIAN VERSION).xml
 USING XML FILE: .\NOR\Studentmallagsbibelen 1921\SF_2012-01-27_NOR_NORSMB_(STUDENTMÅLLAGSBIBELEN FRÅ 1921).xml
 USING XML FILE: .\POL\Polska Biblia\SF_2009-01-20_POL_POLAND_(POLSKA BIBLIA).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\PON\PohnOld\SF_2015-02-27_PON_POHNOLD_(OLD PUBLIC DOMAIN POHNPEIAN BIBLE).xml
 USING XML FILE: .\POR\Portuguese Corrigida Fiel (1753\1995)\SF_2009-01-20_POR_ACF_(PORTUGUESE CORRIGIDA FIEL (1753_1995)).xml
 USING XML FILE: .\POR\Portuguese Version\SF_2009-01-20_POR_PORT_(PORTUGUESE VERSION).xml
 USING XML FILE: .\RUM\Cornilescu (1928)\SF_2013-11-20_RUM_RUC28_(CORNILESCU (1928)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\RUM\Orthographically Corrected Cornilescu Bible\SF_2013-09-09_RUM_RCCV_(ROMANIAN CORRECTED CORNILESCU BIBLE).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookShortName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 35.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 174.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+WARNING: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
 USING XML FILE: .\RUS\Makarij Translation (Pentateuch) (1825)\SF_2013-11-22_RUS_MP28_(MAKARIJ TRANSLATION (PENTATEUCH) (1825)).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\RUS\Russian New Testament Strongs\SF_2009-01-20_RUS_RUSVZH_(RUSSIAN NEW TESTAMENT STRONGS).xml
 USING XML FILE: .\RUS\Russian Synodal Translation\SF_2009-01-20_RUS_RST_(RUSSIAN SYNODAL TRANSLATION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\RUS\Russian Version\SF_2009-01-20_RUS_RUSSUB_(RUSSIAN VERSION).xml
 USING XML FILE: .\RUS\Ukrainian Version\SF_2009-01-23_RUS_UKRUB_(UKRAINIAN VERSION).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\SCR\Croatian Bible Version\SF_2009-01-23_SCR_CROAT_(CROATIAN BIBLE VERSION).xml
 USING XML FILE: .\SHU\Shuar NT\SF_2009-01-20_SHU_SHU_(SHUAR NT).xml
 USING XML FILE: .\SPA\Las Sagradas Escrituras\SF_2009-01-20_SPA_SEV_(LAS SAGRADAS ESCRITURAS).xml
@@ -484,31 +356,21 @@ USING XML FILE: .\TGL\Ang Dating Biblia\SF_2009-01-20_TGL_TLGANGBIBLIA_(ANG DATI
 USING XML FILE: .\THA\KJV-Thai\SF_2009-01-20_THA_KJVTHAI_(KJV-THAI).xml
 USING XML FILE: .\TUR\Southern Azeri Translation\SF_2012-01-07_AZB_AZERI_(DESCRIPTION_EN=SOUTHERN AZERI TRANSLATION).xml
 USING XML FILE: .\TUR\Turkish\SF_2004-07-28_TUR_BB31_(TURKISH).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\UND\Uma Version\SF_2009-01-20_UND_UMA_(UMA VERSION).xml
 USING XML FILE: .\VIE\New Vietnamese Bible (2002)\SF_2009-03-11_VIE_VIETNVB_(NEW VIETNAMESE BIBLE (2002)).xml
 USING XML FILE: .\VIE\Vietnamese Version\SF_2009-01-20_VIE_VIE_(VIETNAMESE VERSION).xml
 USING XML FILE: .\WIU\SF_2014-05-12_WIU_WITNT_(THE NEW TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\XKL\Klingon Version\SF_2009-01-22_XKL_KLINGON_(KLINGON VERSION).xml
 USING XML FILE: .\YBY\SF_2014-05-12_YBY_YAWNT_(THE NEW TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\YUW\SF_2014-05-06_YUW_NTYAU_(THE NEW TESTAMENT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
 USING XML FILE: .\ZIA\SF_2014-04-22_ZIA_ZIANT_(ZIA NT).xml
-WARNING: System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
-   bei KoheletNetwork.ZefaniaXmlBook.get_BookName() in C:\Users\bible\Documents\GitHub\zefania-xml-data\ZefaniaXmlBook.vb:Zeile 25.
-   bei KoheletNetwork.MainModule.ExportBibleBookNames(String exportCsvFilePath, ZefaniaXmlBible bible) in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 173.
-   bei KoheletNetwork.MainModule.Main() in C:\Users\bible\Documents\GitHub\jewishbible-tools\0110_RegisterZefaniaXmlFiles\Main.vb:Zeile 122.
+WARNING: BookName attribute "bname" not found
+WARNING: BookName attribute "bname" not found
